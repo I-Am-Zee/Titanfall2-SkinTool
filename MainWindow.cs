@@ -381,5 +381,16 @@ namespace Titanfall2_SkinTool
                 return false;
             }
         }
+
+        private void MainWindow_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void legendPackMakerStripMenuItem_Click(object sender, EventArgs e)
+        {
+            LegendSkinPackMakerWindow window = new LegendSkinPackMakerWindow(SelectedGame);
+            window.ShowDialog();
+        }
     }
 }

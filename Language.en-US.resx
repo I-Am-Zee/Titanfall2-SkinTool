@@ -394,4 +394,37 @@
     <value>Here's a bug.
 Please report to the author,thx!</value>
   </data>
+  <data name="Items100" xml:space="preserve">
+    <value>Bloodhound</value>
+  </data>
+  <data name="Items101" xml:space="preserve">
+    <value>Gibraltar</value>
+  </data>
+  <data name="Items102" xml:space="preserve">
+    <value>Lifeline</value>
+  </data>
+  <data name="Items103" xml:space="preserve">
+    <value>Pathfinder</value>
+  </data>
+  <data name="Items104" xml:space="preserve">
+    <value>Wraith</value>
+  </data>
+  <data name="Items105" xml:space="preserve">
+    <value>Bangalore</value>
+  </data>
+  <data name="Items106" xml:space="preserve">
+    <value>Caustic</value>
+  </data>
+  <data name="Items107" xml:space="preserve">
+    <value>Mirage</value>
+  </data>
+  <data name="Items108" xml:space="preserve">
+    <value>Octane</value>
+  </data>
+  <data name="Items109" xml:space="preserve">
+    <value>Wattson</value>
+  </data>
+  <data name="Items110" xml:space="preserve">
+    <value>Crypto</value>
+  </data>
 </root>

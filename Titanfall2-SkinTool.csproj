@@ -29,6 +29,11 @@
     <ApplicationIcon>bitbug_favicon.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Remove="APEX\LegendData - Copy\**" />
+    <EmbeddedResource Remove="APEX\LegendData - Copy\**" />
+    <None Remove="APEX\LegendData - Copy\**" />
+  </ItemGroup>
+  <ItemGroup>
     <Content Include="bitbug_favicon.ico" />
     <Content Include="MediaResources\texture_not_available.png" />
   </ItemGroup>
@@ -59,11 +64,17 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
+    <Compile Update="LegendSkinPackMakerWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Update="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="APEX\LegendData\" />
   </ItemGroup>
 </Project>

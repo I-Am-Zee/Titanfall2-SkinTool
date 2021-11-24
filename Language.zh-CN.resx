@@ -394,4 +394,37 @@
     <value>程序在这里有一个错误；
 请反馈给作者，谢谢！</value>
   </data>
+  <data name="110" xml:space="preserve">
+    <value>Bloodhound2</value>
+  </data>
+  <data name="111" xml:space="preserve">
+    <value>Gibraltar2</value>
+  </data>
+  <data name="112" xml:space="preserve">
+    <value>Lifeline2</value>
+  </data>
+  <data name="113" xml:space="preserve">
+    <value>Pathfinder2</value>
+  </data>
+  <data name="114" xml:space="preserve">
+    <value>Wraith2</value>
+  </data>
+  <data name="115" xml:space="preserve">
+    <value>Bangalore2</value>
+  </data>
+  <data name="116" xml:space="preserve">
+    <value>Caustic2</value>
+  </data>
+  <data name="117" xml:space="preserve">
+    <value>Mirage2</value>
+  </data>
+  <data name="118" xml:space="preserve">
+    <value>Octane2</value>
+  </data>
+  <data name="119" xml:space="preserve">
+    <value>Wattson2</value>
+  </data>
+  <data name="120" xml:space="preserve">
+    <value>Crypto2</value>
+  </data>
 </root>

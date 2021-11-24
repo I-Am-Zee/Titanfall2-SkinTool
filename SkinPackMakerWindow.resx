@@ -57,30 +57,30 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="colorPictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>9, 29</value>
+  <assembly alias="System.Drawing.Primitives" name="System.Drawing.Primitives, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="colorPictureBox.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>7, 22</value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="colorPictureBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 4, 5, 4</value>
+  <assembly alias="System.Windows.Forms.Primitives" name="System.Windows.Forms.Primitives, Version=5.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="colorPictureBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 3, 4, 3</value>
   </data>
-  <data name="colorPictureBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>191, 195</value>
+  <data name="colorPictureBox.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>149, 147</value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=5.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="colorPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="colorPictureBox.TabIndex" type="System.Int32, mscorlib">
+  <assembly alias="System.Private.CoreLib" name="System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e" />
+  <data name="colorPictureBox.TabIndex" type="System.Int32, System.Private.CoreLib">
     <value>0</value>
   </data>
   <data name="&gt;&gt;colorPictureBox.Name" xml:space="preserve">
     <value>colorPictureBox</value>
   </data>
   <data name="&gt;&gt;colorPictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=5.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;colorPictureBox.Parent" xml:space="preserve">
     <value>texturesSetGroup</value>
@@ -91,26 +91,26 @@
   <data name="normalPictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="normalPictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>612, 29</value>
+  <data name="normalPictureBox.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>476, 22</value>
   </data>
-  <data name="normalPictureBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 4, 5, 4</value>
+  <data name="normalPictureBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 3, 4, 3</value>
   </data>
-  <data name="normalPictureBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>191, 195</value>
+  <data name="normalPictureBox.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>149, 147</value>
   </data>
   <data name="normalPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="normalPictureBox.TabIndex" type="System.Int32, mscorlib">
+  <data name="normalPictureBox.TabIndex" type="System.Int32, System.Private.CoreLib">
     <value>0</value>
   </data>
   <data name="&gt;&gt;normalPictureBox.Name" xml:space="preserve">
     <value>normalPictureBox</value>
   </data>
   <data name="&gt;&gt;normalPictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=5.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;normalPictureBox.Parent" xml:space="preserve">
     <value>texturesSetGroup</value>
@@ -121,26 +121,26 @@
   <data name="glossinessPictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="glossinessPictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>411, 29</value>
+  <data name="glossinessPictureBox.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>320, 22</value>
   </data>
-  <data name="glossinessPictureBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 4, 5, 4</value>
+  <data name="glossinessPictureBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 3, 4, 3</value>
   </data>
-  <data name="glossinessPictureBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>191, 195</value>
+  <data name="glossinessPictureBox.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>149, 147</value>
   </data>
   <data name="glossinessPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="glossinessPictureBox.TabIndex" type="System.Int32, mscorlib">
+  <data name="glossinessPictureBox.TabIndex" type="System.Int32, System.Private.CoreLib">
     <value>0</value>
   </data>
   <data name="&gt;&gt;glossinessPictureBox.Name" xml:space="preserve">
     <value>glossinessPictureBox</value>
   </data>
   <data name="&gt;&gt;glossinessPictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=5.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;glossinessPictureBox.Parent" xml:space="preserve">
     <value>texturesSetGroup</value>
@@ -151,26 +151,26 @@
   <data name="specularPictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="specularPictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>210, 29</value>
+  <data name="specularPictureBox.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>163, 22</value>
   </data>
-  <data name="specularPictureBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 4, 5, 4</value>
+  <data name="specularPictureBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 3, 4, 3</value>
   </data>
-  <data name="specularPictureBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>191, 195</value>
+  <data name="specularPictureBox.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>149, 147</value>
   </data>
   <data name="specularPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="specularPictureBox.TabIndex" type="System.Int32, mscorlib">
+  <data name="specularPictureBox.TabIndex" type="System.Int32, System.Private.CoreLib">
     <value>0</value>
   </data>
   <data name="&gt;&gt;specularPictureBox.Name" xml:space="preserve">
     <value>specularPictureBox</value>
   </data>
   <data name="&gt;&gt;specularPictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=5.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;specularPictureBox.Parent" xml:space="preserve">
     <value>texturesSetGroup</value>
@@ -178,19 +178,19 @@
   <data name="&gt;&gt;specularPictureBox.ZOrder" xml:space="preserve">
     <value>13</value>
   </data>
-  <data name="normalLabel.AutoSize" type="System.Boolean, mscorlib">
+  <data name="normalLabel.AutoSize" type="System.Boolean, System.Private.CoreLib">
     <value>True</value>
   </data>
-  <data name="normalLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>678, 237</value>
+  <data name="normalLabel.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>527, 178</value>
   </data>
-  <data name="normalLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 0, 5, 0</value>
+  <data name="normalLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 0, 4, 0</value>
   </data>
-  <data name="normalLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>63, 20</value>
+  <data name="normalLabel.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>47, 15</value>
   </data>
-  <data name="normalLabel.TabIndex" type="System.Int32, mscorlib">
+  <data name="normalLabel.TabIndex" type="System.Int32, System.Private.CoreLib">
     <value>3</value>
   </data>
   <data name="normalLabel.Text" xml:space="preserve">
@@ -200,7 +200,7 @@
     <value>normalLabel</value>
   </data>
   <data name="&gt;&gt;normalLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=5.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;normalLabel.Parent" xml:space="preserve">
     <value>texturesSetGroup</value>
@@ -208,22 +208,22 @@
   <data name="&gt;&gt;normalLabel.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="glossinessLabel.AutoSize" type="System.Boolean, mscorlib">
+  <data name="glossinessLabel.AutoSize" type="System.Boolean, System.Private.CoreLib">
     <value>True</value>
   </data>
   <data name="glossinessLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="glossinessLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>465, 237</value>
+  <data name="glossinessLabel.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>362, 178</value>
   </data>
-  <data name="glossinessLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 0, 5, 0</value>
+  <data name="glossinessLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 0, 4, 0</value>
   </data>
-  <data name="glossinessLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>84, 20</value>
+  <data name="glossinessLabel.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>61, 15</value>
   </data>
-  <data name="glossinessLabel.TabIndex" type="System.Int32, mscorlib">
+  <data name="glossinessLabel.TabIndex" type="System.Int32, System.Private.CoreLib">
     <value>2</value>
   </data>
   <data name="glossinessLabel.Text" xml:space="preserve">
@@ -233,7 +233,7 @@
     <value>glossinessLabel</value>
   </data>
   <data name="&gt;&gt;glossinessLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=5.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;glossinessLabel.Parent" xml:space="preserve">
     <value>texturesSetGroup</value>
@@ -241,19 +241,19 @@
   <data name="&gt;&gt;glossinessLabel.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="specularLabel.AutoSize" type="System.Boolean, mscorlib">
+  <data name="specularLabel.AutoSize" type="System.Boolean, System.Private.CoreLib">
     <value>True</value>
   </data>
-  <data name="specularLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>270, 237</value>
+  <data name="specularLabel.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>210, 178</value>
   </data>
-  <data name="specularLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 0, 5, 0</value>
+  <data name="specularLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 0, 4, 0</value>
   </data>
-  <data name="specularLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>72, 20</value>
+  <data name="specularLabel.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>52, 15</value>
   </data>
-  <data name="specularLabel.TabIndex" type="System.Int32, mscorlib">
+  <data name="specularLabel.TabIndex" type="System.Int32, System.Private.CoreLib">
     <value>2</value>
   </data>
   <data name="specularLabel.Text" xml:space="preserve">
@@ -263,7 +263,7 @@
     <value>specularLabel</value>
   </data>
   <data name="&gt;&gt;specularLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=5.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;specularLabel.Parent" xml:space="preserve">
     <value>texturesSetGroup</value>
@@ -271,22 +271,22 @@
   <data name="&gt;&gt;specularLabel.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="illuminationLabel.AutoSize" type="System.Boolean, mscorlib">
+  <data name="illuminationLabel.AutoSize" type="System.Boolean, System.Private.CoreLib">
     <value>True</value>
   </data>
   <data name="illuminationLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="illuminationLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>566, 484</value>
+  <data name="illuminationLabel.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>440, 363</value>
   </data>
-  <data name="illuminationLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 0, 5, 0</value>
+  <data name="illuminationLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 0, 4, 0</value>
   </data>
-  <data name="illuminationLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>79, 20</value>
+  <data name="illuminationLabel.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>60, 15</value>
   </data>
-  <data name="illuminationLabel.TabIndex" type="System.Int32, mscorlib">
+  <data name="illuminationLabel.TabIndex" type="System.Int32, System.Private.CoreLib">
     <value>1</value>
   </data>
   <data name="illuminationLabel.Text" xml:space="preserve">
@@ -296,7 +296,7 @@
     <value>illuminationLabel</value>
   </data>
   <data name="&gt;&gt;illuminationLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=5.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;illuminationLabel.Parent" xml:space="preserve">
     <value>texturesSetGroup</value>
@@ -304,22 +304,22 @@
   <data name="&gt;&gt;illuminationLabel.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <data name="cavityLabel.AutoSize" type="System.Boolean, mscorlib">
+  <data name="cavityLabel.AutoSize" type="System.Boolean, System.Private.CoreLib">
     <value>True</value>
   </data>
   <data name="cavityLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="cavityLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>377, 484</value>
+  <data name="cavityLabel.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>293, 363</value>
   </data>
-  <data name="cavityLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 0, 5, 0</value>
+  <data name="cavityLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 0, 4, 0</value>
   </data>
-  <data name="cavityLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>53, 20</value>
+  <data name="cavityLabel.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>40, 15</value>
   </data>
-  <data name="cavityLabel.TabIndex" type="System.Int32, mscorlib">
+  <data name="cavityLabel.TabIndex" type="System.Int32, System.Private.CoreLib">
     <value>1</value>
   </data>
   <data name="cavityLabel.Text" xml:space="preserve">
@@ -329,7 +329,7 @@
     <value>cavityLabel</value>
   </data>
   <data name="&gt;&gt;cavityLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=5.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;cavityLabel.Parent" xml:space="preserve">
     <value>texturesSetGroup</value>
@@ -337,22 +337,22 @@
   <data name="&gt;&gt;cavityLabel.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
-  <data name="aoLabel.AutoSize" type="System.Boolean, mscorlib">
+  <data name="aoLabel.AutoSize" type="System.Boolean, System.Private.CoreLib">
     <value>True</value>
   </data>
   <data name="aoLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="aoLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>186, 484</value>
+  <data name="aoLabel.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>145, 363</value>
   </data>
-  <data name="aoLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 0, 5, 0</value>
+  <data name="aoLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 0, 4, 0</value>
   </data>
-  <data name="aoLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>32, 20</value>
+  <data name="aoLabel.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>24, 15</value>
   </data>
-  <data name="aoLabel.TabIndex" type="System.Int32, mscorlib">
+  <data name="aoLabel.TabIndex" type="System.Int32, System.Private.CoreLib">
     <value>1</value>
   </data>
   <data name="aoLabel.Text" xml:space="preserve">
@@ -362,7 +362,7 @@
     <value>aoLabel</value>
   </data>
   <data name="&gt;&gt;aoLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=5.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;aoLabel.Parent" xml:space="preserve">
     <value>texturesSetGroup</value>
@@ -370,19 +370,19 @@
   <data name="&gt;&gt;aoLabel.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
-  <data name="colorLabel.AutoSize" type="System.Boolean, mscorlib">
+  <data name="colorLabel.AutoSize" type="System.Boolean, System.Private.CoreLib">
     <value>True</value>
   </data>
-  <data name="colorLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>82, 237</value>
+  <data name="colorLabel.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>64, 178</value>
   </data>
-  <data name="colorLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 0, 5, 0</value>
+  <data name="colorLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 0, 4, 0</value>
   </data>
-  <data name="colorLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 20</value>
+  <data name="colorLabel.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>36, 15</value>
   </data>
-  <data name="colorLabel.TabIndex" type="System.Int32, mscorlib">
+  <data name="colorLabel.TabIndex" type="System.Int32, System.Private.CoreLib">
     <value>1</value>
   </data>
   <data name="colorLabel.Text" xml:space="preserve">
@@ -392,7 +392,7 @@
     <value>colorLabel</value>
   </data>
   <data name="&gt;&gt;colorLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=5.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;colorLabel.Parent" xml:space="preserve">
     <value>texturesSetGroup</value>
@@ -403,26 +403,26 @@
   <data name="illuminationPictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="illuminationPictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>509, 277</value>
+  <data name="illuminationPictureBox.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>396, 208</value>
   </data>
-  <data name="illuminationPictureBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 4, 5, 4</value>
+  <data name="illuminationPictureBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 3, 4, 3</value>
   </data>
-  <data name="illuminationPictureBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>191, 195</value>
+  <data name="illuminationPictureBox.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>149, 147</value>
   </data>
   <data name="illuminationPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="illuminationPictureBox.TabIndex" type="System.Int32, mscorlib">
+  <data name="illuminationPictureBox.TabIndex" type="System.Int32, System.Private.CoreLib">
     <value>0</value>
   </data>
   <data name="&gt;&gt;illuminationPictureBox.Name" xml:space="preserve">
     <value>illuminationPictureBox</value>
   </data>
   <data name="&gt;&gt;illuminationPictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=5.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;illuminationPictureBox.Parent" xml:space="preserve">
     <value>texturesSetGroup</value>
@@ -433,26 +433,26 @@
   <data name="cavityPictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="cavityPictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>307, 277</value>
+  <data name="cavityPictureBox.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>239, 208</value>
   </data>
-  <data name="cavityPictureBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 4, 5, 4</value>
+  <data name="cavityPictureBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 3, 4, 3</value>
   </data>
-  <data name="cavityPictureBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>191, 195</value>
+  <data name="cavityPictureBox.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>149, 147</value>
   </data>
   <data name="cavityPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="cavityPictureBox.TabIndex" type="System.Int32, mscorlib">
+  <data name="cavityPictureBox.TabIndex" type="System.Int32, System.Private.CoreLib">
     <value>0</value>
   </data>
   <data name="&gt;&gt;cavityPictureBox.Name" xml:space="preserve">
     <value>cavityPictureBox</value>
   </data>
   <data name="&gt;&gt;cavityPictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=5.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;cavityPictureBox.Parent" xml:space="preserve">
     <value>texturesSetGroup</value>
@@ -463,26 +463,26 @@
   <data name="aoPictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="aoPictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>107, 277</value>
+  <data name="aoPictureBox.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>83, 208</value>
   </data>
-  <data name="aoPictureBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 4, 5, 4</value>
+  <data name="aoPictureBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 3, 4, 3</value>
   </data>
-  <data name="aoPictureBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>191, 195</value>
+  <data name="aoPictureBox.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>149, 147</value>
   </data>
   <data name="aoPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="aoPictureBox.TabIndex" type="System.Int32, mscorlib">
+  <data name="aoPictureBox.TabIndex" type="System.Int32, System.Private.CoreLib">
     <value>0</value>
   </data>
   <data name="&gt;&gt;aoPictureBox.Name" xml:space="preserve">
     <value>aoPictureBox</value>
   </data>
   <data name="&gt;&gt;aoPictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=5.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;aoPictureBox.Parent" xml:space="preserve">
     <value>texturesSetGroup</value>
@@ -490,19 +490,19 @@
   <data name="&gt;&gt;aoPictureBox.ZOrder" xml:space="preserve">
     <value>9</value>
   </data>
-  <data name="texturesSetGroup.Location" type="System.Drawing.Point, System.Drawing">
-    <value>18, 248</value>
+  <data name="texturesSetGroup.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>13, 188</value>
   </data>
-  <data name="texturesSetGroup.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 4, 5, 4</value>
+  <data name="texturesSetGroup.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 3, 4, 3</value>
   </data>
-  <data name="texturesSetGroup.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 4, 5, 4</value>
+  <data name="texturesSetGroup.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 3, 4, 3</value>
   </data>
-  <data name="texturesSetGroup.Size" type="System.Drawing.Size, System.Drawing">
-    <value>816, 516</value>
+  <data name="texturesSetGroup.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>635, 387</value>
   </data>
-  <data name="texturesSetGroup.TabIndex" type="System.Int32, mscorlib">
+  <data name="texturesSetGroup.TabIndex" type="System.Int32, System.Private.CoreLib">
     <value>4</value>
   </data>
   <data name="texturesSetGroup.Text" xml:space="preserve">
@@ -512,7 +512,7 @@
     <value>texturesSetGroup</value>
   </data>
   <data name="&gt;&gt;texturesSetGroup.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=5.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;texturesSetGroup.Parent" xml:space="preserve">
     <value>$this</value>
@@ -520,23 +520,23 @@
   <data name="&gt;&gt;texturesSetGroup.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="assetTypeComboBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>107, 88</value>
+  <data name="assetTypeComboBox.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>83, 66</value>
   </data>
-  <data name="assetTypeComboBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 4, 5, 4</value>
+  <data name="assetTypeComboBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 3, 4, 3</value>
   </data>
-  <data name="assetTypeComboBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>696, 28</value>
+  <data name="assetTypeComboBox.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>542, 23</value>
   </data>
-  <data name="assetTypeComboBox.TabIndex" type="System.Int32, mscorlib">
+  <data name="assetTypeComboBox.TabIndex" type="System.Int32, System.Private.CoreLib">
     <value>1</value>
   </data>
   <data name="&gt;&gt;assetTypeComboBox.Name" xml:space="preserve">
     <value>assetTypeComboBox</value>
   </data>
   <data name="&gt;&gt;assetTypeComboBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=5.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;assetTypeComboBox.Parent" xml:space="preserve">
     <value>generalInfoGroup</value>
@@ -544,19 +544,20 @@
   <data name="&gt;&gt;assetTypeComboBox.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="openSkinPackPathSelectButton.Font" type="System.Drawing.Font, System.Drawing">
+  <assembly alias="System.Drawing.Common" name="System.Drawing.Common, Version=5.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51" />
+  <data name="openSkinPackPathSelectButton.Font" type="System.Drawing.Font, System.Drawing.Common">
     <value>Microsoft Sans Serif, 8.2pt</value>
   </data>
-  <data name="openSkinPackPathSelectButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>746, 139</value>
+  <data name="openSkinPackPathSelectButton.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>580, 104</value>
   </data>
-  <data name="openSkinPackPathSelectButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 4, 5, 4</value>
+  <data name="openSkinPackPathSelectButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 3, 4, 3</value>
   </data>
-  <data name="openSkinPackPathSelectButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>62, 31</value>
+  <data name="openSkinPackPathSelectButton.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>48, 23</value>
   </data>
-  <data name="openSkinPackPathSelectButton.TabIndex" type="System.Int32, mscorlib">
+  <data name="openSkinPackPathSelectButton.TabIndex" type="System.Int32, System.Private.CoreLib">
     <value>3</value>
   </data>
   <data name="openSkinPackPathSelectButton.Text" xml:space="preserve">
@@ -566,7 +567,7 @@
     <value>openSkinPackPathSelectButton</value>
   </data>
   <data name="&gt;&gt;openSkinPackPathSelectButton.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=5.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;openSkinPackPathSelectButton.Parent" xml:space="preserve">
     <value>generalInfoGroup</value>
@@ -574,23 +575,23 @@
   <data name="&gt;&gt;openSkinPackPathSelectButton.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="skinPackPathTextBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>107, 139</value>
+  <data name="skinPackPathTextBox.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>83, 104</value>
   </data>
-  <data name="skinPackPathTextBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 4, 5, 4</value>
+  <data name="skinPackPathTextBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 3, 4, 3</value>
   </data>
-  <data name="skinPackPathTextBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>628, 27</value>
+  <data name="skinPackPathTextBox.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>489, 23</value>
   </data>
-  <data name="skinPackPathTextBox.TabIndex" type="System.Int32, mscorlib">
+  <data name="skinPackPathTextBox.TabIndex" type="System.Int32, System.Private.CoreLib">
     <value>3</value>
   </data>
   <data name="&gt;&gt;skinPackPathTextBox.Name" xml:space="preserve">
     <value>skinPackPathTextBox</value>
   </data>
   <data name="&gt;&gt;skinPackPathTextBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=5.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;skinPackPathTextBox.Parent" xml:space="preserve">
     <value>generalInfoGroup</value>
@@ -598,23 +599,23 @@
   <data name="&gt;&gt;skinPackPathTextBox.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="skinNameTextBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>107, 36</value>
+  <data name="skinNameTextBox.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>83, 27</value>
   </data>
-  <data name="skinNameTextBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 4, 5, 4</value>
+  <data name="skinNameTextBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 3, 4, 3</value>
   </data>
-  <data name="skinNameTextBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>698, 27</value>
+  <data name="skinNameTextBox.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>544, 23</value>
   </data>
-  <data name="skinNameTextBox.TabIndex" type="System.Int32, mscorlib">
+  <data name="skinNameTextBox.TabIndex" type="System.Int32, System.Private.CoreLib">
     <value>0</value>
   </data>
   <data name="&gt;&gt;skinNameTextBox.Name" xml:space="preserve">
     <value>skinNameTextBox</value>
   </data>
   <data name="&gt;&gt;skinNameTextBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=5.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;skinNameTextBox.Parent" xml:space="preserve">
     <value>generalInfoGroup</value>
@@ -622,22 +623,22 @@
   <data name="&gt;&gt;skinNameTextBox.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <data name="assetTypeLabel.AutoSize" type="System.Boolean, mscorlib">
+  <data name="assetTypeLabel.AutoSize" type="System.Boolean, System.Private.CoreLib">
     <value>True</value>
   </data>
   <data name="assetTypeLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="assetTypeLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>9, 92</value>
+  <data name="assetTypeLabel.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>8, 69</value>
   </data>
-  <data name="assetTypeLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 0, 5, 0</value>
+  <data name="assetTypeLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 0, 4, 0</value>
   </data>
-  <data name="assetTypeLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>89, 20</value>
+  <data name="assetTypeLabel.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>62, 15</value>
   </data>
-  <data name="assetTypeLabel.TabIndex" type="System.Int32, mscorlib">
+  <data name="assetTypeLabel.TabIndex" type="System.Int32, System.Private.CoreLib">
     <value>1</value>
   </data>
   <data name="assetTypeLabel.Text" xml:space="preserve">
@@ -647,7 +648,7 @@
     <value>assetTypeLabel</value>
   </data>
   <data name="&gt;&gt;assetTypeLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=5.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;assetTypeLabel.Parent" xml:space="preserve">
     <value>generalInfoGroup</value>
@@ -655,19 +656,19 @@
   <data name="&gt;&gt;assetTypeLabel.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
-  <data name="savePathLabel.AutoSize" type="System.Boolean, mscorlib">
+  <data name="savePathLabel.AutoSize" type="System.Boolean, System.Private.CoreLib">
     <value>True</value>
   </data>
-  <data name="savePathLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>13, 144</value>
+  <data name="savePathLabel.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>10, 108</value>
   </data>
-  <data name="savePathLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 0, 5, 0</value>
+  <data name="savePathLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 0, 4, 0</value>
   </data>
-  <data name="savePathLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>79, 20</value>
+  <data name="savePathLabel.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>58, 15</value>
   </data>
-  <data name="savePathLabel.TabIndex" type="System.Int32, mscorlib">
+  <data name="savePathLabel.TabIndex" type="System.Int32, System.Private.CoreLib">
     <value>1</value>
   </data>
   <data name="savePathLabel.Text" xml:space="preserve">
@@ -677,7 +678,7 @@
     <value>savePathLabel</value>
   </data>
   <data name="&gt;&gt;savePathLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=5.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;savePathLabel.Parent" xml:space="preserve">
     <value>generalInfoGroup</value>
@@ -685,19 +686,19 @@
   <data name="&gt;&gt;savePathLabel.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
-  <data name="skinNameLabel.AutoSize" type="System.Boolean, mscorlib">
+  <data name="skinNameLabel.AutoSize" type="System.Boolean, System.Private.CoreLib">
     <value>True</value>
   </data>
-  <data name="skinNameLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>9, 40</value>
+  <data name="skinNameLabel.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>7, 30</value>
   </data>
-  <data name="skinNameLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 0, 5, 0</value>
+  <data name="skinNameLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 0, 4, 0</value>
   </data>
-  <data name="skinNameLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>86, 20</value>
+  <data name="skinNameLabel.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>64, 15</value>
   </data>
-  <data name="skinNameLabel.TabIndex" type="System.Int32, mscorlib">
+  <data name="skinNameLabel.TabIndex" type="System.Int32, System.Private.CoreLib">
     <value>0</value>
   </data>
   <data name="skinNameLabel.Text" xml:space="preserve">
@@ -707,7 +708,7 @@
     <value>skinNameLabel</value>
   </data>
   <data name="&gt;&gt;skinNameLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=5.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;skinNameLabel.Parent" xml:space="preserve">
     <value>generalInfoGroup</value>
@@ -715,19 +716,19 @@
   <data name="&gt;&gt;skinNameLabel.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
-  <data name="generalInfoGroup.Location" type="System.Drawing.Point, System.Drawing">
-    <value>18, 40</value>
+  <data name="generalInfoGroup.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>13, 21</value>
   </data>
-  <data name="generalInfoGroup.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 4, 5, 4</value>
+  <data name="generalInfoGroup.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 3, 4, 3</value>
   </data>
-  <data name="generalInfoGroup.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 4, 5, 4</value>
+  <data name="generalInfoGroup.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 3, 4, 3</value>
   </data>
-  <data name="generalInfoGroup.Size" type="System.Drawing.Size, System.Drawing">
-    <value>816, 199</value>
+  <data name="generalInfoGroup.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>635, 149</value>
   </data>
-  <data name="generalInfoGroup.TabIndex" type="System.Int32, mscorlib">
+  <data name="generalInfoGroup.TabIndex" type="System.Int32, System.Private.CoreLib">
     <value>2</value>
   </data>
   <data name="generalInfoGroup.Text" xml:space="preserve">
@@ -737,7 +738,7 @@
     <value>generalInfoGroup</value>
   </data>
   <data name="&gt;&gt;generalInfoGroup.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=5.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;generalInfoGroup.Parent" xml:space="preserve">
     <value>$this</value>
@@ -745,22 +746,19 @@
   <data name="&gt;&gt;generalInfoGroup.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <metadata name="skinPackPathDialogue.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
-  <data name="generateSkinPackButton.Font" type="System.Drawing.Font, System.Drawing">
+  <data name="generateSkinPackButton.Font" type="System.Drawing.Font, System.Drawing.Common">
     <value>Microsoft Sans Serif, 16pt, style=Bold</value>
   </data>
-  <data name="generateSkinPackButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>18, 784</value>
+  <data name="generateSkinPackButton.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>13, 590</value>
   </data>
-  <data name="generateSkinPackButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 4, 5, 4</value>
+  <data name="generateSkinPackButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 3, 4, 3</value>
   </data>
-  <data name="generateSkinPackButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>816, 128</value>
+  <data name="generateSkinPackButton.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>635, 96</value>
   </data>
-  <data name="generateSkinPackButton.TabIndex" type="System.Int32, mscorlib">
+  <data name="generateSkinPackButton.TabIndex" type="System.Int32, System.Private.CoreLib">
     <value>3</value>
   </data>
   <data name="generateSkinPackButton.Text" xml:space="preserve">
@@ -770,7 +768,7 @@
     <value>generateSkinPackButton</value>
   </data>
   <data name="&gt;&gt;generateSkinPackButton.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=5.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;generateSkinPackButton.Parent" xml:space="preserve">
     <value>$this</value>
@@ -778,31 +776,31 @@
   <data name="&gt;&gt;generateSkinPackButton.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <metadata name="$this.Localizable" type="System.Boolean, System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
     <value>True</value>
   </metadata>
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>9, 20</value>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing.Primitives">
+    <value>7, 15</value>
   </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>856, 931</value>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>665, 698</value>
   </data>
-  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 4, 5, 4</value>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 3, 4, 3</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>SkinPackMaker</value>
+    <value>LegendSkinPackMaker</value>
   </data>
   <data name="&gt;&gt;skinPackPathDialogue.Name" xml:space="preserve">
     <value>skinPackPathDialogue</value>
   </data>
   <data name="&gt;&gt;skinPackPathDialogue.Type" xml:space="preserve">
-    <value>System.Windows.Forms.FolderBrowserDialog, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.FolderBrowserDialog, System.Windows.Forms, Version=5.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>SkinPackMakerWindow</value>
   </data>
   <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=5.0.5.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>
