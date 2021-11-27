@@ -11,6 +11,18 @@ namespace Titanfall2_SkinTool.APEX.LegendData
         public string[,] FilePath = new string[1, 4];
         //col，nml，gls，spc，ilm，ao，cav
         //2为2048x2048,1为1024x1024,0为512x512
+
+        private void ConvertData(string name, long seek, int length, int seeklength)
+        {
+            int i = 0;
+            FilePath[0, i] = name;
+            i++;
+            FilePath[0, i] = Convert.ToString(seek);
+            i++;
+            FilePath[0, i] = Convert.ToString(length);
+            i++;
+            FilePath[0, i] = Convert.ToString(seeklength);
+        }
         public LegendDataControl(string LegendName, int imagecheck)
         {
             string s = LegendName;
@@ -35,80 +47,31 @@ namespace Titanfall2_SkinTool.APEX.LegendData
                         //col，nml，gls，spc，ilm，ao，cav
                         if (str.Contains("col"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattgear.WattsonGear_col[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattgear.WattsonGear_col[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattgear.WattsonGear_col[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattgear.WattsonGear_col[imagecheck].seeklength);
+                            ConvertData(wattgear.WattsonGear_col[imagecheck].name, wattgear.WattsonGear_col[imagecheck].seek, wattgear.WattsonGear_col[imagecheck].length, wattgear.WattsonGear_col[imagecheck].seeklength);
                         }
                         if (str.Contains("nml"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattgear.WattsonGear_nml[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattgear.WattsonGear_nml[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattgear.WattsonGear_nml[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattgear.WattsonGear_nml[imagecheck].seeklength);
+                            ConvertData(wattgear.WattsonGear_nml[imagecheck].name, wattgear.WattsonGear_nml[imagecheck].seek, wattgear.WattsonGear_nml[imagecheck].length, wattgear.WattsonGear_nml[imagecheck].seeklength);
                         }
                         if (str.Contains("gls"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattgear.WattsonGear_gls[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattgear.WattsonGear_gls[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattgear.WattsonGear_gls[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattgear.WattsonGear_gls[imagecheck].seeklength);
+                            ConvertData(wattgear.WattsonGear_gls[imagecheck].name, wattgear.WattsonGear_gls[imagecheck].seek, wattgear.WattsonGear_gls[imagecheck].length, wattgear.WattsonGear_gls[imagecheck].seeklength);
                         }
                         if (str.Contains("spc"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattgear.WattsonGear_spc[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattgear.WattsonGear_spc[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattgear.WattsonGear_spc[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattgear.WattsonGear_spc[imagecheck].seeklength);
+                            ConvertData(wattgear.WattsonGear_spc[imagecheck].name, wattgear.WattsonGear_spc[imagecheck].seek, wattgear.WattsonGear_spc[imagecheck].length, wattgear.WattsonGear_spc[imagecheck].seeklength);
                         }
                         if (str.Contains("ao"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattgear.WattsonGear_ao[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattgear.WattsonGear_ao[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattgear.WattsonGear_ao[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattgear.WattsonGear_ao[imagecheck].seeklength);
+                            ConvertData(wattgear.WattsonGear_ao[imagecheck].name, wattgear.WattsonGear_ao[imagecheck].seek, wattgear.WattsonGear_ao[imagecheck].length, wattgear.WattsonGear_ao[imagecheck].seeklength);
                         }
                         if (str.Contains("cav"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattgear.WattsonGear_cav[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattgear.WattsonGear_cav[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattgear.WattsonGear_cav[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattgear.WattsonGear_cav[imagecheck].seeklength);
+                            ConvertData(wattgear.WattsonGear_cav[imagecheck].name, wattgear.WattsonGear_cav[imagecheck].seek, wattgear.WattsonGear_cav[imagecheck].length, wattgear.WattsonGear_cav[imagecheck].seeklength);
                         }
                         if (str.Contains("ilm"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattgear.WattsonGear_ilm[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattgear.WattsonGear_ilm[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattgear.WattsonGear_ilm[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattgear.WattsonGear_ilm[imagecheck].seeklength);
+                            ConvertData(wattgear.WattsonGear_ilm[imagecheck].name, wattgear.WattsonGear_ilm[imagecheck].seek, wattgear.WattsonGear_ilm[imagecheck].length, wattgear.WattsonGear_ilm[imagecheck].seeklength);
                         }
                         break;
                     case "WattsonJacket":
@@ -116,69 +79,27 @@ namespace Titanfall2_SkinTool.APEX.LegendData
                         //col，nml，gls，spc，ilm，ao，cav
                         if (str.Contains("col"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattjacket.WattsonJacket_col[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjacket.WattsonJacket_col[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjacket.WattsonJacket_col[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjacket.WattsonJacket_col[imagecheck].seeklength);
+                            ConvertData(wattjacket.WattsonJacket_col[imagecheck].name, wattjacket.WattsonJacket_col[imagecheck].seek, wattjacket.WattsonJacket_col[imagecheck].length, wattjacket.WattsonJacket_col[imagecheck].seeklength);
                         }
                         if (str.Contains("nml"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattjacket.WattsonJacket_nml[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjacket.WattsonJacket_nml[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjacket.WattsonJacket_nml[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjacket.WattsonJacket_nml[imagecheck].seeklength);
+                            ConvertData(wattjacket.WattsonJacket_nml[imagecheck].name, wattjacket.WattsonJacket_nml[imagecheck].seek, wattjacket.WattsonJacket_nml[imagecheck].length, wattjacket.WattsonJacket_nml[imagecheck].seeklength);
                         }
                         if (str.Contains("gls"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattjacket.WattsonJacket_gls[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjacket.WattsonJacket_gls[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjacket.WattsonJacket_gls[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjacket.WattsonJacket_gls[imagecheck].seeklength);
+                            ConvertData(wattjacket.WattsonJacket_gls[imagecheck].name, wattjacket.WattsonJacket_gls[imagecheck].seek, wattjacket.WattsonJacket_gls[imagecheck].length, wattjacket.WattsonJacket_gls[imagecheck].seeklength);
                         }
                         if (str.Contains("spc"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattjacket.WattsonJacket_spc[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjacket.WattsonJacket_spc[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjacket.WattsonJacket_spc[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjacket.WattsonJacket_spc[imagecheck].seeklength);
+                            ConvertData(wattjacket.WattsonJacket_spc[imagecheck].name, wattjacket.WattsonJacket_spc[imagecheck].seek, wattjacket.WattsonJacket_spc[imagecheck].length, wattjacket.WattsonJacket_spc[imagecheck].seeklength);
                         }
                         if (str.Contains("ao"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattjacket.WattsonJacket_ao[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjacket.WattsonJacket_ao[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjacket.WattsonJacket_ao[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjacket.WattsonJacket_ao[imagecheck].seeklength);
+                            ConvertData(wattjacket.WattsonJacket_ao[imagecheck].name, wattjacket.WattsonJacket_ao[imagecheck].seek, wattjacket.WattsonJacket_ao[imagecheck].length, wattjacket.WattsonJacket_ao[imagecheck].seeklength);
                         }
                         if (str.Contains("cav"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattjacket.WattsonJacket_cav[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjacket.WattsonJacket_cav[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjacket.WattsonJacket_cav[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjacket.WattsonJacket_cav[imagecheck].seeklength);
+                            ConvertData(wattjacket.WattsonJacket_cav[imagecheck].name, wattjacket.WattsonJacket_cav[imagecheck].seek, wattjacket.WattsonJacket_cav[imagecheck].length, wattjacket.WattsonJacket_cav[imagecheck].seeklength);
                         }
                         break;
                     case "WattsonJumpkit":
@@ -186,69 +107,27 @@ namespace Titanfall2_SkinTool.APEX.LegendData
                         //col，nml，gls，spc，ilm，ao，cav
                         if (str.Contains("col"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattjumpkit.WattsonJumpKit_col[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjumpkit.WattsonJumpKit_col[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjumpkit.WattsonJumpKit_col[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjumpkit.WattsonJumpKit_col[imagecheck].seeklength);
+                            ConvertData(wattjumpkit.WattsonJumpKit_col[imagecheck].name, wattjumpkit.WattsonJumpKit_col[imagecheck].seek, wattjumpkit.WattsonJumpKit_col[imagecheck].length, wattjumpkit.WattsonJumpKit_col[imagecheck].seeklength);
                         }
                         if (str.Contains("nml"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattjumpkit.WattsonJumpKit_nml[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjumpkit.WattsonJumpKit_nml[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjumpkit.WattsonJumpKit_nml[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjumpkit.WattsonJumpKit_nml[imagecheck].seeklength);
+                            ConvertData(wattjumpkit.WattsonJumpKit_nml[imagecheck].name, wattjumpkit.WattsonJumpKit_nml[imagecheck].seek, wattjumpkit.WattsonJumpKit_nml[imagecheck].length, wattjumpkit.WattsonJumpKit_nml[imagecheck].seeklength);
                         }
                         if (str.Contains("gls"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattjumpkit.WattsonJumpKit_gls[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjumpkit.WattsonJumpKit_gls[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjumpkit.WattsonJumpKit_gls[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjumpkit.WattsonJumpKit_gls[imagecheck].seeklength);
+                            ConvertData(wattjumpkit.WattsonJumpKit_gls[imagecheck].name, wattjumpkit.WattsonJumpKit_gls[imagecheck].seek, wattjumpkit.WattsonJumpKit_gls[imagecheck].length, wattjumpkit.WattsonJumpKit_gls[imagecheck].seeklength);
                         }
                         if (str.Contains("spc"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattjumpkit.WattsonJumpKit_spc[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjumpkit.WattsonJumpKit_spc[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjumpkit.WattsonJumpKit_spc[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjumpkit.WattsonJumpKit_spc[imagecheck].seeklength);
+                            ConvertData(wattjumpkit.WattsonJumpKit_spc[imagecheck].name, wattjumpkit.WattsonJumpKit_spc[imagecheck].seek, wattjumpkit.WattsonJumpKit_spc[imagecheck].length, wattjumpkit.WattsonJumpKit_spc[imagecheck].seeklength);
                         }
                         if (str.Contains("ao"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattjumpkit.WattsonJumpKit_ao[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjumpkit.WattsonJumpKit_ao[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjumpkit.WattsonJumpKit_ao[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjumpkit.WattsonJumpKit_ao[imagecheck].seeklength);
+                            ConvertData(wattjumpkit.WattsonJumpKit_ao[imagecheck].name, wattjumpkit.WattsonJumpKit_ao[imagecheck].seek, wattjumpkit.WattsonJumpKit_ao[imagecheck].length, wattjumpkit.WattsonJumpKit_ao[imagecheck].seeklength);
                         }
                         if (str.Contains("cav"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattjumpkit.WattsonJumpKit_cav[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjumpkit.WattsonJumpKit_cav[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjumpkit.WattsonJumpKit_cav[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattjumpkit.WattsonJumpKit_cav[imagecheck].seeklength);
+                            ConvertData(wattjumpkit.WattsonJumpKit_cav[imagecheck].name, wattjumpkit.WattsonJumpKit_cav[imagecheck].seek, wattjumpkit.WattsonJumpKit_cav[imagecheck].length, wattjumpkit.WattsonJumpKit_cav[imagecheck].seeklength);
                         }
                         break;
                     case "WattsonSuit":
@@ -256,69 +135,27 @@ namespace Titanfall2_SkinTool.APEX.LegendData
                         //col，nml，gls，spc，ilm，ao，cav
                         if (str.Contains("col"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattsuit.WattsonSuit_col[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattsuit.WattsonSuit_col[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattsuit.WattsonSuit_col[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattsuit.WattsonSuit_col[imagecheck].seeklength);
+                            ConvertData(wattsuit.WattsonSuit_col[imagecheck].name, wattsuit.WattsonSuit_col[imagecheck].seek, wattsuit.WattsonSuit_col[imagecheck].length, wattsuit.WattsonSuit_col[imagecheck].seeklength);
                         }
                         if (str.Contains("nml"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattsuit.WattsonSuit_nml[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattsuit.WattsonSuit_nml[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattsuit.WattsonSuit_nml[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattsuit.WattsonSuit_nml[imagecheck].seeklength);
+                            ConvertData(wattsuit.WattsonSuit_nml[imagecheck].name, wattsuit.WattsonSuit_nml[imagecheck].seek, wattsuit.WattsonSuit_nml[imagecheck].length, wattsuit.WattsonSuit_nml[imagecheck].seeklength);
                         }
                         if (str.Contains("gls"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattsuit.WattsonSuit_gls[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattsuit.WattsonSuit_gls[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattsuit.WattsonSuit_gls[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattsuit.WattsonSuit_gls[imagecheck].seeklength);
+                            ConvertData(wattsuit.WattsonSuit_gls[imagecheck].name, wattsuit.WattsonSuit_gls[imagecheck].seek, wattsuit.WattsonSuit_gls[imagecheck].length, wattsuit.WattsonSuit_gls[imagecheck].seeklength);
                         }
                         if (str.Contains("spc"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattsuit.WattsonSuit_spc[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattsuit.WattsonSuit_spc[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattsuit.WattsonSuit_spc[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattsuit.WattsonSuit_spc[imagecheck].seeklength);
+                            ConvertData(wattsuit.WattsonSuit_spc[imagecheck].name, wattsuit.WattsonSuit_spc[imagecheck].seek, wattsuit.WattsonSuit_spc[imagecheck].length, wattsuit.WattsonSuit_spc[imagecheck].seeklength);
                         }
                         if (str.Contains("ao"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattsuit.WattsonSuit_ao[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattsuit.WattsonSuit_ao[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattsuit.WattsonSuit_ao[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattsuit.WattsonSuit_ao[imagecheck].seeklength);
+                            ConvertData(wattsuit.WattsonSuit_ao[imagecheck].name, wattsuit.WattsonSuit_ao[imagecheck].seek, wattsuit.WattsonSuit_ao[imagecheck].length, wattsuit.WattsonSuit_ao[imagecheck].seeklength);
                         }
                         if (str.Contains("cav"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattsuit.WattsonSuit_cav[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattsuit.WattsonSuit_cav[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattsuit.WattsonSuit_cav[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattsuit.WattsonSuit_cav[imagecheck].seeklength);
+                            ConvertData(wattsuit.WattsonSuit_cav[imagecheck].name, wattsuit.WattsonSuit_cav[imagecheck].seek, wattsuit.WattsonSuit_cav[imagecheck].length, wattsuit.WattsonSuit_cav[imagecheck].seeklength);
                         }
                         break;
                     case "WattsonVM":
@@ -326,80 +163,31 @@ namespace Titanfall2_SkinTool.APEX.LegendData
                         //col，nml，gls，spc，ilm，ao，cav
                         if (str.Contains("col"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattvm.WattsonViewModel_col[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattvm.WattsonViewModel_col[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattvm.WattsonViewModel_col[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattvm.WattsonViewModel_col[imagecheck].seeklength);
+                            ConvertData(wattvm.WattsonViewModel_col[imagecheck].name, wattvm.WattsonViewModel_col[imagecheck].seek, wattvm.WattsonViewModel_col[imagecheck].length, wattvm.WattsonViewModel_col[imagecheck].seeklength);
                         }
                         if (str.Contains("nml"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattvm.WattsonViewModel_nml[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattvm.WattsonViewModel_nml[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattvm.WattsonViewModel_nml[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattvm.WattsonViewModel_nml[imagecheck].seeklength);
+                            ConvertData(wattvm.WattsonViewModel_nml[imagecheck].name, wattvm.WattsonViewModel_nml[imagecheck].seek, wattvm.WattsonViewModel_nml[imagecheck].length, wattvm.WattsonViewModel_nml[imagecheck].seeklength);
                         }
                         if (str.Contains("gls"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattvm.WattsonViewModel_gls[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattvm.WattsonViewModel_gls[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattvm.WattsonViewModel_gls[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattvm.WattsonViewModel_gls[imagecheck].seeklength);
+                            ConvertData(wattvm.WattsonViewModel_gls[imagecheck].name, wattvm.WattsonViewModel_gls[imagecheck].seek, wattvm.WattsonViewModel_gls[imagecheck].length, wattvm.WattsonViewModel_gls[imagecheck].seeklength);
                         }
                         if (str.Contains("spc"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattvm.WattsonViewModel_spc[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattvm.WattsonViewModel_spc[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattvm.WattsonViewModel_spc[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattvm.WattsonViewModel_spc[imagecheck].seeklength);
+                            ConvertData(wattvm.WattsonViewModel_spc[imagecheck].name, wattvm.WattsonViewModel_spc[imagecheck].seek, wattvm.WattsonViewModel_spc[imagecheck].length, wattvm.WattsonViewModel_spc[imagecheck].seeklength);
                         }
                         if (str.Contains("ao"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattvm.WattsonViewModel_ao[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattvm.WattsonViewModel_ao[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattvm.WattsonViewModel_ao[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattvm.WattsonViewModel_ao[imagecheck].seeklength);
+                            ConvertData(wattvm.WattsonViewModel_ao[imagecheck].name, wattvm.WattsonViewModel_ao[imagecheck].seek, wattvm.WattsonViewModel_ao[imagecheck].length, wattvm.WattsonViewModel_ao[imagecheck].seeklength);
                         }
                         if (str.Contains("cav"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattvm.WattsonViewModel_cav[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattvm.WattsonViewModel_cav[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattvm.WattsonViewModel_cav[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattvm.WattsonViewModel_cav[imagecheck].seeklength);
+                            ConvertData(wattvm.WattsonViewModel_cav[imagecheck].name, wattvm.WattsonViewModel_cav[imagecheck].seek, wattvm.WattsonViewModel_cav[imagecheck].length, wattvm.WattsonViewModel_cav[imagecheck].seeklength);
                         }
                         if (str.Contains("ilm"))
                         {
-                            int i = 0;
-                            FilePath[0, i] = wattvm.WattsonViewModel_ilm[imagecheck].name;
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattvm.WattsonViewModel_ilm[imagecheck].seek);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattvm.WattsonViewModel_ilm[imagecheck].length);
-                            i++;
-                            FilePath[0, i] = Convert.ToString(wattvm.WattsonViewModel_ilm[imagecheck].seeklength);
+                            ConvertData(wattvm.WattsonViewModel_ilm[imagecheck].name, wattvm.WattsonViewModel_ilm[imagecheck].seek, wattvm.WattsonViewModel_ilm[imagecheck].length, wattvm.WattsonViewModel_ilm[imagecheck].seeklength);
                         }
                         break;
                     //.########..##........#######...#######..########..##.....##..#######..##.....##.##....##.########.
