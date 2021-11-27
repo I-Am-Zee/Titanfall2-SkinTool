@@ -69,6 +69,8 @@
             this.bloodFurgloss = new System.Windows.Forms.PictureBox();
             this.bloodFurspec = new System.Windows.Forms.PictureBox();
             this.tabPage10 = new System.Windows.Forms.TabPage();
+            this.label25 = new System.Windows.Forms.Label();
+            this.bloodGauntletilm = new System.Windows.Forms.PictureBox();
             this.label55 = new System.Windows.Forms.Label();
             this.label56 = new System.Windows.Forms.Label();
             this.label57 = new System.Windows.Forms.Label();
@@ -82,6 +84,8 @@
             this.bloodGauntletgloss = new System.Windows.Forms.PictureBox();
             this.bloodGauntletspec = new System.Windows.Forms.PictureBox();
             this.tabPage12 = new System.Windows.Forms.TabPage();
+            this.label26 = new System.Windows.Forms.Label();
+            this.bloodGearilm = new System.Windows.Forms.PictureBox();
             this.label61 = new System.Windows.Forms.Label();
             this.label62 = new System.Windows.Forms.Label();
             this.label63 = new System.Windows.Forms.Label();
@@ -142,12 +146,12 @@
             this.label88 = new System.Windows.Forms.Label();
             this.label89 = new System.Windows.Forms.Label();
             this.label90 = new System.Windows.Forms.Label();
-            this.pictureBox43 = new System.Windows.Forms.PictureBox();
-            this.pictureBox44 = new System.Windows.Forms.PictureBox();
-            this.pictureBox45 = new System.Windows.Forms.PictureBox();
-            this.pictureBox46 = new System.Windows.Forms.PictureBox();
-            this.pictureBox47 = new System.Windows.Forms.PictureBox();
-            this.pictureBox48 = new System.Windows.Forms.PictureBox();
+            this.gibyBodycav = new System.Windows.Forms.PictureBox();
+            this.gibyBodyao = new System.Windows.Forms.PictureBox();
+            this.gibyBodycol = new System.Windows.Forms.PictureBox();
+            this.gibyBodynorm = new System.Windows.Forms.PictureBox();
+            this.gibyBodygloss = new System.Windows.Forms.PictureBox();
+            this.gibyBodyspec = new System.Windows.Forms.PictureBox();
             this.tabPage16 = new System.Windows.Forms.TabPage();
             this.label91 = new System.Windows.Forms.Label();
             this.label92 = new System.Windows.Forms.Label();
@@ -155,12 +159,12 @@
             this.label94 = new System.Windows.Forms.Label();
             this.label95 = new System.Windows.Forms.Label();
             this.label96 = new System.Windows.Forms.Label();
-            this.pictureBox49 = new System.Windows.Forms.PictureBox();
-            this.pictureBox50 = new System.Windows.Forms.PictureBox();
-            this.pictureBox51 = new System.Windows.Forms.PictureBox();
-            this.pictureBox52 = new System.Windows.Forms.PictureBox();
-            this.pictureBox53 = new System.Windows.Forms.PictureBox();
-            this.pictureBox54 = new System.Windows.Forms.PictureBox();
+            this.gibyExtracav = new System.Windows.Forms.PictureBox();
+            this.gibyExtraao = new System.Windows.Forms.PictureBox();
+            this.gibyExtracol = new System.Windows.Forms.PictureBox();
+            this.gibyExtranorm = new System.Windows.Forms.PictureBox();
+            this.gibyExtragloss = new System.Windows.Forms.PictureBox();
+            this.gibyExtraspec = new System.Windows.Forms.PictureBox();
             this.tabPage17 = new System.Windows.Forms.TabPage();
             this.label97 = new System.Windows.Forms.Label();
             this.label98 = new System.Windows.Forms.Label();
@@ -168,38 +172,12 @@
             this.label100 = new System.Windows.Forms.Label();
             this.label101 = new System.Windows.Forms.Label();
             this.label102 = new System.Windows.Forms.Label();
-            this.pictureBox55 = new System.Windows.Forms.PictureBox();
-            this.pictureBox56 = new System.Windows.Forms.PictureBox();
-            this.pictureBox57 = new System.Windows.Forms.PictureBox();
-            this.pictureBox58 = new System.Windows.Forms.PictureBox();
-            this.pictureBox59 = new System.Windows.Forms.PictureBox();
-            this.pictureBox60 = new System.Windows.Forms.PictureBox();
-            this.tabPage18 = new System.Windows.Forms.TabPage();
-            this.label103 = new System.Windows.Forms.Label();
-            this.label104 = new System.Windows.Forms.Label();
-            this.label105 = new System.Windows.Forms.Label();
-            this.label106 = new System.Windows.Forms.Label();
-            this.label107 = new System.Windows.Forms.Label();
-            this.label108 = new System.Windows.Forms.Label();
-            this.pictureBox61 = new System.Windows.Forms.PictureBox();
-            this.pictureBox62 = new System.Windows.Forms.PictureBox();
-            this.pictureBox63 = new System.Windows.Forms.PictureBox();
-            this.pictureBox64 = new System.Windows.Forms.PictureBox();
-            this.pictureBox65 = new System.Windows.Forms.PictureBox();
-            this.pictureBox66 = new System.Windows.Forms.PictureBox();
-            this.tabPage19 = new System.Windows.Forms.TabPage();
-            this.label109 = new System.Windows.Forms.Label();
-            this.label110 = new System.Windows.Forms.Label();
-            this.label111 = new System.Windows.Forms.Label();
-            this.label112 = new System.Windows.Forms.Label();
-            this.label113 = new System.Windows.Forms.Label();
-            this.label114 = new System.Windows.Forms.Label();
-            this.pictureBox67 = new System.Windows.Forms.PictureBox();
-            this.pictureBox68 = new System.Windows.Forms.PictureBox();
-            this.pictureBox69 = new System.Windows.Forms.PictureBox();
-            this.pictureBox70 = new System.Windows.Forms.PictureBox();
-            this.pictureBox71 = new System.Windows.Forms.PictureBox();
-            this.pictureBox72 = new System.Windows.Forms.PictureBox();
+            this.gibyGearcav = new System.Windows.Forms.PictureBox();
+            this.gibyGearao = new System.Windows.Forms.PictureBox();
+            this.gibyGearcol = new System.Windows.Forms.PictureBox();
+            this.gibyGearnorm = new System.Windows.Forms.PictureBox();
+            this.gibyGeargloss = new System.Windows.Forms.PictureBox();
+            this.gibyGearspec = new System.Windows.Forms.PictureBox();
             this.tabPage20 = new System.Windows.Forms.TabPage();
             this.label115 = new System.Windows.Forms.Label();
             this.label116 = new System.Windows.Forms.Label();
@@ -207,12 +185,12 @@
             this.label118 = new System.Windows.Forms.Label();
             this.label119 = new System.Windows.Forms.Label();
             this.label120 = new System.Windows.Forms.Label();
-            this.pictureBox73 = new System.Windows.Forms.PictureBox();
-            this.pictureBox74 = new System.Windows.Forms.PictureBox();
-            this.pictureBox75 = new System.Windows.Forms.PictureBox();
-            this.pictureBox76 = new System.Windows.Forms.PictureBox();
-            this.pictureBox77 = new System.Windows.Forms.PictureBox();
-            this.pictureBox78 = new System.Windows.Forms.PictureBox();
+            this.gibyJumpKitcav = new System.Windows.Forms.PictureBox();
+            this.gibyJumpKitao = new System.Windows.Forms.PictureBox();
+            this.gibyJumpKitcol = new System.Windows.Forms.PictureBox();
+            this.gibyJumpKitnorm = new System.Windows.Forms.PictureBox();
+            this.gibyJumpKitgloss = new System.Windows.Forms.PictureBox();
+            this.gibyJumpKitspec = new System.Windows.Forms.PictureBox();
             this.tabPage21 = new System.Windows.Forms.TabPage();
             this.label121 = new System.Windows.Forms.Label();
             this.label122 = new System.Windows.Forms.Label();
@@ -220,12 +198,12 @@
             this.label124 = new System.Windows.Forms.Label();
             this.label125 = new System.Windows.Forms.Label();
             this.label126 = new System.Windows.Forms.Label();
-            this.pictureBox79 = new System.Windows.Forms.PictureBox();
-            this.pictureBox80 = new System.Windows.Forms.PictureBox();
-            this.pictureBox81 = new System.Windows.Forms.PictureBox();
-            this.pictureBox82 = new System.Windows.Forms.PictureBox();
-            this.pictureBox83 = new System.Windows.Forms.PictureBox();
-            this.pictureBox84 = new System.Windows.Forms.PictureBox();
+            this.gibyShieldcav = new System.Windows.Forms.PictureBox();
+            this.gibyShieldao = new System.Windows.Forms.PictureBox();
+            this.gibyShieldcol = new System.Windows.Forms.PictureBox();
+            this.gibyShieldnorm = new System.Windows.Forms.PictureBox();
+            this.gibyShieldgloss = new System.Windows.Forms.PictureBox();
+            this.gibyShieldspec = new System.Windows.Forms.PictureBox();
             this.tabPage22 = new System.Windows.Forms.TabPage();
             this.label127 = new System.Windows.Forms.Label();
             this.label128 = new System.Windows.Forms.Label();
@@ -233,12 +211,12 @@
             this.label130 = new System.Windows.Forms.Label();
             this.label131 = new System.Windows.Forms.Label();
             this.label132 = new System.Windows.Forms.Label();
-            this.pictureBox85 = new System.Windows.Forms.PictureBox();
-            this.pictureBox86 = new System.Windows.Forms.PictureBox();
-            this.pictureBox87 = new System.Windows.Forms.PictureBox();
-            this.pictureBox88 = new System.Windows.Forms.PictureBox();
-            this.pictureBox89 = new System.Windows.Forms.PictureBox();
-            this.pictureBox90 = new System.Windows.Forms.PictureBox();
+            this.gibyProxycav = new System.Windows.Forms.PictureBox();
+            this.gibyProxyao = new System.Windows.Forms.PictureBox();
+            this.gibyProxycol = new System.Windows.Forms.PictureBox();
+            this.gibyProxynorm = new System.Windows.Forms.PictureBox();
+            this.gibyProxygloss = new System.Windows.Forms.PictureBox();
+            this.gibyProxyspec = new System.Windows.Forms.PictureBox();
             this.tabPage23 = new System.Windows.Forms.TabPage();
             this.label133 = new System.Windows.Forms.Label();
             this.label134 = new System.Windows.Forms.Label();
@@ -246,12 +224,12 @@
             this.label136 = new System.Windows.Forms.Label();
             this.label137 = new System.Windows.Forms.Label();
             this.label138 = new System.Windows.Forms.Label();
-            this.pictureBox91 = new System.Windows.Forms.PictureBox();
-            this.pictureBox92 = new System.Windows.Forms.PictureBox();
-            this.pictureBox93 = new System.Windows.Forms.PictureBox();
-            this.pictureBox94 = new System.Windows.Forms.PictureBox();
-            this.pictureBox95 = new System.Windows.Forms.PictureBox();
-            this.pictureBox96 = new System.Windows.Forms.PictureBox();
+            this.gibySheildClampcav = new System.Windows.Forms.PictureBox();
+            this.gibySheildClampao = new System.Windows.Forms.PictureBox();
+            this.gibySheildClampcol = new System.Windows.Forms.PictureBox();
+            this.gibySheildClampnorm = new System.Windows.Forms.PictureBox();
+            this.gibySheildClampgloss = new System.Windows.Forms.PictureBox();
+            this.gibySheildClampspec = new System.Windows.Forms.PictureBox();
             this.tabPage24 = new System.Windows.Forms.TabPage();
             this.label139 = new System.Windows.Forms.Label();
             this.label140 = new System.Windows.Forms.Label();
@@ -259,14 +237,14 @@
             this.label142 = new System.Windows.Forms.Label();
             this.label143 = new System.Windows.Forms.Label();
             this.label144 = new System.Windows.Forms.Label();
-            this.pictureBox97 = new System.Windows.Forms.PictureBox();
-            this.pictureBox98 = new System.Windows.Forms.PictureBox();
-            this.pictureBox99 = new System.Windows.Forms.PictureBox();
-            this.pictureBox100 = new System.Windows.Forms.PictureBox();
-            this.pictureBox101 = new System.Windows.Forms.PictureBox();
-            this.pictureBox102 = new System.Windows.Forms.PictureBox();
+            this.gibyVMcav = new System.Windows.Forms.PictureBox();
+            this.gibyVMao = new System.Windows.Forms.PictureBox();
+            this.gibyVMcol = new System.Windows.Forms.PictureBox();
+            this.gibyVMnorm = new System.Windows.Forms.PictureBox();
+            this.gibyVMgloss = new System.Windows.Forms.PictureBox();
+            this.gibyVMspec = new System.Windows.Forms.PictureBox();
             this.LifelinetabPage = new System.Windows.Forms.TabPage();
-            this.tabControl5 = new System.Windows.Forms.TabControl();
+            this.ltab12 = new System.Windows.Forms.TabControl();
             this.tabPage3 = new System.Windows.Forms.TabPage();
             this.label145 = new System.Windows.Forms.Label();
             this.label146 = new System.Windows.Forms.Label();
@@ -274,12 +252,12 @@
             this.label148 = new System.Windows.Forms.Label();
             this.label149 = new System.Windows.Forms.Label();
             this.label150 = new System.Windows.Forms.Label();
-            this.pictureBox103 = new System.Windows.Forms.PictureBox();
-            this.pictureBox104 = new System.Windows.Forms.PictureBox();
-            this.pictureBox105 = new System.Windows.Forms.PictureBox();
-            this.pictureBox106 = new System.Windows.Forms.PictureBox();
-            this.pictureBox107 = new System.Windows.Forms.PictureBox();
-            this.pictureBox108 = new System.Windows.Forms.PictureBox();
+            this.lifelineBodycav = new System.Windows.Forms.PictureBox();
+            this.lifelineBodyao = new System.Windows.Forms.PictureBox();
+            this.lifelineBodycol = new System.Windows.Forms.PictureBox();
+            this.lifelineBodynorm = new System.Windows.Forms.PictureBox();
+            this.lifelineBodygloss = new System.Windows.Forms.PictureBox();
+            this.lifelineBodyspec = new System.Windows.Forms.PictureBox();
             this.tabPage25 = new System.Windows.Forms.TabPage();
             this.label151 = new System.Windows.Forms.Label();
             this.label152 = new System.Windows.Forms.Label();
@@ -287,38 +265,12 @@
             this.label154 = new System.Windows.Forms.Label();
             this.label155 = new System.Windows.Forms.Label();
             this.label156 = new System.Windows.Forms.Label();
-            this.pictureBox109 = new System.Windows.Forms.PictureBox();
-            this.pictureBox110 = new System.Windows.Forms.PictureBox();
-            this.pictureBox111 = new System.Windows.Forms.PictureBox();
-            this.pictureBox112 = new System.Windows.Forms.PictureBox();
-            this.pictureBox113 = new System.Windows.Forms.PictureBox();
-            this.pictureBox114 = new System.Windows.Forms.PictureBox();
-            this.tabPage26 = new System.Windows.Forms.TabPage();
-            this.label157 = new System.Windows.Forms.Label();
-            this.label158 = new System.Windows.Forms.Label();
-            this.label159 = new System.Windows.Forms.Label();
-            this.label160 = new System.Windows.Forms.Label();
-            this.label161 = new System.Windows.Forms.Label();
-            this.label162 = new System.Windows.Forms.Label();
-            this.pictureBox115 = new System.Windows.Forms.PictureBox();
-            this.pictureBox116 = new System.Windows.Forms.PictureBox();
-            this.pictureBox117 = new System.Windows.Forms.PictureBox();
-            this.pictureBox118 = new System.Windows.Forms.PictureBox();
-            this.pictureBox119 = new System.Windows.Forms.PictureBox();
-            this.pictureBox120 = new System.Windows.Forms.PictureBox();
-            this.tabPage27 = new System.Windows.Forms.TabPage();
-            this.label163 = new System.Windows.Forms.Label();
-            this.label164 = new System.Windows.Forms.Label();
-            this.label165 = new System.Windows.Forms.Label();
-            this.label166 = new System.Windows.Forms.Label();
-            this.label167 = new System.Windows.Forms.Label();
-            this.label168 = new System.Windows.Forms.Label();
-            this.pictureBox121 = new System.Windows.Forms.PictureBox();
-            this.pictureBox122 = new System.Windows.Forms.PictureBox();
-            this.pictureBox123 = new System.Windows.Forms.PictureBox();
-            this.pictureBox124 = new System.Windows.Forms.PictureBox();
-            this.pictureBox125 = new System.Windows.Forms.PictureBox();
-            this.pictureBox126 = new System.Windows.Forms.PictureBox();
+            this.lifelineDronecav = new System.Windows.Forms.PictureBox();
+            this.lifelineDroneao = new System.Windows.Forms.PictureBox();
+            this.lifelineDronecol = new System.Windows.Forms.PictureBox();
+            this.lifelineDronenorm = new System.Windows.Forms.PictureBox();
+            this.lifelineDronegloss = new System.Windows.Forms.PictureBox();
+            this.lifelineDronespec = new System.Windows.Forms.PictureBox();
             this.tabPage28 = new System.Windows.Forms.TabPage();
             this.label169 = new System.Windows.Forms.Label();
             this.label170 = new System.Windows.Forms.Label();
@@ -326,12 +278,12 @@
             this.label172 = new System.Windows.Forms.Label();
             this.label173 = new System.Windows.Forms.Label();
             this.label174 = new System.Windows.Forms.Label();
-            this.pictureBox127 = new System.Windows.Forms.PictureBox();
-            this.pictureBox128 = new System.Windows.Forms.PictureBox();
-            this.pictureBox129 = new System.Windows.Forms.PictureBox();
-            this.pictureBox130 = new System.Windows.Forms.PictureBox();
-            this.pictureBox131 = new System.Windows.Forms.PictureBox();
-            this.pictureBox132 = new System.Windows.Forms.PictureBox();
+            this.lifelineHandcav = new System.Windows.Forms.PictureBox();
+            this.lifelineHandao = new System.Windows.Forms.PictureBox();
+            this.lifelineHandcol = new System.Windows.Forms.PictureBox();
+            this.lifelineHandnorm = new System.Windows.Forms.PictureBox();
+            this.lifelineHandgloss = new System.Windows.Forms.PictureBox();
+            this.lifelineHandspec = new System.Windows.Forms.PictureBox();
             this.tabPage29 = new System.Windows.Forms.TabPage();
             this.label175 = new System.Windows.Forms.Label();
             this.label176 = new System.Windows.Forms.Label();
@@ -339,12 +291,12 @@
             this.label178 = new System.Windows.Forms.Label();
             this.label179 = new System.Windows.Forms.Label();
             this.label180 = new System.Windows.Forms.Label();
-            this.pictureBox133 = new System.Windows.Forms.PictureBox();
-            this.pictureBox134 = new System.Windows.Forms.PictureBox();
-            this.pictureBox135 = new System.Windows.Forms.PictureBox();
-            this.pictureBox136 = new System.Windows.Forms.PictureBox();
-            this.pictureBox137 = new System.Windows.Forms.PictureBox();
-            this.pictureBox138 = new System.Windows.Forms.PictureBox();
+            this.lifelineJumpKitcav = new System.Windows.Forms.PictureBox();
+            this.lifelineJumpKitao = new System.Windows.Forms.PictureBox();
+            this.lifelineJumpKitcol = new System.Windows.Forms.PictureBox();
+            this.lifelineJumpKitnorm = new System.Windows.Forms.PictureBox();
+            this.lifelineJumpKitgloss = new System.Windows.Forms.PictureBox();
+            this.lifelineJumpKitspec = new System.Windows.Forms.PictureBox();
             this.tabPage30 = new System.Windows.Forms.TabPage();
             this.label181 = new System.Windows.Forms.Label();
             this.label182 = new System.Windows.Forms.Label();
@@ -352,12 +304,12 @@
             this.label184 = new System.Windows.Forms.Label();
             this.label185 = new System.Windows.Forms.Label();
             this.label186 = new System.Windows.Forms.Label();
-            this.pictureBox139 = new System.Windows.Forms.PictureBox();
-            this.pictureBox140 = new System.Windows.Forms.PictureBox();
-            this.pictureBox141 = new System.Windows.Forms.PictureBox();
-            this.pictureBox142 = new System.Windows.Forms.PictureBox();
-            this.pictureBox143 = new System.Windows.Forms.PictureBox();
-            this.pictureBox144 = new System.Windows.Forms.PictureBox();
+            this.lifelineVMcav = new System.Windows.Forms.PictureBox();
+            this.lifelineVMao = new System.Windows.Forms.PictureBox();
+            this.lifelineVMcol = new System.Windows.Forms.PictureBox();
+            this.lifelineVMnorm = new System.Windows.Forms.PictureBox();
+            this.lifelineVMgloss = new System.Windows.Forms.PictureBox();
+            this.lifelineVMspec = new System.Windows.Forms.PictureBox();
             this.PathfindertabPage = new System.Windows.Forms.TabPage();
             this.tabControl6 = new System.Windows.Forms.TabControl();
             this.tabPage4 = new System.Windows.Forms.TabPage();
@@ -505,45 +457,6 @@
             this.pictureBox208 = new System.Windows.Forms.PictureBox();
             this.pictureBox209 = new System.Windows.Forms.PictureBox();
             this.pictureBox210 = new System.Windows.Forms.PictureBox();
-            this.tabPage40 = new System.Windows.Forms.TabPage();
-            this.label253 = new System.Windows.Forms.Label();
-            this.label254 = new System.Windows.Forms.Label();
-            this.label255 = new System.Windows.Forms.Label();
-            this.label256 = new System.Windows.Forms.Label();
-            this.label257 = new System.Windows.Forms.Label();
-            this.label258 = new System.Windows.Forms.Label();
-            this.pictureBox211 = new System.Windows.Forms.PictureBox();
-            this.pictureBox212 = new System.Windows.Forms.PictureBox();
-            this.pictureBox213 = new System.Windows.Forms.PictureBox();
-            this.pictureBox214 = new System.Windows.Forms.PictureBox();
-            this.pictureBox215 = new System.Windows.Forms.PictureBox();
-            this.pictureBox216 = new System.Windows.Forms.PictureBox();
-            this.tabPage41 = new System.Windows.Forms.TabPage();
-            this.label259 = new System.Windows.Forms.Label();
-            this.label260 = new System.Windows.Forms.Label();
-            this.label261 = new System.Windows.Forms.Label();
-            this.label262 = new System.Windows.Forms.Label();
-            this.label263 = new System.Windows.Forms.Label();
-            this.label264 = new System.Windows.Forms.Label();
-            this.pictureBox217 = new System.Windows.Forms.PictureBox();
-            this.pictureBox218 = new System.Windows.Forms.PictureBox();
-            this.pictureBox219 = new System.Windows.Forms.PictureBox();
-            this.pictureBox220 = new System.Windows.Forms.PictureBox();
-            this.pictureBox221 = new System.Windows.Forms.PictureBox();
-            this.pictureBox222 = new System.Windows.Forms.PictureBox();
-            this.tabPage42 = new System.Windows.Forms.TabPage();
-            this.label265 = new System.Windows.Forms.Label();
-            this.label266 = new System.Windows.Forms.Label();
-            this.label267 = new System.Windows.Forms.Label();
-            this.label268 = new System.Windows.Forms.Label();
-            this.label269 = new System.Windows.Forms.Label();
-            this.label270 = new System.Windows.Forms.Label();
-            this.pictureBox223 = new System.Windows.Forms.PictureBox();
-            this.pictureBox224 = new System.Windows.Forms.PictureBox();
-            this.pictureBox225 = new System.Windows.Forms.PictureBox();
-            this.pictureBox226 = new System.Windows.Forms.PictureBox();
-            this.pictureBox227 = new System.Windows.Forms.PictureBox();
-            this.pictureBox228 = new System.Windows.Forms.PictureBox();
             this.tabPage43 = new System.Windows.Forms.TabPage();
             this.label271 = new System.Windows.Forms.Label();
             this.label272 = new System.Windows.Forms.Label();
@@ -624,32 +537,6 @@
             this.pictureBox262 = new System.Windows.Forms.PictureBox();
             this.pictureBox263 = new System.Windows.Forms.PictureBox();
             this.pictureBox264 = new System.Windows.Forms.PictureBox();
-            this.tabPage48 = new System.Windows.Forms.TabPage();
-            this.label307 = new System.Windows.Forms.Label();
-            this.label308 = new System.Windows.Forms.Label();
-            this.label309 = new System.Windows.Forms.Label();
-            this.label310 = new System.Windows.Forms.Label();
-            this.label311 = new System.Windows.Forms.Label();
-            this.label312 = new System.Windows.Forms.Label();
-            this.pictureBox265 = new System.Windows.Forms.PictureBox();
-            this.pictureBox266 = new System.Windows.Forms.PictureBox();
-            this.pictureBox267 = new System.Windows.Forms.PictureBox();
-            this.pictureBox268 = new System.Windows.Forms.PictureBox();
-            this.pictureBox269 = new System.Windows.Forms.PictureBox();
-            this.pictureBox270 = new System.Windows.Forms.PictureBox();
-            this.tabPage49 = new System.Windows.Forms.TabPage();
-            this.label313 = new System.Windows.Forms.Label();
-            this.label314 = new System.Windows.Forms.Label();
-            this.label315 = new System.Windows.Forms.Label();
-            this.label316 = new System.Windows.Forms.Label();
-            this.label317 = new System.Windows.Forms.Label();
-            this.label318 = new System.Windows.Forms.Label();
-            this.pictureBox271 = new System.Windows.Forms.PictureBox();
-            this.pictureBox272 = new System.Windows.Forms.PictureBox();
-            this.pictureBox273 = new System.Windows.Forms.PictureBox();
-            this.pictureBox274 = new System.Windows.Forms.PictureBox();
-            this.pictureBox275 = new System.Windows.Forms.PictureBox();
-            this.pictureBox276 = new System.Windows.Forms.PictureBox();
             this.tabPage50 = new System.Windows.Forms.TabPage();
             this.label319 = new System.Windows.Forms.Label();
             this.label320 = new System.Windows.Forms.Label();
@@ -743,32 +630,6 @@
             this.pictureBox316 = new System.Windows.Forms.PictureBox();
             this.pictureBox317 = new System.Windows.Forms.PictureBox();
             this.pictureBox318 = new System.Windows.Forms.PictureBox();
-            this.tabPage56 = new System.Windows.Forms.TabPage();
-            this.label361 = new System.Windows.Forms.Label();
-            this.label362 = new System.Windows.Forms.Label();
-            this.label363 = new System.Windows.Forms.Label();
-            this.label364 = new System.Windows.Forms.Label();
-            this.label365 = new System.Windows.Forms.Label();
-            this.label366 = new System.Windows.Forms.Label();
-            this.pictureBox319 = new System.Windows.Forms.PictureBox();
-            this.pictureBox320 = new System.Windows.Forms.PictureBox();
-            this.pictureBox321 = new System.Windows.Forms.PictureBox();
-            this.pictureBox322 = new System.Windows.Forms.PictureBox();
-            this.pictureBox323 = new System.Windows.Forms.PictureBox();
-            this.pictureBox324 = new System.Windows.Forms.PictureBox();
-            this.tabPage57 = new System.Windows.Forms.TabPage();
-            this.label367 = new System.Windows.Forms.Label();
-            this.label368 = new System.Windows.Forms.Label();
-            this.label369 = new System.Windows.Forms.Label();
-            this.label370 = new System.Windows.Forms.Label();
-            this.label371 = new System.Windows.Forms.Label();
-            this.label372 = new System.Windows.Forms.Label();
-            this.pictureBox325 = new System.Windows.Forms.PictureBox();
-            this.pictureBox326 = new System.Windows.Forms.PictureBox();
-            this.pictureBox327 = new System.Windows.Forms.PictureBox();
-            this.pictureBox328 = new System.Windows.Forms.PictureBox();
-            this.pictureBox329 = new System.Windows.Forms.PictureBox();
-            this.pictureBox330 = new System.Windows.Forms.PictureBox();
             this.tabPage58 = new System.Windows.Forms.TabPage();
             this.label373 = new System.Windows.Forms.Label();
             this.label374 = new System.Windows.Forms.Label();
@@ -823,32 +684,6 @@
             this.pictureBox354 = new System.Windows.Forms.PictureBox();
             this.MiragetabPage = new System.Windows.Forms.TabPage();
             this.tabControl10 = new System.Windows.Forms.TabControl();
-            this.tabPage8 = new System.Windows.Forms.TabPage();
-            this.label397 = new System.Windows.Forms.Label();
-            this.label398 = new System.Windows.Forms.Label();
-            this.label399 = new System.Windows.Forms.Label();
-            this.label400 = new System.Windows.Forms.Label();
-            this.label401 = new System.Windows.Forms.Label();
-            this.label402 = new System.Windows.Forms.Label();
-            this.pictureBox355 = new System.Windows.Forms.PictureBox();
-            this.pictureBox356 = new System.Windows.Forms.PictureBox();
-            this.pictureBox357 = new System.Windows.Forms.PictureBox();
-            this.pictureBox358 = new System.Windows.Forms.PictureBox();
-            this.pictureBox359 = new System.Windows.Forms.PictureBox();
-            this.pictureBox360 = new System.Windows.Forms.PictureBox();
-            this.tabPage62 = new System.Windows.Forms.TabPage();
-            this.label403 = new System.Windows.Forms.Label();
-            this.label404 = new System.Windows.Forms.Label();
-            this.label405 = new System.Windows.Forms.Label();
-            this.label406 = new System.Windows.Forms.Label();
-            this.label407 = new System.Windows.Forms.Label();
-            this.label408 = new System.Windows.Forms.Label();
-            this.pictureBox361 = new System.Windows.Forms.PictureBox();
-            this.pictureBox362 = new System.Windows.Forms.PictureBox();
-            this.pictureBox363 = new System.Windows.Forms.PictureBox();
-            this.pictureBox364 = new System.Windows.Forms.PictureBox();
-            this.pictureBox365 = new System.Windows.Forms.PictureBox();
-            this.pictureBox366 = new System.Windows.Forms.PictureBox();
             this.tabPage63 = new System.Windows.Forms.TabPage();
             this.label409 = new System.Windows.Forms.Label();
             this.label410 = new System.Windows.Forms.Label();
@@ -1010,6 +845,8 @@
             this.WattsontabPage = new System.Windows.Forms.TabPage();
             this.tabControl12 = new System.Windows.Forms.TabControl();
             this.WatsonGearTab = new System.Windows.Forms.TabPage();
+            this.label481 = new System.Windows.Forms.Label();
+            this.wattGearilm = new System.Windows.Forms.PictureBox();
             this.label15 = new System.Windows.Forms.Label();
             this.label16 = new System.Windows.Forms.Label();
             this.label17 = new System.Windows.Forms.Label();
@@ -1022,32 +859,6 @@
             this.wattGearnorm = new System.Windows.Forms.PictureBox();
             this.wattGeargloss = new System.Windows.Forms.PictureBox();
             this.wattGearspec = new System.Windows.Forms.PictureBox();
-            this.WattsonHairTab = new System.Windows.Forms.TabPage();
-            this.label25 = new System.Windows.Forms.Label();
-            this.label26 = new System.Windows.Forms.Label();
-            this.label27 = new System.Windows.Forms.Label();
-            this.label28 = new System.Windows.Forms.Label();
-            this.label29 = new System.Windows.Forms.Label();
-            this.label30 = new System.Windows.Forms.Label();
-            this.wattHaircav = new System.Windows.Forms.PictureBox();
-            this.wattHairao = new System.Windows.Forms.PictureBox();
-            this.wattHaircol = new System.Windows.Forms.PictureBox();
-            this.wattHairnorm = new System.Windows.Forms.PictureBox();
-            this.wattHairgloss = new System.Windows.Forms.PictureBox();
-            this.wattHairspec = new System.Windows.Forms.PictureBox();
-            this.WattsonHeadTab = new System.Windows.Forms.TabPage();
-            this.label31 = new System.Windows.Forms.Label();
-            this.label32 = new System.Windows.Forms.Label();
-            this.label33 = new System.Windows.Forms.Label();
-            this.label34 = new System.Windows.Forms.Label();
-            this.label35 = new System.Windows.Forms.Label();
-            this.label36 = new System.Windows.Forms.Label();
-            this.wattHeadcav = new System.Windows.Forms.PictureBox();
-            this.wattHeadao = new System.Windows.Forms.PictureBox();
-            this.wattHeadcol = new System.Windows.Forms.PictureBox();
-            this.wattHeadnorm = new System.Windows.Forms.PictureBox();
-            this.wattHeadgloss = new System.Windows.Forms.PictureBox();
-            this.wattHeadspec = new System.Windows.Forms.PictureBox();
             this.WattsonJacketTab = new System.Windows.Forms.TabPage();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -1088,6 +899,8 @@
             this.wattSuitgloss = new System.Windows.Forms.PictureBox();
             this.wattSuitspec = new System.Windows.Forms.PictureBox();
             this.WattsonViewTab = new System.Windows.Forms.TabPage();
+            this.label482 = new System.Windows.Forms.Label();
+            this.wattVMilm = new System.Windows.Forms.PictureBox();
             this.label13 = new System.Windows.Forms.Label();
             this.label14 = new System.Windows.Forms.Label();
             this.label18 = new System.Windows.Forms.Label();
@@ -1124,6 +937,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.bloodFurgloss)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.bloodFurspec)).BeginInit();
             this.tabPage10.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.bloodGauntletilm)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.bloodGauntletcav)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.bloodGauntletao)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.bloodGauntletcol)).BeginInit();
@@ -1131,6 +945,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.bloodGauntletgloss)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.bloodGauntletspec)).BeginInit();
             this.tabPage12.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.bloodGearilm)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.bloodGearcav)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.bloodGearao)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.bloodGearcol)).BeginInit();
@@ -1161,126 +976,98 @@
             this.GibraltartabPage.SuspendLayout();
             this.tabControl3.SuspendLayout();
             this.tabPage1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox43)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox44)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox45)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox46)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox47)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox48)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyBodycav)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyBodyao)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyBodycol)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyBodynorm)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyBodygloss)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyBodyspec)).BeginInit();
             this.tabPage16.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox49)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox50)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox51)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox52)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox53)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox54)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyExtracav)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyExtraao)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyExtracol)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyExtranorm)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyExtragloss)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyExtraspec)).BeginInit();
             this.tabPage17.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox55)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox56)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox57)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox58)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox59)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox60)).BeginInit();
-            this.tabPage18.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox61)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox62)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox63)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox64)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox65)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox66)).BeginInit();
-            this.tabPage19.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox67)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox68)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox69)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox70)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox71)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox72)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyGearcav)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyGearao)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyGearcol)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyGearnorm)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyGeargloss)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyGearspec)).BeginInit();
             this.tabPage20.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox73)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox74)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox75)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox76)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox77)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox78)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyJumpKitcav)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyJumpKitao)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyJumpKitcol)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyJumpKitnorm)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyJumpKitgloss)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyJumpKitspec)).BeginInit();
             this.tabPage21.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox79)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox80)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox81)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox82)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox83)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox84)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyShieldcav)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyShieldao)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyShieldcol)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyShieldnorm)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyShieldgloss)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyShieldspec)).BeginInit();
             this.tabPage22.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox85)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox86)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox87)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox88)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox89)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox90)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyProxycav)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyProxyao)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyProxycol)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyProxynorm)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyProxygloss)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyProxyspec)).BeginInit();
             this.tabPage23.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox91)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox92)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox93)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox94)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox95)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox96)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibySheildClampcav)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibySheildClampao)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibySheildClampcol)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibySheildClampnorm)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibySheildClampgloss)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibySheildClampspec)).BeginInit();
             this.tabPage24.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox97)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox98)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox99)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox100)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox101)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox102)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyVMcav)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyVMao)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyVMcol)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyVMnorm)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyVMgloss)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyVMspec)).BeginInit();
             this.LifelinetabPage.SuspendLayout();
-            this.tabControl5.SuspendLayout();
+            this.ltab12.SuspendLayout();
             this.tabPage3.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox103)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox104)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox105)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox106)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox107)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox108)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineBodycav)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineBodyao)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineBodycol)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineBodynorm)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineBodygloss)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineBodyspec)).BeginInit();
             this.tabPage25.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox109)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox110)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox111)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox112)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox113)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox114)).BeginInit();
-            this.tabPage26.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox115)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox116)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox117)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox118)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox119)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox120)).BeginInit();
-            this.tabPage27.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox121)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox122)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox123)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox124)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox125)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox126)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineDronecav)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineDroneao)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineDronecol)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineDronenorm)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineDronegloss)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineDronespec)).BeginInit();
             this.tabPage28.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox127)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox128)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox129)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox130)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox131)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox132)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineHandcav)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineHandao)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineHandcol)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineHandnorm)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineHandgloss)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineHandspec)).BeginInit();
             this.tabPage29.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox133)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox134)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox135)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox136)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox137)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox138)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineJumpKitcav)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineJumpKitao)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineJumpKitcol)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineJumpKitnorm)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineJumpKitgloss)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineJumpKitspec)).BeginInit();
             this.tabPage30.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox139)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox140)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox141)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox142)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox143)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox144)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineVMcav)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineVMao)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineVMcol)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineVMnorm)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineVMgloss)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineVMspec)).BeginInit();
             this.PathfindertabPage.SuspendLayout();
             this.tabControl6.SuspendLayout();
             this.tabPage4.SuspendLayout();
@@ -1362,27 +1149,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox208)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox209)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox210)).BeginInit();
-            this.tabPage40.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox211)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox212)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox213)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox214)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox215)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox216)).BeginInit();
-            this.tabPage41.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox217)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox218)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox219)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox220)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox221)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox222)).BeginInit();
-            this.tabPage42.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox223)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox224)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox225)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox226)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox227)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox228)).BeginInit();
             this.tabPage43.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox229)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox230)).BeginInit();
@@ -1427,20 +1193,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox262)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox263)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox264)).BeginInit();
-            this.tabPage48.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox265)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox266)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox267)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox268)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox269)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox270)).BeginInit();
-            this.tabPage49.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox271)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox272)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox273)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox274)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox275)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox276)).BeginInit();
             this.tabPage50.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox277)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox278)).BeginInit();
@@ -1492,20 +1244,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox316)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox317)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox318)).BeginInit();
-            this.tabPage56.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox319)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox320)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox321)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox322)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox323)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox324)).BeginInit();
-            this.tabPage57.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox325)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox326)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox327)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox328)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox329)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox330)).BeginInit();
             this.tabPage58.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox331)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox332)).BeginInit();
@@ -1536,20 +1274,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox354)).BeginInit();
             this.MiragetabPage.SuspendLayout();
             this.tabControl10.SuspendLayout();
-            this.tabPage8.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox355)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox356)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox357)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox358)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox359)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox360)).BeginInit();
-            this.tabPage62.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox361)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox362)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox363)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox364)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox365)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox366)).BeginInit();
             this.tabPage63.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox367)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox368)).BeginInit();
@@ -1639,26 +1363,13 @@
             this.WattsontabPage.SuspendLayout();
             this.tabControl12.SuspendLayout();
             this.WatsonGearTab.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.wattGearilm)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.wattGearcav)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.wattGearao)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.wattGearcol)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.wattGearnorm)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.wattGeargloss)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.wattGearspec)).BeginInit();
-            this.WattsonHairTab.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.wattHaircav)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.wattHairao)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.wattHaircol)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.wattHairnorm)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.wattHairgloss)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.wattHairspec)).BeginInit();
-            this.WattsonHeadTab.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.wattHeadcav)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.wattHeadao)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.wattHeadcol)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.wattHeadnorm)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.wattHeadgloss)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.wattHeadspec)).BeginInit();
             this.WattsonJacketTab.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.wattJacketcav)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.wattJacketao)).BeginInit();
@@ -1681,6 +1392,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.wattSuitgloss)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.wattSuitspec)).BeginInit();
             this.WattsonViewTab.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.wattVMilm)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.wattVMcav)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.wattVMao)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.wattVMcol)).BeginInit();
@@ -1851,6 +1563,11 @@
             resources.ApplyResources(this.bloodBodycav, "bloodBodycav");
             this.bloodBodycav.Name = "bloodBodycav";
             this.bloodBodycav.TabStop = false;
+            this.bloodBodycav.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodBodycav.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodBodycav.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodBodycav.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodBodycav.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodBodyao
             // 
@@ -1859,6 +1576,11 @@
             resources.ApplyResources(this.bloodBodyao, "bloodBodyao");
             this.bloodBodyao.Name = "bloodBodyao";
             this.bloodBodyao.TabStop = false;
+            this.bloodBodyao.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodBodyao.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodBodyao.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodBodyao.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodBodyao.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodBodycol
             // 
@@ -1867,6 +1589,11 @@
             resources.ApplyResources(this.bloodBodycol, "bloodBodycol");
             this.bloodBodycol.Name = "bloodBodycol";
             this.bloodBodycol.TabStop = false;
+            this.bloodBodycol.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodBodycol.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodBodycol.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodBodycol.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodBodycol.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodBodynorm
             // 
@@ -1875,6 +1602,11 @@
             resources.ApplyResources(this.bloodBodynorm, "bloodBodynorm");
             this.bloodBodynorm.Name = "bloodBodynorm";
             this.bloodBodynorm.TabStop = false;
+            this.bloodBodynorm.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodBodynorm.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodBodynorm.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodBodynorm.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodBodynorm.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodBodygloss
             // 
@@ -1883,6 +1615,11 @@
             resources.ApplyResources(this.bloodBodygloss, "bloodBodygloss");
             this.bloodBodygloss.Name = "bloodBodygloss";
             this.bloodBodygloss.TabStop = false;
+            this.bloodBodygloss.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodBodygloss.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodBodygloss.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodBodygloss.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodBodygloss.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodBodyspec
             // 
@@ -1891,6 +1628,11 @@
             resources.ApplyResources(this.bloodBodyspec, "bloodBodyspec");
             this.bloodBodyspec.Name = "bloodBodyspec";
             this.bloodBodyspec.TabStop = false;
+            this.bloodBodyspec.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodBodyspec.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodBodyspec.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodBodyspec.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodBodyspec.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // BloodhoundFurTab
             // 
@@ -1945,6 +1687,7 @@
             this.bloodFurcav.AllowDrop = true;
             this.bloodFurcav.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             resources.ApplyResources(this.bloodFurcav, "bloodFurcav");
+            this.bloodFurcav.Image = global::Titanfall2_SkinTool.Properties.Resources.texture_not_available;
             this.bloodFurcav.Name = "bloodFurcav";
             this.bloodFurcav.TabStop = false;
             // 
@@ -1953,6 +1696,7 @@
             this.bloodFurao.AllowDrop = true;
             this.bloodFurao.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             resources.ApplyResources(this.bloodFurao, "bloodFurao");
+            this.bloodFurao.Image = global::Titanfall2_SkinTool.Properties.Resources.texture_not_available;
             this.bloodFurao.Name = "bloodFurao";
             this.bloodFurao.TabStop = false;
             // 
@@ -1963,6 +1707,11 @@
             resources.ApplyResources(this.bloodFurcol, "bloodFurcol");
             this.bloodFurcol.Name = "bloodFurcol";
             this.bloodFurcol.TabStop = false;
+            this.bloodFurcol.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodFurcol.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodFurcol.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodFurcol.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodFurcol.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodFurnorm
             // 
@@ -1971,6 +1720,11 @@
             resources.ApplyResources(this.bloodFurnorm, "bloodFurnorm");
             this.bloodFurnorm.Name = "bloodFurnorm";
             this.bloodFurnorm.TabStop = false;
+            this.bloodFurnorm.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodFurnorm.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodFurnorm.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodFurnorm.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodFurnorm.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodFurgloss
             // 
@@ -1979,6 +1733,11 @@
             resources.ApplyResources(this.bloodFurgloss, "bloodFurgloss");
             this.bloodFurgloss.Name = "bloodFurgloss";
             this.bloodFurgloss.TabStop = false;
+            this.bloodFurgloss.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodFurgloss.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodFurgloss.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodFurgloss.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodFurgloss.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodFurspec
             // 
@@ -1987,9 +1746,16 @@
             resources.ApplyResources(this.bloodFurspec, "bloodFurspec");
             this.bloodFurspec.Name = "bloodFurspec";
             this.bloodFurspec.TabStop = false;
+            this.bloodFurspec.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodFurspec.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodFurspec.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodFurspec.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodFurspec.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // tabPage10
             // 
+            this.tabPage10.Controls.Add(this.label25);
+            this.tabPage10.Controls.Add(this.bloodGauntletilm);
             this.tabPage10.Controls.Add(this.label55);
             this.tabPage10.Controls.Add(this.label56);
             this.tabPage10.Controls.Add(this.label57);
@@ -2005,6 +1771,24 @@
             resources.ApplyResources(this.tabPage10, "tabPage10");
             this.tabPage10.Name = "tabPage10";
             this.tabPage10.UseVisualStyleBackColor = true;
+            // 
+            // label25
+            // 
+            resources.ApplyResources(this.label25, "label25");
+            this.label25.Name = "label25";
+            // 
+            // bloodGauntletilm
+            // 
+            this.bloodGauntletilm.AllowDrop = true;
+            this.bloodGauntletilm.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bloodGauntletilm, "bloodGauntletilm");
+            this.bloodGauntletilm.Name = "bloodGauntletilm";
+            this.bloodGauntletilm.TabStop = false;
+            this.bloodGauntletilm.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodGauntletilm.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodGauntletilm.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodGauntletilm.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodGauntletilm.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // label55
             // 
@@ -2041,6 +1825,7 @@
             this.bloodGauntletcav.AllowDrop = true;
             this.bloodGauntletcav.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             resources.ApplyResources(this.bloodGauntletcav, "bloodGauntletcav");
+            this.bloodGauntletcav.Image = global::Titanfall2_SkinTool.Properties.Resources.texture_not_available;
             this.bloodGauntletcav.Name = "bloodGauntletcav";
             this.bloodGauntletcav.TabStop = false;
             // 
@@ -2051,6 +1836,11 @@
             resources.ApplyResources(this.bloodGauntletao, "bloodGauntletao");
             this.bloodGauntletao.Name = "bloodGauntletao";
             this.bloodGauntletao.TabStop = false;
+            this.bloodGauntletao.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodGauntletao.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodGauntletao.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodGauntletao.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodGauntletao.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodGauntletcol
             // 
@@ -2059,6 +1849,11 @@
             resources.ApplyResources(this.bloodGauntletcol, "bloodGauntletcol");
             this.bloodGauntletcol.Name = "bloodGauntletcol";
             this.bloodGauntletcol.TabStop = false;
+            this.bloodGauntletcol.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodGauntletcol.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodGauntletcol.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodGauntletcol.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodGauntletcol.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodGauntletnorm
             // 
@@ -2067,6 +1862,11 @@
             resources.ApplyResources(this.bloodGauntletnorm, "bloodGauntletnorm");
             this.bloodGauntletnorm.Name = "bloodGauntletnorm";
             this.bloodGauntletnorm.TabStop = false;
+            this.bloodGauntletnorm.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodGauntletnorm.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodGauntletnorm.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodGauntletnorm.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodGauntletnorm.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodGauntletgloss
             // 
@@ -2075,6 +1875,11 @@
             resources.ApplyResources(this.bloodGauntletgloss, "bloodGauntletgloss");
             this.bloodGauntletgloss.Name = "bloodGauntletgloss";
             this.bloodGauntletgloss.TabStop = false;
+            this.bloodGauntletgloss.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodGauntletgloss.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodGauntletgloss.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodGauntletgloss.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodGauntletgloss.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodGauntletspec
             // 
@@ -2083,9 +1888,16 @@
             resources.ApplyResources(this.bloodGauntletspec, "bloodGauntletspec");
             this.bloodGauntletspec.Name = "bloodGauntletspec";
             this.bloodGauntletspec.TabStop = false;
+            this.bloodGauntletspec.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodGauntletspec.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodGauntletspec.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodGauntletspec.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodGauntletspec.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // tabPage12
             // 
+            this.tabPage12.Controls.Add(this.label26);
+            this.tabPage12.Controls.Add(this.bloodGearilm);
             this.tabPage12.Controls.Add(this.label61);
             this.tabPage12.Controls.Add(this.label62);
             this.tabPage12.Controls.Add(this.label63);
@@ -2101,6 +1913,24 @@
             resources.ApplyResources(this.tabPage12, "tabPage12");
             this.tabPage12.Name = "tabPage12";
             this.tabPage12.UseVisualStyleBackColor = true;
+            // 
+            // label26
+            // 
+            resources.ApplyResources(this.label26, "label26");
+            this.label26.Name = "label26";
+            // 
+            // bloodGearilm
+            // 
+            this.bloodGearilm.AllowDrop = true;
+            this.bloodGearilm.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bloodGearilm, "bloodGearilm");
+            this.bloodGearilm.Name = "bloodGearilm";
+            this.bloodGearilm.TabStop = false;
+            this.bloodGearilm.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodGearilm.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodGearilm.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodGearilm.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodGearilm.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // label61
             // 
@@ -2139,6 +1969,11 @@
             resources.ApplyResources(this.bloodGearcav, "bloodGearcav");
             this.bloodGearcav.Name = "bloodGearcav";
             this.bloodGearcav.TabStop = false;
+            this.bloodGearcav.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodGearcav.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodGearcav.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodGearcav.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodGearcav.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodGearao
             // 
@@ -2147,6 +1982,11 @@
             resources.ApplyResources(this.bloodGearao, "bloodGearao");
             this.bloodGearao.Name = "bloodGearao";
             this.bloodGearao.TabStop = false;
+            this.bloodGearao.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodGearao.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodGearao.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodGearao.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodGearao.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodGearcol
             // 
@@ -2155,6 +1995,11 @@
             resources.ApplyResources(this.bloodGearcol, "bloodGearcol");
             this.bloodGearcol.Name = "bloodGearcol";
             this.bloodGearcol.TabStop = false;
+            this.bloodGearcol.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodGearcol.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodGearcol.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodGearcol.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodGearcol.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodGearnorm
             // 
@@ -2163,6 +2008,11 @@
             resources.ApplyResources(this.bloodGearnorm, "bloodGearnorm");
             this.bloodGearnorm.Name = "bloodGearnorm";
             this.bloodGearnorm.TabStop = false;
+            this.bloodGearnorm.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodGearnorm.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodGearnorm.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodGearnorm.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodGearnorm.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodGeargloss
             // 
@@ -2171,6 +2021,11 @@
             resources.ApplyResources(this.bloodGeargloss, "bloodGeargloss");
             this.bloodGeargloss.Name = "bloodGeargloss";
             this.bloodGeargloss.TabStop = false;
+            this.bloodGeargloss.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodGeargloss.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodGeargloss.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodGeargloss.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodGeargloss.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodGearspec
             // 
@@ -2179,6 +2034,11 @@
             resources.ApplyResources(this.bloodGearspec, "bloodGearspec");
             this.bloodGearspec.Name = "bloodGearspec";
             this.bloodGearspec.TabStop = false;
+            this.bloodGearspec.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodGearspec.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodGearspec.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodGearspec.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodGearspec.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // tabPage13
             // 
@@ -2235,6 +2095,11 @@
             resources.ApplyResources(this.bloodHelmetcav, "bloodHelmetcav");
             this.bloodHelmetcav.Name = "bloodHelmetcav";
             this.bloodHelmetcav.TabStop = false;
+            this.bloodHelmetcav.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodHelmetcav.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodHelmetcav.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodHelmetcav.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodHelmetcav.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodHelmetao
             // 
@@ -2243,6 +2108,11 @@
             resources.ApplyResources(this.bloodHelmetao, "bloodHelmetao");
             this.bloodHelmetao.Name = "bloodHelmetao";
             this.bloodHelmetao.TabStop = false;
+            this.bloodHelmetao.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodHelmetao.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodHelmetao.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodHelmetao.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodHelmetao.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodHelmetcol
             // 
@@ -2251,6 +2121,11 @@
             resources.ApplyResources(this.bloodHelmetcol, "bloodHelmetcol");
             this.bloodHelmetcol.Name = "bloodHelmetcol";
             this.bloodHelmetcol.TabStop = false;
+            this.bloodHelmetcol.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodHelmetcol.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodHelmetcol.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodHelmetcol.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodHelmetcol.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodHelmetnorm
             // 
@@ -2259,6 +2134,11 @@
             resources.ApplyResources(this.bloodHelmetnorm, "bloodHelmetnorm");
             this.bloodHelmetnorm.Name = "bloodHelmetnorm";
             this.bloodHelmetnorm.TabStop = false;
+            this.bloodHelmetnorm.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodHelmetnorm.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodHelmetnorm.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodHelmetnorm.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodHelmetnorm.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodHelmetgloss
             // 
@@ -2267,6 +2147,11 @@
             resources.ApplyResources(this.bloodHelmetgloss, "bloodHelmetgloss");
             this.bloodHelmetgloss.Name = "bloodHelmetgloss";
             this.bloodHelmetgloss.TabStop = false;
+            this.bloodHelmetgloss.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodHelmetgloss.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodHelmetgloss.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodHelmetgloss.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodHelmetgloss.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodHelmetspec
             // 
@@ -2275,6 +2160,11 @@
             resources.ApplyResources(this.bloodHelmetspec, "bloodHelmetspec");
             this.bloodHelmetspec.Name = "bloodHelmetspec";
             this.bloodHelmetspec.TabStop = false;
+            this.bloodHelmetspec.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodHelmetspec.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodHelmetspec.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodHelmetspec.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodHelmetspec.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // tabPage14
             // 
@@ -2331,6 +2221,11 @@
             resources.ApplyResources(this.bloodVMAcav, "bloodVMAcav");
             this.bloodVMAcav.Name = "bloodVMAcav";
             this.bloodVMAcav.TabStop = false;
+            this.bloodVMAcav.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodVMAcav.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodVMAcav.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodVMAcav.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodVMAcav.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodVMAao
             // 
@@ -2339,6 +2234,11 @@
             resources.ApplyResources(this.bloodVMAao, "bloodVMAao");
             this.bloodVMAao.Name = "bloodVMAao";
             this.bloodVMAao.TabStop = false;
+            this.bloodVMAao.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodVMAao.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodVMAao.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodVMAao.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodVMAao.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodVMAcol
             // 
@@ -2347,6 +2247,11 @@
             resources.ApplyResources(this.bloodVMAcol, "bloodVMAcol");
             this.bloodVMAcol.Name = "bloodVMAcol";
             this.bloodVMAcol.TabStop = false;
+            this.bloodVMAcol.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodVMAcol.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodVMAcol.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodVMAcol.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodVMAcol.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodVMAnorm
             // 
@@ -2355,6 +2260,11 @@
             resources.ApplyResources(this.bloodVMAnorm, "bloodVMAnorm");
             this.bloodVMAnorm.Name = "bloodVMAnorm";
             this.bloodVMAnorm.TabStop = false;
+            this.bloodVMAnorm.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodVMAnorm.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodVMAnorm.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodVMAnorm.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodVMAnorm.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodVMAgloss
             // 
@@ -2363,6 +2273,11 @@
             resources.ApplyResources(this.bloodVMAgloss, "bloodVMAgloss");
             this.bloodVMAgloss.Name = "bloodVMAgloss";
             this.bloodVMAgloss.TabStop = false;
+            this.bloodVMAgloss.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodVMAgloss.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodVMAgloss.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodVMAgloss.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodVMAgloss.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodVMAspec
             // 
@@ -2371,6 +2286,11 @@
             resources.ApplyResources(this.bloodVMAspec, "bloodVMAspec");
             this.bloodVMAspec.Name = "bloodVMAspec";
             this.bloodVMAspec.TabStop = false;
+            this.bloodVMAspec.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodVMAspec.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodVMAspec.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodVMAspec.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodVMAspec.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // tabPage15
             // 
@@ -2427,6 +2347,11 @@
             resources.ApplyResources(this.bloodVMGcav, "bloodVMGcav");
             this.bloodVMGcav.Name = "bloodVMGcav";
             this.bloodVMGcav.TabStop = false;
+            this.bloodVMGcav.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodVMGcav.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodVMGcav.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodVMGcav.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodVMGcav.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodVMGao
             // 
@@ -2435,6 +2360,11 @@
             resources.ApplyResources(this.bloodVMGao, "bloodVMGao");
             this.bloodVMGao.Name = "bloodVMGao";
             this.bloodVMGao.TabStop = false;
+            this.bloodVMGao.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodVMGao.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodVMGao.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodVMGao.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodVMGao.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodVMGcol
             // 
@@ -2443,6 +2373,11 @@
             resources.ApplyResources(this.bloodVMGcol, "bloodVMGcol");
             this.bloodVMGcol.Name = "bloodVMGcol";
             this.bloodVMGcol.TabStop = false;
+            this.bloodVMGcol.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodVMGcol.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodVMGcol.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodVMGcol.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodVMGcol.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodVMGnorm
             // 
@@ -2451,6 +2386,11 @@
             resources.ApplyResources(this.bloodVMGnorm, "bloodVMGnorm");
             this.bloodVMGnorm.Name = "bloodVMGnorm";
             this.bloodVMGnorm.TabStop = false;
+            this.bloodVMGnorm.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodVMGnorm.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodVMGnorm.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodVMGnorm.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodVMGnorm.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodVMGgloss
             // 
@@ -2459,6 +2399,11 @@
             resources.ApplyResources(this.bloodVMGgloss, "bloodVMGgloss");
             this.bloodVMGgloss.Name = "bloodVMGgloss";
             this.bloodVMGgloss.TabStop = false;
+            this.bloodVMGgloss.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodVMGgloss.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodVMGgloss.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodVMGgloss.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodVMGgloss.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // bloodVMGspec
             // 
@@ -2467,6 +2412,11 @@
             resources.ApplyResources(this.bloodVMGspec, "bloodVMGspec");
             this.bloodVMGspec.Name = "bloodVMGspec";
             this.bloodVMGspec.TabStop = false;
+            this.bloodVMGspec.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodVMGspec.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bloodVMGspec.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bloodVMGspec.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bloodVMGspec.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // GibraltartabPage
             // 
@@ -2480,8 +2430,6 @@
             this.tabControl3.Controls.Add(this.tabPage1);
             this.tabControl3.Controls.Add(this.tabPage16);
             this.tabControl3.Controls.Add(this.tabPage17);
-            this.tabControl3.Controls.Add(this.tabPage18);
-            this.tabControl3.Controls.Add(this.tabPage19);
             this.tabControl3.Controls.Add(this.tabPage20);
             this.tabControl3.Controls.Add(this.tabPage21);
             this.tabControl3.Controls.Add(this.tabPage22);
@@ -2499,12 +2447,12 @@
             this.tabPage1.Controls.Add(this.label88);
             this.tabPage1.Controls.Add(this.label89);
             this.tabPage1.Controls.Add(this.label90);
-            this.tabPage1.Controls.Add(this.pictureBox43);
-            this.tabPage1.Controls.Add(this.pictureBox44);
-            this.tabPage1.Controls.Add(this.pictureBox45);
-            this.tabPage1.Controls.Add(this.pictureBox46);
-            this.tabPage1.Controls.Add(this.pictureBox47);
-            this.tabPage1.Controls.Add(this.pictureBox48);
+            this.tabPage1.Controls.Add(this.gibyBodycav);
+            this.tabPage1.Controls.Add(this.gibyBodyao);
+            this.tabPage1.Controls.Add(this.gibyBodycol);
+            this.tabPage1.Controls.Add(this.gibyBodynorm);
+            this.tabPage1.Controls.Add(this.gibyBodygloss);
+            this.tabPage1.Controls.Add(this.gibyBodyspec);
             resources.ApplyResources(this.tabPage1, "tabPage1");
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.UseVisualStyleBackColor = true;
@@ -2539,53 +2487,53 @@
             resources.ApplyResources(this.label90, "label90");
             this.label90.Name = "label90";
             // 
-            // pictureBox43
+            // gibyBodycav
             // 
-            this.pictureBox43.AllowDrop = true;
-            this.pictureBox43.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox43, "pictureBox43");
-            this.pictureBox43.Name = "pictureBox43";
-            this.pictureBox43.TabStop = false;
+            this.gibyBodycav.AllowDrop = true;
+            this.gibyBodycav.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyBodycav, "gibyBodycav");
+            this.gibyBodycav.Name = "gibyBodycav";
+            this.gibyBodycav.TabStop = false;
             // 
-            // pictureBox44
+            // gibyBodyao
             // 
-            this.pictureBox44.AllowDrop = true;
-            this.pictureBox44.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox44, "pictureBox44");
-            this.pictureBox44.Name = "pictureBox44";
-            this.pictureBox44.TabStop = false;
+            this.gibyBodyao.AllowDrop = true;
+            this.gibyBodyao.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyBodyao, "gibyBodyao");
+            this.gibyBodyao.Name = "gibyBodyao";
+            this.gibyBodyao.TabStop = false;
             // 
-            // pictureBox45
+            // gibyBodycol
             // 
-            this.pictureBox45.AllowDrop = true;
-            this.pictureBox45.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox45, "pictureBox45");
-            this.pictureBox45.Name = "pictureBox45";
-            this.pictureBox45.TabStop = false;
+            this.gibyBodycol.AllowDrop = true;
+            this.gibyBodycol.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyBodycol, "gibyBodycol");
+            this.gibyBodycol.Name = "gibyBodycol";
+            this.gibyBodycol.TabStop = false;
             // 
-            // pictureBox46
+            // gibyBodynorm
             // 
-            this.pictureBox46.AllowDrop = true;
-            this.pictureBox46.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox46, "pictureBox46");
-            this.pictureBox46.Name = "pictureBox46";
-            this.pictureBox46.TabStop = false;
+            this.gibyBodynorm.AllowDrop = true;
+            this.gibyBodynorm.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyBodynorm, "gibyBodynorm");
+            this.gibyBodynorm.Name = "gibyBodynorm";
+            this.gibyBodynorm.TabStop = false;
             // 
-            // pictureBox47
+            // gibyBodygloss
             // 
-            this.pictureBox47.AllowDrop = true;
-            this.pictureBox47.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox47, "pictureBox47");
-            this.pictureBox47.Name = "pictureBox47";
-            this.pictureBox47.TabStop = false;
+            this.gibyBodygloss.AllowDrop = true;
+            this.gibyBodygloss.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyBodygloss, "gibyBodygloss");
+            this.gibyBodygloss.Name = "gibyBodygloss";
+            this.gibyBodygloss.TabStop = false;
             // 
-            // pictureBox48
+            // gibyBodyspec
             // 
-            this.pictureBox48.AllowDrop = true;
-            this.pictureBox48.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox48, "pictureBox48");
-            this.pictureBox48.Name = "pictureBox48";
-            this.pictureBox48.TabStop = false;
+            this.gibyBodyspec.AllowDrop = true;
+            this.gibyBodyspec.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyBodyspec, "gibyBodyspec");
+            this.gibyBodyspec.Name = "gibyBodyspec";
+            this.gibyBodyspec.TabStop = false;
             // 
             // tabPage16
             // 
@@ -2595,12 +2543,12 @@
             this.tabPage16.Controls.Add(this.label94);
             this.tabPage16.Controls.Add(this.label95);
             this.tabPage16.Controls.Add(this.label96);
-            this.tabPage16.Controls.Add(this.pictureBox49);
-            this.tabPage16.Controls.Add(this.pictureBox50);
-            this.tabPage16.Controls.Add(this.pictureBox51);
-            this.tabPage16.Controls.Add(this.pictureBox52);
-            this.tabPage16.Controls.Add(this.pictureBox53);
-            this.tabPage16.Controls.Add(this.pictureBox54);
+            this.tabPage16.Controls.Add(this.gibyExtracav);
+            this.tabPage16.Controls.Add(this.gibyExtraao);
+            this.tabPage16.Controls.Add(this.gibyExtracol);
+            this.tabPage16.Controls.Add(this.gibyExtranorm);
+            this.tabPage16.Controls.Add(this.gibyExtragloss);
+            this.tabPage16.Controls.Add(this.gibyExtraspec);
             resources.ApplyResources(this.tabPage16, "tabPage16");
             this.tabPage16.Name = "tabPage16";
             this.tabPage16.UseVisualStyleBackColor = true;
@@ -2635,53 +2583,53 @@
             resources.ApplyResources(this.label96, "label96");
             this.label96.Name = "label96";
             // 
-            // pictureBox49
+            // gibyExtracav
             // 
-            this.pictureBox49.AllowDrop = true;
-            this.pictureBox49.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox49, "pictureBox49");
-            this.pictureBox49.Name = "pictureBox49";
-            this.pictureBox49.TabStop = false;
+            this.gibyExtracav.AllowDrop = true;
+            this.gibyExtracav.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyExtracav, "gibyExtracav");
+            this.gibyExtracav.Name = "gibyExtracav";
+            this.gibyExtracav.TabStop = false;
             // 
-            // pictureBox50
+            // gibyExtraao
             // 
-            this.pictureBox50.AllowDrop = true;
-            this.pictureBox50.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox50, "pictureBox50");
-            this.pictureBox50.Name = "pictureBox50";
-            this.pictureBox50.TabStop = false;
+            this.gibyExtraao.AllowDrop = true;
+            this.gibyExtraao.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyExtraao, "gibyExtraao");
+            this.gibyExtraao.Name = "gibyExtraao";
+            this.gibyExtraao.TabStop = false;
             // 
-            // pictureBox51
+            // gibyExtracol
             // 
-            this.pictureBox51.AllowDrop = true;
-            this.pictureBox51.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox51, "pictureBox51");
-            this.pictureBox51.Name = "pictureBox51";
-            this.pictureBox51.TabStop = false;
+            this.gibyExtracol.AllowDrop = true;
+            this.gibyExtracol.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyExtracol, "gibyExtracol");
+            this.gibyExtracol.Name = "gibyExtracol";
+            this.gibyExtracol.TabStop = false;
             // 
-            // pictureBox52
+            // gibyExtranorm
             // 
-            this.pictureBox52.AllowDrop = true;
-            this.pictureBox52.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox52, "pictureBox52");
-            this.pictureBox52.Name = "pictureBox52";
-            this.pictureBox52.TabStop = false;
+            this.gibyExtranorm.AllowDrop = true;
+            this.gibyExtranorm.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyExtranorm, "gibyExtranorm");
+            this.gibyExtranorm.Name = "gibyExtranorm";
+            this.gibyExtranorm.TabStop = false;
             // 
-            // pictureBox53
+            // gibyExtragloss
             // 
-            this.pictureBox53.AllowDrop = true;
-            this.pictureBox53.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox53, "pictureBox53");
-            this.pictureBox53.Name = "pictureBox53";
-            this.pictureBox53.TabStop = false;
+            this.gibyExtragloss.AllowDrop = true;
+            this.gibyExtragloss.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyExtragloss, "gibyExtragloss");
+            this.gibyExtragloss.Name = "gibyExtragloss";
+            this.gibyExtragloss.TabStop = false;
             // 
-            // pictureBox54
+            // gibyExtraspec
             // 
-            this.pictureBox54.AllowDrop = true;
-            this.pictureBox54.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox54, "pictureBox54");
-            this.pictureBox54.Name = "pictureBox54";
-            this.pictureBox54.TabStop = false;
+            this.gibyExtraspec.AllowDrop = true;
+            this.gibyExtraspec.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyExtraspec, "gibyExtraspec");
+            this.gibyExtraspec.Name = "gibyExtraspec";
+            this.gibyExtraspec.TabStop = false;
             // 
             // tabPage17
             // 
@@ -2691,12 +2639,12 @@
             this.tabPage17.Controls.Add(this.label100);
             this.tabPage17.Controls.Add(this.label101);
             this.tabPage17.Controls.Add(this.label102);
-            this.tabPage17.Controls.Add(this.pictureBox55);
-            this.tabPage17.Controls.Add(this.pictureBox56);
-            this.tabPage17.Controls.Add(this.pictureBox57);
-            this.tabPage17.Controls.Add(this.pictureBox58);
-            this.tabPage17.Controls.Add(this.pictureBox59);
-            this.tabPage17.Controls.Add(this.pictureBox60);
+            this.tabPage17.Controls.Add(this.gibyGearcav);
+            this.tabPage17.Controls.Add(this.gibyGearao);
+            this.tabPage17.Controls.Add(this.gibyGearcol);
+            this.tabPage17.Controls.Add(this.gibyGearnorm);
+            this.tabPage17.Controls.Add(this.gibyGeargloss);
+            this.tabPage17.Controls.Add(this.gibyGearspec);
             resources.ApplyResources(this.tabPage17, "tabPage17");
             this.tabPage17.Name = "tabPage17";
             this.tabPage17.UseVisualStyleBackColor = true;
@@ -2731,245 +2679,53 @@
             resources.ApplyResources(this.label102, "label102");
             this.label102.Name = "label102";
             // 
-            // pictureBox55
+            // gibyGearcav
             // 
-            this.pictureBox55.AllowDrop = true;
-            this.pictureBox55.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox55, "pictureBox55");
-            this.pictureBox55.Name = "pictureBox55";
-            this.pictureBox55.TabStop = false;
+            this.gibyGearcav.AllowDrop = true;
+            this.gibyGearcav.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyGearcav, "gibyGearcav");
+            this.gibyGearcav.Name = "gibyGearcav";
+            this.gibyGearcav.TabStop = false;
             // 
-            // pictureBox56
+            // gibyGearao
             // 
-            this.pictureBox56.AllowDrop = true;
-            this.pictureBox56.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox56, "pictureBox56");
-            this.pictureBox56.Name = "pictureBox56";
-            this.pictureBox56.TabStop = false;
+            this.gibyGearao.AllowDrop = true;
+            this.gibyGearao.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyGearao, "gibyGearao");
+            this.gibyGearao.Name = "gibyGearao";
+            this.gibyGearao.TabStop = false;
             // 
-            // pictureBox57
+            // gibyGearcol
             // 
-            this.pictureBox57.AllowDrop = true;
-            this.pictureBox57.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox57, "pictureBox57");
-            this.pictureBox57.Name = "pictureBox57";
-            this.pictureBox57.TabStop = false;
+            this.gibyGearcol.AllowDrop = true;
+            this.gibyGearcol.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyGearcol, "gibyGearcol");
+            this.gibyGearcol.Name = "gibyGearcol";
+            this.gibyGearcol.TabStop = false;
             // 
-            // pictureBox58
+            // gibyGearnorm
             // 
-            this.pictureBox58.AllowDrop = true;
-            this.pictureBox58.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox58, "pictureBox58");
-            this.pictureBox58.Name = "pictureBox58";
-            this.pictureBox58.TabStop = false;
+            this.gibyGearnorm.AllowDrop = true;
+            this.gibyGearnorm.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyGearnorm, "gibyGearnorm");
+            this.gibyGearnorm.Name = "gibyGearnorm";
+            this.gibyGearnorm.TabStop = false;
             // 
-            // pictureBox59
+            // gibyGeargloss
             // 
-            this.pictureBox59.AllowDrop = true;
-            this.pictureBox59.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox59, "pictureBox59");
-            this.pictureBox59.Name = "pictureBox59";
-            this.pictureBox59.TabStop = false;
+            this.gibyGeargloss.AllowDrop = true;
+            this.gibyGeargloss.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyGeargloss, "gibyGeargloss");
+            this.gibyGeargloss.Name = "gibyGeargloss";
+            this.gibyGeargloss.TabStop = false;
             // 
-            // pictureBox60
+            // gibyGearspec
             // 
-            this.pictureBox60.AllowDrop = true;
-            this.pictureBox60.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox60, "pictureBox60");
-            this.pictureBox60.Name = "pictureBox60";
-            this.pictureBox60.TabStop = false;
-            // 
-            // tabPage18
-            // 
-            this.tabPage18.Controls.Add(this.label103);
-            this.tabPage18.Controls.Add(this.label104);
-            this.tabPage18.Controls.Add(this.label105);
-            this.tabPage18.Controls.Add(this.label106);
-            this.tabPage18.Controls.Add(this.label107);
-            this.tabPage18.Controls.Add(this.label108);
-            this.tabPage18.Controls.Add(this.pictureBox61);
-            this.tabPage18.Controls.Add(this.pictureBox62);
-            this.tabPage18.Controls.Add(this.pictureBox63);
-            this.tabPage18.Controls.Add(this.pictureBox64);
-            this.tabPage18.Controls.Add(this.pictureBox65);
-            this.tabPage18.Controls.Add(this.pictureBox66);
-            resources.ApplyResources(this.tabPage18, "tabPage18");
-            this.tabPage18.Name = "tabPage18";
-            this.tabPage18.UseVisualStyleBackColor = true;
-            // 
-            // label103
-            // 
-            resources.ApplyResources(this.label103, "label103");
-            this.label103.Name = "label103";
-            // 
-            // label104
-            // 
-            resources.ApplyResources(this.label104, "label104");
-            this.label104.Name = "label104";
-            // 
-            // label105
-            // 
-            resources.ApplyResources(this.label105, "label105");
-            this.label105.Name = "label105";
-            // 
-            // label106
-            // 
-            resources.ApplyResources(this.label106, "label106");
-            this.label106.Name = "label106";
-            // 
-            // label107
-            // 
-            resources.ApplyResources(this.label107, "label107");
-            this.label107.Name = "label107";
-            // 
-            // label108
-            // 
-            resources.ApplyResources(this.label108, "label108");
-            this.label108.Name = "label108";
-            // 
-            // pictureBox61
-            // 
-            this.pictureBox61.AllowDrop = true;
-            this.pictureBox61.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox61, "pictureBox61");
-            this.pictureBox61.Name = "pictureBox61";
-            this.pictureBox61.TabStop = false;
-            // 
-            // pictureBox62
-            // 
-            this.pictureBox62.AllowDrop = true;
-            this.pictureBox62.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox62, "pictureBox62");
-            this.pictureBox62.Name = "pictureBox62";
-            this.pictureBox62.TabStop = false;
-            // 
-            // pictureBox63
-            // 
-            this.pictureBox63.AllowDrop = true;
-            this.pictureBox63.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox63, "pictureBox63");
-            this.pictureBox63.Name = "pictureBox63";
-            this.pictureBox63.TabStop = false;
-            // 
-            // pictureBox64
-            // 
-            this.pictureBox64.AllowDrop = true;
-            this.pictureBox64.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox64, "pictureBox64");
-            this.pictureBox64.Name = "pictureBox64";
-            this.pictureBox64.TabStop = false;
-            // 
-            // pictureBox65
-            // 
-            this.pictureBox65.AllowDrop = true;
-            this.pictureBox65.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox65, "pictureBox65");
-            this.pictureBox65.Name = "pictureBox65";
-            this.pictureBox65.TabStop = false;
-            // 
-            // pictureBox66
-            // 
-            this.pictureBox66.AllowDrop = true;
-            this.pictureBox66.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox66, "pictureBox66");
-            this.pictureBox66.Name = "pictureBox66";
-            this.pictureBox66.TabStop = false;
-            // 
-            // tabPage19
-            // 
-            this.tabPage19.Controls.Add(this.label109);
-            this.tabPage19.Controls.Add(this.label110);
-            this.tabPage19.Controls.Add(this.label111);
-            this.tabPage19.Controls.Add(this.label112);
-            this.tabPage19.Controls.Add(this.label113);
-            this.tabPage19.Controls.Add(this.label114);
-            this.tabPage19.Controls.Add(this.pictureBox67);
-            this.tabPage19.Controls.Add(this.pictureBox68);
-            this.tabPage19.Controls.Add(this.pictureBox69);
-            this.tabPage19.Controls.Add(this.pictureBox70);
-            this.tabPage19.Controls.Add(this.pictureBox71);
-            this.tabPage19.Controls.Add(this.pictureBox72);
-            resources.ApplyResources(this.tabPage19, "tabPage19");
-            this.tabPage19.Name = "tabPage19";
-            this.tabPage19.UseVisualStyleBackColor = true;
-            // 
-            // label109
-            // 
-            resources.ApplyResources(this.label109, "label109");
-            this.label109.Name = "label109";
-            // 
-            // label110
-            // 
-            resources.ApplyResources(this.label110, "label110");
-            this.label110.Name = "label110";
-            // 
-            // label111
-            // 
-            resources.ApplyResources(this.label111, "label111");
-            this.label111.Name = "label111";
-            // 
-            // label112
-            // 
-            resources.ApplyResources(this.label112, "label112");
-            this.label112.Name = "label112";
-            // 
-            // label113
-            // 
-            resources.ApplyResources(this.label113, "label113");
-            this.label113.Name = "label113";
-            // 
-            // label114
-            // 
-            resources.ApplyResources(this.label114, "label114");
-            this.label114.Name = "label114";
-            // 
-            // pictureBox67
-            // 
-            this.pictureBox67.AllowDrop = true;
-            this.pictureBox67.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox67, "pictureBox67");
-            this.pictureBox67.Name = "pictureBox67";
-            this.pictureBox67.TabStop = false;
-            // 
-            // pictureBox68
-            // 
-            this.pictureBox68.AllowDrop = true;
-            this.pictureBox68.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox68, "pictureBox68");
-            this.pictureBox68.Name = "pictureBox68";
-            this.pictureBox68.TabStop = false;
-            // 
-            // pictureBox69
-            // 
-            this.pictureBox69.AllowDrop = true;
-            this.pictureBox69.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox69, "pictureBox69");
-            this.pictureBox69.Name = "pictureBox69";
-            this.pictureBox69.TabStop = false;
-            // 
-            // pictureBox70
-            // 
-            this.pictureBox70.AllowDrop = true;
-            this.pictureBox70.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox70, "pictureBox70");
-            this.pictureBox70.Name = "pictureBox70";
-            this.pictureBox70.TabStop = false;
-            // 
-            // pictureBox71
-            // 
-            this.pictureBox71.AllowDrop = true;
-            this.pictureBox71.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox71, "pictureBox71");
-            this.pictureBox71.Name = "pictureBox71";
-            this.pictureBox71.TabStop = false;
-            // 
-            // pictureBox72
-            // 
-            this.pictureBox72.AllowDrop = true;
-            this.pictureBox72.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox72, "pictureBox72");
-            this.pictureBox72.Name = "pictureBox72";
-            this.pictureBox72.TabStop = false;
+            this.gibyGearspec.AllowDrop = true;
+            this.gibyGearspec.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyGearspec, "gibyGearspec");
+            this.gibyGearspec.Name = "gibyGearspec";
+            this.gibyGearspec.TabStop = false;
             // 
             // tabPage20
             // 
@@ -2979,12 +2735,12 @@
             this.tabPage20.Controls.Add(this.label118);
             this.tabPage20.Controls.Add(this.label119);
             this.tabPage20.Controls.Add(this.label120);
-            this.tabPage20.Controls.Add(this.pictureBox73);
-            this.tabPage20.Controls.Add(this.pictureBox74);
-            this.tabPage20.Controls.Add(this.pictureBox75);
-            this.tabPage20.Controls.Add(this.pictureBox76);
-            this.tabPage20.Controls.Add(this.pictureBox77);
-            this.tabPage20.Controls.Add(this.pictureBox78);
+            this.tabPage20.Controls.Add(this.gibyJumpKitcav);
+            this.tabPage20.Controls.Add(this.gibyJumpKitao);
+            this.tabPage20.Controls.Add(this.gibyJumpKitcol);
+            this.tabPage20.Controls.Add(this.gibyJumpKitnorm);
+            this.tabPage20.Controls.Add(this.gibyJumpKitgloss);
+            this.tabPage20.Controls.Add(this.gibyJumpKitspec);
             resources.ApplyResources(this.tabPage20, "tabPage20");
             this.tabPage20.Name = "tabPage20";
             this.tabPage20.UseVisualStyleBackColor = true;
@@ -3019,53 +2775,53 @@
             resources.ApplyResources(this.label120, "label120");
             this.label120.Name = "label120";
             // 
-            // pictureBox73
+            // gibyJumpKitcav
             // 
-            this.pictureBox73.AllowDrop = true;
-            this.pictureBox73.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox73, "pictureBox73");
-            this.pictureBox73.Name = "pictureBox73";
-            this.pictureBox73.TabStop = false;
+            this.gibyJumpKitcav.AllowDrop = true;
+            this.gibyJumpKitcav.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyJumpKitcav, "gibyJumpKitcav");
+            this.gibyJumpKitcav.Name = "gibyJumpKitcav";
+            this.gibyJumpKitcav.TabStop = false;
             // 
-            // pictureBox74
+            // gibyJumpKitao
             // 
-            this.pictureBox74.AllowDrop = true;
-            this.pictureBox74.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox74, "pictureBox74");
-            this.pictureBox74.Name = "pictureBox74";
-            this.pictureBox74.TabStop = false;
+            this.gibyJumpKitao.AllowDrop = true;
+            this.gibyJumpKitao.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyJumpKitao, "gibyJumpKitao");
+            this.gibyJumpKitao.Name = "gibyJumpKitao";
+            this.gibyJumpKitao.TabStop = false;
             // 
-            // pictureBox75
+            // gibyJumpKitcol
             // 
-            this.pictureBox75.AllowDrop = true;
-            this.pictureBox75.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox75, "pictureBox75");
-            this.pictureBox75.Name = "pictureBox75";
-            this.pictureBox75.TabStop = false;
+            this.gibyJumpKitcol.AllowDrop = true;
+            this.gibyJumpKitcol.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyJumpKitcol, "gibyJumpKitcol");
+            this.gibyJumpKitcol.Name = "gibyJumpKitcol";
+            this.gibyJumpKitcol.TabStop = false;
             // 
-            // pictureBox76
+            // gibyJumpKitnorm
             // 
-            this.pictureBox76.AllowDrop = true;
-            this.pictureBox76.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox76, "pictureBox76");
-            this.pictureBox76.Name = "pictureBox76";
-            this.pictureBox76.TabStop = false;
+            this.gibyJumpKitnorm.AllowDrop = true;
+            this.gibyJumpKitnorm.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyJumpKitnorm, "gibyJumpKitnorm");
+            this.gibyJumpKitnorm.Name = "gibyJumpKitnorm";
+            this.gibyJumpKitnorm.TabStop = false;
             // 
-            // pictureBox77
+            // gibyJumpKitgloss
             // 
-            this.pictureBox77.AllowDrop = true;
-            this.pictureBox77.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox77, "pictureBox77");
-            this.pictureBox77.Name = "pictureBox77";
-            this.pictureBox77.TabStop = false;
+            this.gibyJumpKitgloss.AllowDrop = true;
+            this.gibyJumpKitgloss.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyJumpKitgloss, "gibyJumpKitgloss");
+            this.gibyJumpKitgloss.Name = "gibyJumpKitgloss";
+            this.gibyJumpKitgloss.TabStop = false;
             // 
-            // pictureBox78
+            // gibyJumpKitspec
             // 
-            this.pictureBox78.AllowDrop = true;
-            this.pictureBox78.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox78, "pictureBox78");
-            this.pictureBox78.Name = "pictureBox78";
-            this.pictureBox78.TabStop = false;
+            this.gibyJumpKitspec.AllowDrop = true;
+            this.gibyJumpKitspec.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyJumpKitspec, "gibyJumpKitspec");
+            this.gibyJumpKitspec.Name = "gibyJumpKitspec";
+            this.gibyJumpKitspec.TabStop = false;
             // 
             // tabPage21
             // 
@@ -3075,12 +2831,12 @@
             this.tabPage21.Controls.Add(this.label124);
             this.tabPage21.Controls.Add(this.label125);
             this.tabPage21.Controls.Add(this.label126);
-            this.tabPage21.Controls.Add(this.pictureBox79);
-            this.tabPage21.Controls.Add(this.pictureBox80);
-            this.tabPage21.Controls.Add(this.pictureBox81);
-            this.tabPage21.Controls.Add(this.pictureBox82);
-            this.tabPage21.Controls.Add(this.pictureBox83);
-            this.tabPage21.Controls.Add(this.pictureBox84);
+            this.tabPage21.Controls.Add(this.gibyShieldcav);
+            this.tabPage21.Controls.Add(this.gibyShieldao);
+            this.tabPage21.Controls.Add(this.gibyShieldcol);
+            this.tabPage21.Controls.Add(this.gibyShieldnorm);
+            this.tabPage21.Controls.Add(this.gibyShieldgloss);
+            this.tabPage21.Controls.Add(this.gibyShieldspec);
             resources.ApplyResources(this.tabPage21, "tabPage21");
             this.tabPage21.Name = "tabPage21";
             this.tabPage21.UseVisualStyleBackColor = true;
@@ -3115,53 +2871,53 @@
             resources.ApplyResources(this.label126, "label126");
             this.label126.Name = "label126";
             // 
-            // pictureBox79
+            // gibyShieldcav
             // 
-            this.pictureBox79.AllowDrop = true;
-            this.pictureBox79.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox79, "pictureBox79");
-            this.pictureBox79.Name = "pictureBox79";
-            this.pictureBox79.TabStop = false;
+            this.gibyShieldcav.AllowDrop = true;
+            this.gibyShieldcav.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyShieldcav, "gibyShieldcav");
+            this.gibyShieldcav.Name = "gibyShieldcav";
+            this.gibyShieldcav.TabStop = false;
             // 
-            // pictureBox80
+            // gibyShieldao
             // 
-            this.pictureBox80.AllowDrop = true;
-            this.pictureBox80.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox80, "pictureBox80");
-            this.pictureBox80.Name = "pictureBox80";
-            this.pictureBox80.TabStop = false;
+            this.gibyShieldao.AllowDrop = true;
+            this.gibyShieldao.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyShieldao, "gibyShieldao");
+            this.gibyShieldao.Name = "gibyShieldao";
+            this.gibyShieldao.TabStop = false;
             // 
-            // pictureBox81
+            // gibyShieldcol
             // 
-            this.pictureBox81.AllowDrop = true;
-            this.pictureBox81.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox81, "pictureBox81");
-            this.pictureBox81.Name = "pictureBox81";
-            this.pictureBox81.TabStop = false;
+            this.gibyShieldcol.AllowDrop = true;
+            this.gibyShieldcol.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyShieldcol, "gibyShieldcol");
+            this.gibyShieldcol.Name = "gibyShieldcol";
+            this.gibyShieldcol.TabStop = false;
             // 
-            // pictureBox82
+            // gibyShieldnorm
             // 
-            this.pictureBox82.AllowDrop = true;
-            this.pictureBox82.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox82, "pictureBox82");
-            this.pictureBox82.Name = "pictureBox82";
-            this.pictureBox82.TabStop = false;
+            this.gibyShieldnorm.AllowDrop = true;
+            this.gibyShieldnorm.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyShieldnorm, "gibyShieldnorm");
+            this.gibyShieldnorm.Name = "gibyShieldnorm";
+            this.gibyShieldnorm.TabStop = false;
             // 
-            // pictureBox83
+            // gibyShieldgloss
             // 
-            this.pictureBox83.AllowDrop = true;
-            this.pictureBox83.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox83, "pictureBox83");
-            this.pictureBox83.Name = "pictureBox83";
-            this.pictureBox83.TabStop = false;
+            this.gibyShieldgloss.AllowDrop = true;
+            this.gibyShieldgloss.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyShieldgloss, "gibyShieldgloss");
+            this.gibyShieldgloss.Name = "gibyShieldgloss";
+            this.gibyShieldgloss.TabStop = false;
             // 
-            // pictureBox84
+            // gibyShieldspec
             // 
-            this.pictureBox84.AllowDrop = true;
-            this.pictureBox84.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox84, "pictureBox84");
-            this.pictureBox84.Name = "pictureBox84";
-            this.pictureBox84.TabStop = false;
+            this.gibyShieldspec.AllowDrop = true;
+            this.gibyShieldspec.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyShieldspec, "gibyShieldspec");
+            this.gibyShieldspec.Name = "gibyShieldspec";
+            this.gibyShieldspec.TabStop = false;
             // 
             // tabPage22
             // 
@@ -3171,12 +2927,12 @@
             this.tabPage22.Controls.Add(this.label130);
             this.tabPage22.Controls.Add(this.label131);
             this.tabPage22.Controls.Add(this.label132);
-            this.tabPage22.Controls.Add(this.pictureBox85);
-            this.tabPage22.Controls.Add(this.pictureBox86);
-            this.tabPage22.Controls.Add(this.pictureBox87);
-            this.tabPage22.Controls.Add(this.pictureBox88);
-            this.tabPage22.Controls.Add(this.pictureBox89);
-            this.tabPage22.Controls.Add(this.pictureBox90);
+            this.tabPage22.Controls.Add(this.gibyProxycav);
+            this.tabPage22.Controls.Add(this.gibyProxyao);
+            this.tabPage22.Controls.Add(this.gibyProxycol);
+            this.tabPage22.Controls.Add(this.gibyProxynorm);
+            this.tabPage22.Controls.Add(this.gibyProxygloss);
+            this.tabPage22.Controls.Add(this.gibyProxyspec);
             resources.ApplyResources(this.tabPage22, "tabPage22");
             this.tabPage22.Name = "tabPage22";
             this.tabPage22.UseVisualStyleBackColor = true;
@@ -3211,53 +2967,53 @@
             resources.ApplyResources(this.label132, "label132");
             this.label132.Name = "label132";
             // 
-            // pictureBox85
+            // gibyProxycav
             // 
-            this.pictureBox85.AllowDrop = true;
-            this.pictureBox85.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox85, "pictureBox85");
-            this.pictureBox85.Name = "pictureBox85";
-            this.pictureBox85.TabStop = false;
+            this.gibyProxycav.AllowDrop = true;
+            this.gibyProxycav.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyProxycav, "gibyProxycav");
+            this.gibyProxycav.Name = "gibyProxycav";
+            this.gibyProxycav.TabStop = false;
             // 
-            // pictureBox86
+            // gibyProxyao
             // 
-            this.pictureBox86.AllowDrop = true;
-            this.pictureBox86.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox86, "pictureBox86");
-            this.pictureBox86.Name = "pictureBox86";
-            this.pictureBox86.TabStop = false;
+            this.gibyProxyao.AllowDrop = true;
+            this.gibyProxyao.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyProxyao, "gibyProxyao");
+            this.gibyProxyao.Name = "gibyProxyao";
+            this.gibyProxyao.TabStop = false;
             // 
-            // pictureBox87
+            // gibyProxycol
             // 
-            this.pictureBox87.AllowDrop = true;
-            this.pictureBox87.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox87, "pictureBox87");
-            this.pictureBox87.Name = "pictureBox87";
-            this.pictureBox87.TabStop = false;
+            this.gibyProxycol.AllowDrop = true;
+            this.gibyProxycol.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyProxycol, "gibyProxycol");
+            this.gibyProxycol.Name = "gibyProxycol";
+            this.gibyProxycol.TabStop = false;
             // 
-            // pictureBox88
+            // gibyProxynorm
             // 
-            this.pictureBox88.AllowDrop = true;
-            this.pictureBox88.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox88, "pictureBox88");
-            this.pictureBox88.Name = "pictureBox88";
-            this.pictureBox88.TabStop = false;
+            this.gibyProxynorm.AllowDrop = true;
+            this.gibyProxynorm.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyProxynorm, "gibyProxynorm");
+            this.gibyProxynorm.Name = "gibyProxynorm";
+            this.gibyProxynorm.TabStop = false;
             // 
-            // pictureBox89
+            // gibyProxygloss
             // 
-            this.pictureBox89.AllowDrop = true;
-            this.pictureBox89.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox89, "pictureBox89");
-            this.pictureBox89.Name = "pictureBox89";
-            this.pictureBox89.TabStop = false;
+            this.gibyProxygloss.AllowDrop = true;
+            this.gibyProxygloss.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyProxygloss, "gibyProxygloss");
+            this.gibyProxygloss.Name = "gibyProxygloss";
+            this.gibyProxygloss.TabStop = false;
             // 
-            // pictureBox90
+            // gibyProxyspec
             // 
-            this.pictureBox90.AllowDrop = true;
-            this.pictureBox90.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox90, "pictureBox90");
-            this.pictureBox90.Name = "pictureBox90";
-            this.pictureBox90.TabStop = false;
+            this.gibyProxyspec.AllowDrop = true;
+            this.gibyProxyspec.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyProxyspec, "gibyProxyspec");
+            this.gibyProxyspec.Name = "gibyProxyspec";
+            this.gibyProxyspec.TabStop = false;
             // 
             // tabPage23
             // 
@@ -3267,12 +3023,12 @@
             this.tabPage23.Controls.Add(this.label136);
             this.tabPage23.Controls.Add(this.label137);
             this.tabPage23.Controls.Add(this.label138);
-            this.tabPage23.Controls.Add(this.pictureBox91);
-            this.tabPage23.Controls.Add(this.pictureBox92);
-            this.tabPage23.Controls.Add(this.pictureBox93);
-            this.tabPage23.Controls.Add(this.pictureBox94);
-            this.tabPage23.Controls.Add(this.pictureBox95);
-            this.tabPage23.Controls.Add(this.pictureBox96);
+            this.tabPage23.Controls.Add(this.gibySheildClampcav);
+            this.tabPage23.Controls.Add(this.gibySheildClampao);
+            this.tabPage23.Controls.Add(this.gibySheildClampcol);
+            this.tabPage23.Controls.Add(this.gibySheildClampnorm);
+            this.tabPage23.Controls.Add(this.gibySheildClampgloss);
+            this.tabPage23.Controls.Add(this.gibySheildClampspec);
             resources.ApplyResources(this.tabPage23, "tabPage23");
             this.tabPage23.Name = "tabPage23";
             this.tabPage23.UseVisualStyleBackColor = true;
@@ -3307,53 +3063,53 @@
             resources.ApplyResources(this.label138, "label138");
             this.label138.Name = "label138";
             // 
-            // pictureBox91
+            // gibySheildClampcav
             // 
-            this.pictureBox91.AllowDrop = true;
-            this.pictureBox91.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox91, "pictureBox91");
-            this.pictureBox91.Name = "pictureBox91";
-            this.pictureBox91.TabStop = false;
+            this.gibySheildClampcav.AllowDrop = true;
+            this.gibySheildClampcav.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibySheildClampcav, "gibySheildClampcav");
+            this.gibySheildClampcav.Name = "gibySheildClampcav";
+            this.gibySheildClampcav.TabStop = false;
             // 
-            // pictureBox92
+            // gibySheildClampao
             // 
-            this.pictureBox92.AllowDrop = true;
-            this.pictureBox92.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox92, "pictureBox92");
-            this.pictureBox92.Name = "pictureBox92";
-            this.pictureBox92.TabStop = false;
+            this.gibySheildClampao.AllowDrop = true;
+            this.gibySheildClampao.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibySheildClampao, "gibySheildClampao");
+            this.gibySheildClampao.Name = "gibySheildClampao";
+            this.gibySheildClampao.TabStop = false;
             // 
-            // pictureBox93
+            // gibySheildClampcol
             // 
-            this.pictureBox93.AllowDrop = true;
-            this.pictureBox93.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox93, "pictureBox93");
-            this.pictureBox93.Name = "pictureBox93";
-            this.pictureBox93.TabStop = false;
+            this.gibySheildClampcol.AllowDrop = true;
+            this.gibySheildClampcol.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibySheildClampcol, "gibySheildClampcol");
+            this.gibySheildClampcol.Name = "gibySheildClampcol";
+            this.gibySheildClampcol.TabStop = false;
             // 
-            // pictureBox94
+            // gibySheildClampnorm
             // 
-            this.pictureBox94.AllowDrop = true;
-            this.pictureBox94.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox94, "pictureBox94");
-            this.pictureBox94.Name = "pictureBox94";
-            this.pictureBox94.TabStop = false;
+            this.gibySheildClampnorm.AllowDrop = true;
+            this.gibySheildClampnorm.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibySheildClampnorm, "gibySheildClampnorm");
+            this.gibySheildClampnorm.Name = "gibySheildClampnorm";
+            this.gibySheildClampnorm.TabStop = false;
             // 
-            // pictureBox95
+            // gibySheildClampgloss
             // 
-            this.pictureBox95.AllowDrop = true;
-            this.pictureBox95.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox95, "pictureBox95");
-            this.pictureBox95.Name = "pictureBox95";
-            this.pictureBox95.TabStop = false;
+            this.gibySheildClampgloss.AllowDrop = true;
+            this.gibySheildClampgloss.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibySheildClampgloss, "gibySheildClampgloss");
+            this.gibySheildClampgloss.Name = "gibySheildClampgloss";
+            this.gibySheildClampgloss.TabStop = false;
             // 
-            // pictureBox96
+            // gibySheildClampspec
             // 
-            this.pictureBox96.AllowDrop = true;
-            this.pictureBox96.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox96, "pictureBox96");
-            this.pictureBox96.Name = "pictureBox96";
-            this.pictureBox96.TabStop = false;
+            this.gibySheildClampspec.AllowDrop = true;
+            this.gibySheildClampspec.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibySheildClampspec, "gibySheildClampspec");
+            this.gibySheildClampspec.Name = "gibySheildClampspec";
+            this.gibySheildClampspec.TabStop = false;
             // 
             // tabPage24
             // 
@@ -3363,12 +3119,12 @@
             this.tabPage24.Controls.Add(this.label142);
             this.tabPage24.Controls.Add(this.label143);
             this.tabPage24.Controls.Add(this.label144);
-            this.tabPage24.Controls.Add(this.pictureBox97);
-            this.tabPage24.Controls.Add(this.pictureBox98);
-            this.tabPage24.Controls.Add(this.pictureBox99);
-            this.tabPage24.Controls.Add(this.pictureBox100);
-            this.tabPage24.Controls.Add(this.pictureBox101);
-            this.tabPage24.Controls.Add(this.pictureBox102);
+            this.tabPage24.Controls.Add(this.gibyVMcav);
+            this.tabPage24.Controls.Add(this.gibyVMao);
+            this.tabPage24.Controls.Add(this.gibyVMcol);
+            this.tabPage24.Controls.Add(this.gibyVMnorm);
+            this.tabPage24.Controls.Add(this.gibyVMgloss);
+            this.tabPage24.Controls.Add(this.gibyVMspec);
             resources.ApplyResources(this.tabPage24, "tabPage24");
             this.tabPage24.Name = "tabPage24";
             this.tabPage24.UseVisualStyleBackColor = true;
@@ -3403,73 +3159,71 @@
             resources.ApplyResources(this.label144, "label144");
             this.label144.Name = "label144";
             // 
-            // pictureBox97
+            // gibyVMcav
             // 
-            this.pictureBox97.AllowDrop = true;
-            this.pictureBox97.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox97, "pictureBox97");
-            this.pictureBox97.Name = "pictureBox97";
-            this.pictureBox97.TabStop = false;
+            this.gibyVMcav.AllowDrop = true;
+            this.gibyVMcav.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyVMcav, "gibyVMcav");
+            this.gibyVMcav.Name = "gibyVMcav";
+            this.gibyVMcav.TabStop = false;
             // 
-            // pictureBox98
+            // gibyVMao
             // 
-            this.pictureBox98.AllowDrop = true;
-            this.pictureBox98.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox98, "pictureBox98");
-            this.pictureBox98.Name = "pictureBox98";
-            this.pictureBox98.TabStop = false;
+            this.gibyVMao.AllowDrop = true;
+            this.gibyVMao.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyVMao, "gibyVMao");
+            this.gibyVMao.Name = "gibyVMao";
+            this.gibyVMao.TabStop = false;
             // 
-            // pictureBox99
+            // gibyVMcol
             // 
-            this.pictureBox99.AllowDrop = true;
-            this.pictureBox99.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox99, "pictureBox99");
-            this.pictureBox99.Name = "pictureBox99";
-            this.pictureBox99.TabStop = false;
+            this.gibyVMcol.AllowDrop = true;
+            this.gibyVMcol.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyVMcol, "gibyVMcol");
+            this.gibyVMcol.Name = "gibyVMcol";
+            this.gibyVMcol.TabStop = false;
             // 
-            // pictureBox100
+            // gibyVMnorm
             // 
-            this.pictureBox100.AllowDrop = true;
-            this.pictureBox100.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox100, "pictureBox100");
-            this.pictureBox100.Name = "pictureBox100";
-            this.pictureBox100.TabStop = false;
+            this.gibyVMnorm.AllowDrop = true;
+            this.gibyVMnorm.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyVMnorm, "gibyVMnorm");
+            this.gibyVMnorm.Name = "gibyVMnorm";
+            this.gibyVMnorm.TabStop = false;
             // 
-            // pictureBox101
+            // gibyVMgloss
             // 
-            this.pictureBox101.AllowDrop = true;
-            this.pictureBox101.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox101, "pictureBox101");
-            this.pictureBox101.Name = "pictureBox101";
-            this.pictureBox101.TabStop = false;
+            this.gibyVMgloss.AllowDrop = true;
+            this.gibyVMgloss.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyVMgloss, "gibyVMgloss");
+            this.gibyVMgloss.Name = "gibyVMgloss";
+            this.gibyVMgloss.TabStop = false;
             // 
-            // pictureBox102
+            // gibyVMspec
             // 
-            this.pictureBox102.AllowDrop = true;
-            this.pictureBox102.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox102, "pictureBox102");
-            this.pictureBox102.Name = "pictureBox102";
-            this.pictureBox102.TabStop = false;
+            this.gibyVMspec.AllowDrop = true;
+            this.gibyVMspec.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.gibyVMspec, "gibyVMspec");
+            this.gibyVMspec.Name = "gibyVMspec";
+            this.gibyVMspec.TabStop = false;
             // 
             // LifelinetabPage
             // 
-            this.LifelinetabPage.Controls.Add(this.tabControl5);
+            this.LifelinetabPage.Controls.Add(this.ltab12);
             resources.ApplyResources(this.LifelinetabPage, "LifelinetabPage");
             this.LifelinetabPage.Name = "LifelinetabPage";
             this.LifelinetabPage.UseVisualStyleBackColor = true;
             // 
-            // tabControl5
+            // ltab12
             // 
-            this.tabControl5.Controls.Add(this.tabPage3);
-            this.tabControl5.Controls.Add(this.tabPage25);
-            this.tabControl5.Controls.Add(this.tabPage26);
-            this.tabControl5.Controls.Add(this.tabPage27);
-            this.tabControl5.Controls.Add(this.tabPage28);
-            this.tabControl5.Controls.Add(this.tabPage29);
-            this.tabControl5.Controls.Add(this.tabPage30);
-            resources.ApplyResources(this.tabControl5, "tabControl5");
-            this.tabControl5.Name = "tabControl5";
-            this.tabControl5.SelectedIndex = 0;
+            this.ltab12.Controls.Add(this.tabPage3);
+            this.ltab12.Controls.Add(this.tabPage25);
+            this.ltab12.Controls.Add(this.tabPage28);
+            this.ltab12.Controls.Add(this.tabPage29);
+            this.ltab12.Controls.Add(this.tabPage30);
+            resources.ApplyResources(this.ltab12, "ltab12");
+            this.ltab12.Name = "ltab12";
+            this.ltab12.SelectedIndex = 0;
             // 
             // tabPage3
             // 
@@ -3479,12 +3233,12 @@
             this.tabPage3.Controls.Add(this.label148);
             this.tabPage3.Controls.Add(this.label149);
             this.tabPage3.Controls.Add(this.label150);
-            this.tabPage3.Controls.Add(this.pictureBox103);
-            this.tabPage3.Controls.Add(this.pictureBox104);
-            this.tabPage3.Controls.Add(this.pictureBox105);
-            this.tabPage3.Controls.Add(this.pictureBox106);
-            this.tabPage3.Controls.Add(this.pictureBox107);
-            this.tabPage3.Controls.Add(this.pictureBox108);
+            this.tabPage3.Controls.Add(this.lifelineBodycav);
+            this.tabPage3.Controls.Add(this.lifelineBodyao);
+            this.tabPage3.Controls.Add(this.lifelineBodycol);
+            this.tabPage3.Controls.Add(this.lifelineBodynorm);
+            this.tabPage3.Controls.Add(this.lifelineBodygloss);
+            this.tabPage3.Controls.Add(this.lifelineBodyspec);
             resources.ApplyResources(this.tabPage3, "tabPage3");
             this.tabPage3.Name = "tabPage3";
             this.tabPage3.UseVisualStyleBackColor = true;
@@ -3519,53 +3273,53 @@
             resources.ApplyResources(this.label150, "label150");
             this.label150.Name = "label150";
             // 
-            // pictureBox103
+            // lifelineBodycav
             // 
-            this.pictureBox103.AllowDrop = true;
-            this.pictureBox103.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox103, "pictureBox103");
-            this.pictureBox103.Name = "pictureBox103";
-            this.pictureBox103.TabStop = false;
+            this.lifelineBodycav.AllowDrop = true;
+            this.lifelineBodycav.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineBodycav, "lifelineBodycav");
+            this.lifelineBodycav.Name = "lifelineBodycav";
+            this.lifelineBodycav.TabStop = false;
             // 
-            // pictureBox104
+            // lifelineBodyao
             // 
-            this.pictureBox104.AllowDrop = true;
-            this.pictureBox104.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox104, "pictureBox104");
-            this.pictureBox104.Name = "pictureBox104";
-            this.pictureBox104.TabStop = false;
+            this.lifelineBodyao.AllowDrop = true;
+            this.lifelineBodyao.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineBodyao, "lifelineBodyao");
+            this.lifelineBodyao.Name = "lifelineBodyao";
+            this.lifelineBodyao.TabStop = false;
             // 
-            // pictureBox105
+            // lifelineBodycol
             // 
-            this.pictureBox105.AllowDrop = true;
-            this.pictureBox105.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox105, "pictureBox105");
-            this.pictureBox105.Name = "pictureBox105";
-            this.pictureBox105.TabStop = false;
+            this.lifelineBodycol.AllowDrop = true;
+            this.lifelineBodycol.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineBodycol, "lifelineBodycol");
+            this.lifelineBodycol.Name = "lifelineBodycol";
+            this.lifelineBodycol.TabStop = false;
             // 
-            // pictureBox106
+            // lifelineBodynorm
             // 
-            this.pictureBox106.AllowDrop = true;
-            this.pictureBox106.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox106, "pictureBox106");
-            this.pictureBox106.Name = "pictureBox106";
-            this.pictureBox106.TabStop = false;
+            this.lifelineBodynorm.AllowDrop = true;
+            this.lifelineBodynorm.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineBodynorm, "lifelineBodynorm");
+            this.lifelineBodynorm.Name = "lifelineBodynorm";
+            this.lifelineBodynorm.TabStop = false;
             // 
-            // pictureBox107
+            // lifelineBodygloss
             // 
-            this.pictureBox107.AllowDrop = true;
-            this.pictureBox107.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox107, "pictureBox107");
-            this.pictureBox107.Name = "pictureBox107";
-            this.pictureBox107.TabStop = false;
+            this.lifelineBodygloss.AllowDrop = true;
+            this.lifelineBodygloss.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineBodygloss, "lifelineBodygloss");
+            this.lifelineBodygloss.Name = "lifelineBodygloss";
+            this.lifelineBodygloss.TabStop = false;
             // 
-            // pictureBox108
+            // lifelineBodyspec
             // 
-            this.pictureBox108.AllowDrop = true;
-            this.pictureBox108.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox108, "pictureBox108");
-            this.pictureBox108.Name = "pictureBox108";
-            this.pictureBox108.TabStop = false;
+            this.lifelineBodyspec.AllowDrop = true;
+            this.lifelineBodyspec.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineBodyspec, "lifelineBodyspec");
+            this.lifelineBodyspec.Name = "lifelineBodyspec";
+            this.lifelineBodyspec.TabStop = false;
             // 
             // tabPage25
             // 
@@ -3575,12 +3329,12 @@
             this.tabPage25.Controls.Add(this.label154);
             this.tabPage25.Controls.Add(this.label155);
             this.tabPage25.Controls.Add(this.label156);
-            this.tabPage25.Controls.Add(this.pictureBox109);
-            this.tabPage25.Controls.Add(this.pictureBox110);
-            this.tabPage25.Controls.Add(this.pictureBox111);
-            this.tabPage25.Controls.Add(this.pictureBox112);
-            this.tabPage25.Controls.Add(this.pictureBox113);
-            this.tabPage25.Controls.Add(this.pictureBox114);
+            this.tabPage25.Controls.Add(this.lifelineDronecav);
+            this.tabPage25.Controls.Add(this.lifelineDroneao);
+            this.tabPage25.Controls.Add(this.lifelineDronecol);
+            this.tabPage25.Controls.Add(this.lifelineDronenorm);
+            this.tabPage25.Controls.Add(this.lifelineDronegloss);
+            this.tabPage25.Controls.Add(this.lifelineDronespec);
             resources.ApplyResources(this.tabPage25, "tabPage25");
             this.tabPage25.Name = "tabPage25";
             this.tabPage25.UseVisualStyleBackColor = true;
@@ -3615,245 +3369,53 @@
             resources.ApplyResources(this.label156, "label156");
             this.label156.Name = "label156";
             // 
-            // pictureBox109
+            // lifelineDronecav
             // 
-            this.pictureBox109.AllowDrop = true;
-            this.pictureBox109.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox109, "pictureBox109");
-            this.pictureBox109.Name = "pictureBox109";
-            this.pictureBox109.TabStop = false;
+            this.lifelineDronecav.AllowDrop = true;
+            this.lifelineDronecav.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineDronecav, "lifelineDronecav");
+            this.lifelineDronecav.Name = "lifelineDronecav";
+            this.lifelineDronecav.TabStop = false;
             // 
-            // pictureBox110
+            // lifelineDroneao
             // 
-            this.pictureBox110.AllowDrop = true;
-            this.pictureBox110.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox110, "pictureBox110");
-            this.pictureBox110.Name = "pictureBox110";
-            this.pictureBox110.TabStop = false;
+            this.lifelineDroneao.AllowDrop = true;
+            this.lifelineDroneao.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineDroneao, "lifelineDroneao");
+            this.lifelineDroneao.Name = "lifelineDroneao";
+            this.lifelineDroneao.TabStop = false;
             // 
-            // pictureBox111
+            // lifelineDronecol
             // 
-            this.pictureBox111.AllowDrop = true;
-            this.pictureBox111.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox111, "pictureBox111");
-            this.pictureBox111.Name = "pictureBox111";
-            this.pictureBox111.TabStop = false;
+            this.lifelineDronecol.AllowDrop = true;
+            this.lifelineDronecol.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineDronecol, "lifelineDronecol");
+            this.lifelineDronecol.Name = "lifelineDronecol";
+            this.lifelineDronecol.TabStop = false;
             // 
-            // pictureBox112
+            // lifelineDronenorm
             // 
-            this.pictureBox112.AllowDrop = true;
-            this.pictureBox112.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox112, "pictureBox112");
-            this.pictureBox112.Name = "pictureBox112";
-            this.pictureBox112.TabStop = false;
+            this.lifelineDronenorm.AllowDrop = true;
+            this.lifelineDronenorm.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineDronenorm, "lifelineDronenorm");
+            this.lifelineDronenorm.Name = "lifelineDronenorm";
+            this.lifelineDronenorm.TabStop = false;
             // 
-            // pictureBox113
+            // lifelineDronegloss
             // 
-            this.pictureBox113.AllowDrop = true;
-            this.pictureBox113.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox113, "pictureBox113");
-            this.pictureBox113.Name = "pictureBox113";
-            this.pictureBox113.TabStop = false;
+            this.lifelineDronegloss.AllowDrop = true;
+            this.lifelineDronegloss.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineDronegloss, "lifelineDronegloss");
+            this.lifelineDronegloss.Name = "lifelineDronegloss";
+            this.lifelineDronegloss.TabStop = false;
             // 
-            // pictureBox114
+            // lifelineDronespec
             // 
-            this.pictureBox114.AllowDrop = true;
-            this.pictureBox114.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox114, "pictureBox114");
-            this.pictureBox114.Name = "pictureBox114";
-            this.pictureBox114.TabStop = false;
-            // 
-            // tabPage26
-            // 
-            this.tabPage26.Controls.Add(this.label157);
-            this.tabPage26.Controls.Add(this.label158);
-            this.tabPage26.Controls.Add(this.label159);
-            this.tabPage26.Controls.Add(this.label160);
-            this.tabPage26.Controls.Add(this.label161);
-            this.tabPage26.Controls.Add(this.label162);
-            this.tabPage26.Controls.Add(this.pictureBox115);
-            this.tabPage26.Controls.Add(this.pictureBox116);
-            this.tabPage26.Controls.Add(this.pictureBox117);
-            this.tabPage26.Controls.Add(this.pictureBox118);
-            this.tabPage26.Controls.Add(this.pictureBox119);
-            this.tabPage26.Controls.Add(this.pictureBox120);
-            resources.ApplyResources(this.tabPage26, "tabPage26");
-            this.tabPage26.Name = "tabPage26";
-            this.tabPage26.UseVisualStyleBackColor = true;
-            // 
-            // label157
-            // 
-            resources.ApplyResources(this.label157, "label157");
-            this.label157.Name = "label157";
-            // 
-            // label158
-            // 
-            resources.ApplyResources(this.label158, "label158");
-            this.label158.Name = "label158";
-            // 
-            // label159
-            // 
-            resources.ApplyResources(this.label159, "label159");
-            this.label159.Name = "label159";
-            // 
-            // label160
-            // 
-            resources.ApplyResources(this.label160, "label160");
-            this.label160.Name = "label160";
-            // 
-            // label161
-            // 
-            resources.ApplyResources(this.label161, "label161");
-            this.label161.Name = "label161";
-            // 
-            // label162
-            // 
-            resources.ApplyResources(this.label162, "label162");
-            this.label162.Name = "label162";
-            // 
-            // pictureBox115
-            // 
-            this.pictureBox115.AllowDrop = true;
-            this.pictureBox115.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox115, "pictureBox115");
-            this.pictureBox115.Name = "pictureBox115";
-            this.pictureBox115.TabStop = false;
-            // 
-            // pictureBox116
-            // 
-            this.pictureBox116.AllowDrop = true;
-            this.pictureBox116.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox116, "pictureBox116");
-            this.pictureBox116.Name = "pictureBox116";
-            this.pictureBox116.TabStop = false;
-            // 
-            // pictureBox117
-            // 
-            this.pictureBox117.AllowDrop = true;
-            this.pictureBox117.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox117, "pictureBox117");
-            this.pictureBox117.Name = "pictureBox117";
-            this.pictureBox117.TabStop = false;
-            // 
-            // pictureBox118
-            // 
-            this.pictureBox118.AllowDrop = true;
-            this.pictureBox118.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox118, "pictureBox118");
-            this.pictureBox118.Name = "pictureBox118";
-            this.pictureBox118.TabStop = false;
-            // 
-            // pictureBox119
-            // 
-            this.pictureBox119.AllowDrop = true;
-            this.pictureBox119.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox119, "pictureBox119");
-            this.pictureBox119.Name = "pictureBox119";
-            this.pictureBox119.TabStop = false;
-            // 
-            // pictureBox120
-            // 
-            this.pictureBox120.AllowDrop = true;
-            this.pictureBox120.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox120, "pictureBox120");
-            this.pictureBox120.Name = "pictureBox120";
-            this.pictureBox120.TabStop = false;
-            // 
-            // tabPage27
-            // 
-            this.tabPage27.Controls.Add(this.label163);
-            this.tabPage27.Controls.Add(this.label164);
-            this.tabPage27.Controls.Add(this.label165);
-            this.tabPage27.Controls.Add(this.label166);
-            this.tabPage27.Controls.Add(this.label167);
-            this.tabPage27.Controls.Add(this.label168);
-            this.tabPage27.Controls.Add(this.pictureBox121);
-            this.tabPage27.Controls.Add(this.pictureBox122);
-            this.tabPage27.Controls.Add(this.pictureBox123);
-            this.tabPage27.Controls.Add(this.pictureBox124);
-            this.tabPage27.Controls.Add(this.pictureBox125);
-            this.tabPage27.Controls.Add(this.pictureBox126);
-            resources.ApplyResources(this.tabPage27, "tabPage27");
-            this.tabPage27.Name = "tabPage27";
-            this.tabPage27.UseVisualStyleBackColor = true;
-            // 
-            // label163
-            // 
-            resources.ApplyResources(this.label163, "label163");
-            this.label163.Name = "label163";
-            // 
-            // label164
-            // 
-            resources.ApplyResources(this.label164, "label164");
-            this.label164.Name = "label164";
-            // 
-            // label165
-            // 
-            resources.ApplyResources(this.label165, "label165");
-            this.label165.Name = "label165";
-            // 
-            // label166
-            // 
-            resources.ApplyResources(this.label166, "label166");
-            this.label166.Name = "label166";
-            // 
-            // label167
-            // 
-            resources.ApplyResources(this.label167, "label167");
-            this.label167.Name = "label167";
-            // 
-            // label168
-            // 
-            resources.ApplyResources(this.label168, "label168");
-            this.label168.Name = "label168";
-            // 
-            // pictureBox121
-            // 
-            this.pictureBox121.AllowDrop = true;
-            this.pictureBox121.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox121, "pictureBox121");
-            this.pictureBox121.Name = "pictureBox121";
-            this.pictureBox121.TabStop = false;
-            // 
-            // pictureBox122
-            // 
-            this.pictureBox122.AllowDrop = true;
-            this.pictureBox122.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox122, "pictureBox122");
-            this.pictureBox122.Name = "pictureBox122";
-            this.pictureBox122.TabStop = false;
-            // 
-            // pictureBox123
-            // 
-            this.pictureBox123.AllowDrop = true;
-            this.pictureBox123.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox123, "pictureBox123");
-            this.pictureBox123.Name = "pictureBox123";
-            this.pictureBox123.TabStop = false;
-            // 
-            // pictureBox124
-            // 
-            this.pictureBox124.AllowDrop = true;
-            this.pictureBox124.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox124, "pictureBox124");
-            this.pictureBox124.Name = "pictureBox124";
-            this.pictureBox124.TabStop = false;
-            // 
-            // pictureBox125
-            // 
-            this.pictureBox125.AllowDrop = true;
-            this.pictureBox125.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox125, "pictureBox125");
-            this.pictureBox125.Name = "pictureBox125";
-            this.pictureBox125.TabStop = false;
-            // 
-            // pictureBox126
-            // 
-            this.pictureBox126.AllowDrop = true;
-            this.pictureBox126.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox126, "pictureBox126");
-            this.pictureBox126.Name = "pictureBox126";
-            this.pictureBox126.TabStop = false;
+            this.lifelineDronespec.AllowDrop = true;
+            this.lifelineDronespec.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineDronespec, "lifelineDronespec");
+            this.lifelineDronespec.Name = "lifelineDronespec";
+            this.lifelineDronespec.TabStop = false;
             // 
             // tabPage28
             // 
@@ -3863,12 +3425,12 @@
             this.tabPage28.Controls.Add(this.label172);
             this.tabPage28.Controls.Add(this.label173);
             this.tabPage28.Controls.Add(this.label174);
-            this.tabPage28.Controls.Add(this.pictureBox127);
-            this.tabPage28.Controls.Add(this.pictureBox128);
-            this.tabPage28.Controls.Add(this.pictureBox129);
-            this.tabPage28.Controls.Add(this.pictureBox130);
-            this.tabPage28.Controls.Add(this.pictureBox131);
-            this.tabPage28.Controls.Add(this.pictureBox132);
+            this.tabPage28.Controls.Add(this.lifelineHandcav);
+            this.tabPage28.Controls.Add(this.lifelineHandao);
+            this.tabPage28.Controls.Add(this.lifelineHandcol);
+            this.tabPage28.Controls.Add(this.lifelineHandnorm);
+            this.tabPage28.Controls.Add(this.lifelineHandgloss);
+            this.tabPage28.Controls.Add(this.lifelineHandspec);
             resources.ApplyResources(this.tabPage28, "tabPage28");
             this.tabPage28.Name = "tabPage28";
             this.tabPage28.UseVisualStyleBackColor = true;
@@ -3903,53 +3465,53 @@
             resources.ApplyResources(this.label174, "label174");
             this.label174.Name = "label174";
             // 
-            // pictureBox127
+            // lifelineHandcav
             // 
-            this.pictureBox127.AllowDrop = true;
-            this.pictureBox127.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox127, "pictureBox127");
-            this.pictureBox127.Name = "pictureBox127";
-            this.pictureBox127.TabStop = false;
+            this.lifelineHandcav.AllowDrop = true;
+            this.lifelineHandcav.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineHandcav, "lifelineHandcav");
+            this.lifelineHandcav.Name = "lifelineHandcav";
+            this.lifelineHandcav.TabStop = false;
             // 
-            // pictureBox128
+            // lifelineHandao
             // 
-            this.pictureBox128.AllowDrop = true;
-            this.pictureBox128.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox128, "pictureBox128");
-            this.pictureBox128.Name = "pictureBox128";
-            this.pictureBox128.TabStop = false;
+            this.lifelineHandao.AllowDrop = true;
+            this.lifelineHandao.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineHandao, "lifelineHandao");
+            this.lifelineHandao.Name = "lifelineHandao";
+            this.lifelineHandao.TabStop = false;
             // 
-            // pictureBox129
+            // lifelineHandcol
             // 
-            this.pictureBox129.AllowDrop = true;
-            this.pictureBox129.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox129, "pictureBox129");
-            this.pictureBox129.Name = "pictureBox129";
-            this.pictureBox129.TabStop = false;
+            this.lifelineHandcol.AllowDrop = true;
+            this.lifelineHandcol.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineHandcol, "lifelineHandcol");
+            this.lifelineHandcol.Name = "lifelineHandcol";
+            this.lifelineHandcol.TabStop = false;
             // 
-            // pictureBox130
+            // lifelineHandnorm
             // 
-            this.pictureBox130.AllowDrop = true;
-            this.pictureBox130.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox130, "pictureBox130");
-            this.pictureBox130.Name = "pictureBox130";
-            this.pictureBox130.TabStop = false;
+            this.lifelineHandnorm.AllowDrop = true;
+            this.lifelineHandnorm.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineHandnorm, "lifelineHandnorm");
+            this.lifelineHandnorm.Name = "lifelineHandnorm";
+            this.lifelineHandnorm.TabStop = false;
             // 
-            // pictureBox131
+            // lifelineHandgloss
             // 
-            this.pictureBox131.AllowDrop = true;
-            this.pictureBox131.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox131, "pictureBox131");
-            this.pictureBox131.Name = "pictureBox131";
-            this.pictureBox131.TabStop = false;
+            this.lifelineHandgloss.AllowDrop = true;
+            this.lifelineHandgloss.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineHandgloss, "lifelineHandgloss");
+            this.lifelineHandgloss.Name = "lifelineHandgloss";
+            this.lifelineHandgloss.TabStop = false;
             // 
-            // pictureBox132
+            // lifelineHandspec
             // 
-            this.pictureBox132.AllowDrop = true;
-            this.pictureBox132.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox132, "pictureBox132");
-            this.pictureBox132.Name = "pictureBox132";
-            this.pictureBox132.TabStop = false;
+            this.lifelineHandspec.AllowDrop = true;
+            this.lifelineHandspec.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineHandspec, "lifelineHandspec");
+            this.lifelineHandspec.Name = "lifelineHandspec";
+            this.lifelineHandspec.TabStop = false;
             // 
             // tabPage29
             // 
@@ -3959,12 +3521,12 @@
             this.tabPage29.Controls.Add(this.label178);
             this.tabPage29.Controls.Add(this.label179);
             this.tabPage29.Controls.Add(this.label180);
-            this.tabPage29.Controls.Add(this.pictureBox133);
-            this.tabPage29.Controls.Add(this.pictureBox134);
-            this.tabPage29.Controls.Add(this.pictureBox135);
-            this.tabPage29.Controls.Add(this.pictureBox136);
-            this.tabPage29.Controls.Add(this.pictureBox137);
-            this.tabPage29.Controls.Add(this.pictureBox138);
+            this.tabPage29.Controls.Add(this.lifelineJumpKitcav);
+            this.tabPage29.Controls.Add(this.lifelineJumpKitao);
+            this.tabPage29.Controls.Add(this.lifelineJumpKitcol);
+            this.tabPage29.Controls.Add(this.lifelineJumpKitnorm);
+            this.tabPage29.Controls.Add(this.lifelineJumpKitgloss);
+            this.tabPage29.Controls.Add(this.lifelineJumpKitspec);
             resources.ApplyResources(this.tabPage29, "tabPage29");
             this.tabPage29.Name = "tabPage29";
             this.tabPage29.UseVisualStyleBackColor = true;
@@ -3999,53 +3561,53 @@
             resources.ApplyResources(this.label180, "label180");
             this.label180.Name = "label180";
             // 
-            // pictureBox133
+            // lifelineJumpKitcav
             // 
-            this.pictureBox133.AllowDrop = true;
-            this.pictureBox133.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox133, "pictureBox133");
-            this.pictureBox133.Name = "pictureBox133";
-            this.pictureBox133.TabStop = false;
+            this.lifelineJumpKitcav.AllowDrop = true;
+            this.lifelineJumpKitcav.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineJumpKitcav, "lifelineJumpKitcav");
+            this.lifelineJumpKitcav.Name = "lifelineJumpKitcav";
+            this.lifelineJumpKitcav.TabStop = false;
             // 
-            // pictureBox134
+            // lifelineJumpKitao
             // 
-            this.pictureBox134.AllowDrop = true;
-            this.pictureBox134.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox134, "pictureBox134");
-            this.pictureBox134.Name = "pictureBox134";
-            this.pictureBox134.TabStop = false;
+            this.lifelineJumpKitao.AllowDrop = true;
+            this.lifelineJumpKitao.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineJumpKitao, "lifelineJumpKitao");
+            this.lifelineJumpKitao.Name = "lifelineJumpKitao";
+            this.lifelineJumpKitao.TabStop = false;
             // 
-            // pictureBox135
+            // lifelineJumpKitcol
             // 
-            this.pictureBox135.AllowDrop = true;
-            this.pictureBox135.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox135, "pictureBox135");
-            this.pictureBox135.Name = "pictureBox135";
-            this.pictureBox135.TabStop = false;
+            this.lifelineJumpKitcol.AllowDrop = true;
+            this.lifelineJumpKitcol.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineJumpKitcol, "lifelineJumpKitcol");
+            this.lifelineJumpKitcol.Name = "lifelineJumpKitcol";
+            this.lifelineJumpKitcol.TabStop = false;
             // 
-            // pictureBox136
+            // lifelineJumpKitnorm
             // 
-            this.pictureBox136.AllowDrop = true;
-            this.pictureBox136.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox136, "pictureBox136");
-            this.pictureBox136.Name = "pictureBox136";
-            this.pictureBox136.TabStop = false;
+            this.lifelineJumpKitnorm.AllowDrop = true;
+            this.lifelineJumpKitnorm.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineJumpKitnorm, "lifelineJumpKitnorm");
+            this.lifelineJumpKitnorm.Name = "lifelineJumpKitnorm";
+            this.lifelineJumpKitnorm.TabStop = false;
             // 
-            // pictureBox137
+            // lifelineJumpKitgloss
             // 
-            this.pictureBox137.AllowDrop = true;
-            this.pictureBox137.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox137, "pictureBox137");
-            this.pictureBox137.Name = "pictureBox137";
-            this.pictureBox137.TabStop = false;
+            this.lifelineJumpKitgloss.AllowDrop = true;
+            this.lifelineJumpKitgloss.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineJumpKitgloss, "lifelineJumpKitgloss");
+            this.lifelineJumpKitgloss.Name = "lifelineJumpKitgloss";
+            this.lifelineJumpKitgloss.TabStop = false;
             // 
-            // pictureBox138
+            // lifelineJumpKitspec
             // 
-            this.pictureBox138.AllowDrop = true;
-            this.pictureBox138.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox138, "pictureBox138");
-            this.pictureBox138.Name = "pictureBox138";
-            this.pictureBox138.TabStop = false;
+            this.lifelineJumpKitspec.AllowDrop = true;
+            this.lifelineJumpKitspec.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineJumpKitspec, "lifelineJumpKitspec");
+            this.lifelineJumpKitspec.Name = "lifelineJumpKitspec";
+            this.lifelineJumpKitspec.TabStop = false;
             // 
             // tabPage30
             // 
@@ -4055,12 +3617,12 @@
             this.tabPage30.Controls.Add(this.label184);
             this.tabPage30.Controls.Add(this.label185);
             this.tabPage30.Controls.Add(this.label186);
-            this.tabPage30.Controls.Add(this.pictureBox139);
-            this.tabPage30.Controls.Add(this.pictureBox140);
-            this.tabPage30.Controls.Add(this.pictureBox141);
-            this.tabPage30.Controls.Add(this.pictureBox142);
-            this.tabPage30.Controls.Add(this.pictureBox143);
-            this.tabPage30.Controls.Add(this.pictureBox144);
+            this.tabPage30.Controls.Add(this.lifelineVMcav);
+            this.tabPage30.Controls.Add(this.lifelineVMao);
+            this.tabPage30.Controls.Add(this.lifelineVMcol);
+            this.tabPage30.Controls.Add(this.lifelineVMnorm);
+            this.tabPage30.Controls.Add(this.lifelineVMgloss);
+            this.tabPage30.Controls.Add(this.lifelineVMspec);
             resources.ApplyResources(this.tabPage30, "tabPage30");
             this.tabPage30.Name = "tabPage30";
             this.tabPage30.UseVisualStyleBackColor = true;
@@ -4095,53 +3657,53 @@
             resources.ApplyResources(this.label186, "label186");
             this.label186.Name = "label186";
             // 
-            // pictureBox139
+            // lifelineVMcav
             // 
-            this.pictureBox139.AllowDrop = true;
-            this.pictureBox139.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox139, "pictureBox139");
-            this.pictureBox139.Name = "pictureBox139";
-            this.pictureBox139.TabStop = false;
+            this.lifelineVMcav.AllowDrop = true;
+            this.lifelineVMcav.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineVMcav, "lifelineVMcav");
+            this.lifelineVMcav.Name = "lifelineVMcav";
+            this.lifelineVMcav.TabStop = false;
             // 
-            // pictureBox140
+            // lifelineVMao
             // 
-            this.pictureBox140.AllowDrop = true;
-            this.pictureBox140.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox140, "pictureBox140");
-            this.pictureBox140.Name = "pictureBox140";
-            this.pictureBox140.TabStop = false;
+            this.lifelineVMao.AllowDrop = true;
+            this.lifelineVMao.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineVMao, "lifelineVMao");
+            this.lifelineVMao.Name = "lifelineVMao";
+            this.lifelineVMao.TabStop = false;
             // 
-            // pictureBox141
+            // lifelineVMcol
             // 
-            this.pictureBox141.AllowDrop = true;
-            this.pictureBox141.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox141, "pictureBox141");
-            this.pictureBox141.Name = "pictureBox141";
-            this.pictureBox141.TabStop = false;
+            this.lifelineVMcol.AllowDrop = true;
+            this.lifelineVMcol.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineVMcol, "lifelineVMcol");
+            this.lifelineVMcol.Name = "lifelineVMcol";
+            this.lifelineVMcol.TabStop = false;
             // 
-            // pictureBox142
+            // lifelineVMnorm
             // 
-            this.pictureBox142.AllowDrop = true;
-            this.pictureBox142.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox142, "pictureBox142");
-            this.pictureBox142.Name = "pictureBox142";
-            this.pictureBox142.TabStop = false;
+            this.lifelineVMnorm.AllowDrop = true;
+            this.lifelineVMnorm.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineVMnorm, "lifelineVMnorm");
+            this.lifelineVMnorm.Name = "lifelineVMnorm";
+            this.lifelineVMnorm.TabStop = false;
             // 
-            // pictureBox143
+            // lifelineVMgloss
             // 
-            this.pictureBox143.AllowDrop = true;
-            this.pictureBox143.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox143, "pictureBox143");
-            this.pictureBox143.Name = "pictureBox143";
-            this.pictureBox143.TabStop = false;
+            this.lifelineVMgloss.AllowDrop = true;
+            this.lifelineVMgloss.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineVMgloss, "lifelineVMgloss");
+            this.lifelineVMgloss.Name = "lifelineVMgloss";
+            this.lifelineVMgloss.TabStop = false;
             // 
-            // pictureBox144
+            // lifelineVMspec
             // 
-            this.pictureBox144.AllowDrop = true;
-            this.pictureBox144.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox144, "pictureBox144");
-            this.pictureBox144.Name = "pictureBox144";
-            this.pictureBox144.TabStop = false;
+            this.lifelineVMspec.AllowDrop = true;
+            this.lifelineVMspec.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.lifelineVMspec, "lifelineVMspec");
+            this.lifelineVMspec.Name = "lifelineVMspec";
+            this.lifelineVMspec.TabStop = false;
             // 
             // PathfindertabPage
             // 
@@ -5040,9 +4602,6 @@
             // 
             this.tabControl7.Controls.Add(this.tabPage5);
             this.tabControl7.Controls.Add(this.tabPage39);
-            this.tabControl7.Controls.Add(this.tabPage40);
-            this.tabControl7.Controls.Add(this.tabPage41);
-            this.tabControl7.Controls.Add(this.tabPage42);
             this.tabControl7.Controls.Add(this.tabPage43);
             this.tabControl7.Controls.Add(this.tabPage44);
             this.tabControl7.Controls.Add(this.tabPage45);
@@ -5242,294 +4801,6 @@
             resources.ApplyResources(this.pictureBox210, "pictureBox210");
             this.pictureBox210.Name = "pictureBox210";
             this.pictureBox210.TabStop = false;
-            // 
-            // tabPage40
-            // 
-            this.tabPage40.Controls.Add(this.label253);
-            this.tabPage40.Controls.Add(this.label254);
-            this.tabPage40.Controls.Add(this.label255);
-            this.tabPage40.Controls.Add(this.label256);
-            this.tabPage40.Controls.Add(this.label257);
-            this.tabPage40.Controls.Add(this.label258);
-            this.tabPage40.Controls.Add(this.pictureBox211);
-            this.tabPage40.Controls.Add(this.pictureBox212);
-            this.tabPage40.Controls.Add(this.pictureBox213);
-            this.tabPage40.Controls.Add(this.pictureBox214);
-            this.tabPage40.Controls.Add(this.pictureBox215);
-            this.tabPage40.Controls.Add(this.pictureBox216);
-            resources.ApplyResources(this.tabPage40, "tabPage40");
-            this.tabPage40.Name = "tabPage40";
-            this.tabPage40.UseVisualStyleBackColor = true;
-            // 
-            // label253
-            // 
-            resources.ApplyResources(this.label253, "label253");
-            this.label253.Name = "label253";
-            // 
-            // label254
-            // 
-            resources.ApplyResources(this.label254, "label254");
-            this.label254.Name = "label254";
-            // 
-            // label255
-            // 
-            resources.ApplyResources(this.label255, "label255");
-            this.label255.Name = "label255";
-            // 
-            // label256
-            // 
-            resources.ApplyResources(this.label256, "label256");
-            this.label256.Name = "label256";
-            // 
-            // label257
-            // 
-            resources.ApplyResources(this.label257, "label257");
-            this.label257.Name = "label257";
-            // 
-            // label258
-            // 
-            resources.ApplyResources(this.label258, "label258");
-            this.label258.Name = "label258";
-            // 
-            // pictureBox211
-            // 
-            this.pictureBox211.AllowDrop = true;
-            this.pictureBox211.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox211, "pictureBox211");
-            this.pictureBox211.Name = "pictureBox211";
-            this.pictureBox211.TabStop = false;
-            // 
-            // pictureBox212
-            // 
-            this.pictureBox212.AllowDrop = true;
-            this.pictureBox212.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox212, "pictureBox212");
-            this.pictureBox212.Name = "pictureBox212";
-            this.pictureBox212.TabStop = false;
-            // 
-            // pictureBox213
-            // 
-            this.pictureBox213.AllowDrop = true;
-            this.pictureBox213.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox213, "pictureBox213");
-            this.pictureBox213.Name = "pictureBox213";
-            this.pictureBox213.TabStop = false;
-            // 
-            // pictureBox214
-            // 
-            this.pictureBox214.AllowDrop = true;
-            this.pictureBox214.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox214, "pictureBox214");
-            this.pictureBox214.Name = "pictureBox214";
-            this.pictureBox214.TabStop = false;
-            // 
-            // pictureBox215
-            // 
-            this.pictureBox215.AllowDrop = true;
-            this.pictureBox215.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox215, "pictureBox215");
-            this.pictureBox215.Name = "pictureBox215";
-            this.pictureBox215.TabStop = false;
-            // 
-            // pictureBox216
-            // 
-            this.pictureBox216.AllowDrop = true;
-            this.pictureBox216.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox216, "pictureBox216");
-            this.pictureBox216.Name = "pictureBox216";
-            this.pictureBox216.TabStop = false;
-            // 
-            // tabPage41
-            // 
-            this.tabPage41.Controls.Add(this.label259);
-            this.tabPage41.Controls.Add(this.label260);
-            this.tabPage41.Controls.Add(this.label261);
-            this.tabPage41.Controls.Add(this.label262);
-            this.tabPage41.Controls.Add(this.label263);
-            this.tabPage41.Controls.Add(this.label264);
-            this.tabPage41.Controls.Add(this.pictureBox217);
-            this.tabPage41.Controls.Add(this.pictureBox218);
-            this.tabPage41.Controls.Add(this.pictureBox219);
-            this.tabPage41.Controls.Add(this.pictureBox220);
-            this.tabPage41.Controls.Add(this.pictureBox221);
-            this.tabPage41.Controls.Add(this.pictureBox222);
-            resources.ApplyResources(this.tabPage41, "tabPage41");
-            this.tabPage41.Name = "tabPage41";
-            this.tabPage41.UseVisualStyleBackColor = true;
-            // 
-            // label259
-            // 
-            resources.ApplyResources(this.label259, "label259");
-            this.label259.Name = "label259";
-            // 
-            // label260
-            // 
-            resources.ApplyResources(this.label260, "label260");
-            this.label260.Name = "label260";
-            // 
-            // label261
-            // 
-            resources.ApplyResources(this.label261, "label261");
-            this.label261.Name = "label261";
-            // 
-            // label262
-            // 
-            resources.ApplyResources(this.label262, "label262");
-            this.label262.Name = "label262";
-            // 
-            // label263
-            // 
-            resources.ApplyResources(this.label263, "label263");
-            this.label263.Name = "label263";
-            // 
-            // label264
-            // 
-            resources.ApplyResources(this.label264, "label264");
-            this.label264.Name = "label264";
-            // 
-            // pictureBox217
-            // 
-            this.pictureBox217.AllowDrop = true;
-            this.pictureBox217.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox217, "pictureBox217");
-            this.pictureBox217.Name = "pictureBox217";
-            this.pictureBox217.TabStop = false;
-            // 
-            // pictureBox218
-            // 
-            this.pictureBox218.AllowDrop = true;
-            this.pictureBox218.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox218, "pictureBox218");
-            this.pictureBox218.Name = "pictureBox218";
-            this.pictureBox218.TabStop = false;
-            // 
-            // pictureBox219
-            // 
-            this.pictureBox219.AllowDrop = true;
-            this.pictureBox219.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox219, "pictureBox219");
-            this.pictureBox219.Name = "pictureBox219";
-            this.pictureBox219.TabStop = false;
-            // 
-            // pictureBox220
-            // 
-            this.pictureBox220.AllowDrop = true;
-            this.pictureBox220.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox220, "pictureBox220");
-            this.pictureBox220.Name = "pictureBox220";
-            this.pictureBox220.TabStop = false;
-            // 
-            // pictureBox221
-            // 
-            this.pictureBox221.AllowDrop = true;
-            this.pictureBox221.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox221, "pictureBox221");
-            this.pictureBox221.Name = "pictureBox221";
-            this.pictureBox221.TabStop = false;
-            // 
-            // pictureBox222
-            // 
-            this.pictureBox222.AllowDrop = true;
-            this.pictureBox222.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox222, "pictureBox222");
-            this.pictureBox222.Name = "pictureBox222";
-            this.pictureBox222.TabStop = false;
-            // 
-            // tabPage42
-            // 
-            this.tabPage42.Controls.Add(this.label265);
-            this.tabPage42.Controls.Add(this.label266);
-            this.tabPage42.Controls.Add(this.label267);
-            this.tabPage42.Controls.Add(this.label268);
-            this.tabPage42.Controls.Add(this.label269);
-            this.tabPage42.Controls.Add(this.label270);
-            this.tabPage42.Controls.Add(this.pictureBox223);
-            this.tabPage42.Controls.Add(this.pictureBox224);
-            this.tabPage42.Controls.Add(this.pictureBox225);
-            this.tabPage42.Controls.Add(this.pictureBox226);
-            this.tabPage42.Controls.Add(this.pictureBox227);
-            this.tabPage42.Controls.Add(this.pictureBox228);
-            resources.ApplyResources(this.tabPage42, "tabPage42");
-            this.tabPage42.Name = "tabPage42";
-            this.tabPage42.UseVisualStyleBackColor = true;
-            // 
-            // label265
-            // 
-            resources.ApplyResources(this.label265, "label265");
-            this.label265.Name = "label265";
-            // 
-            // label266
-            // 
-            resources.ApplyResources(this.label266, "label266");
-            this.label266.Name = "label266";
-            // 
-            // label267
-            // 
-            resources.ApplyResources(this.label267, "label267");
-            this.label267.Name = "label267";
-            // 
-            // label268
-            // 
-            resources.ApplyResources(this.label268, "label268");
-            this.label268.Name = "label268";
-            // 
-            // label269
-            // 
-            resources.ApplyResources(this.label269, "label269");
-            this.label269.Name = "label269";
-            // 
-            // label270
-            // 
-            resources.ApplyResources(this.label270, "label270");
-            this.label270.Name = "label270";
-            // 
-            // pictureBox223
-            // 
-            this.pictureBox223.AllowDrop = true;
-            this.pictureBox223.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox223, "pictureBox223");
-            this.pictureBox223.Name = "pictureBox223";
-            this.pictureBox223.TabStop = false;
-            // 
-            // pictureBox224
-            // 
-            this.pictureBox224.AllowDrop = true;
-            this.pictureBox224.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox224, "pictureBox224");
-            this.pictureBox224.Name = "pictureBox224";
-            this.pictureBox224.TabStop = false;
-            // 
-            // pictureBox225
-            // 
-            this.pictureBox225.AllowDrop = true;
-            this.pictureBox225.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox225, "pictureBox225");
-            this.pictureBox225.Name = "pictureBox225";
-            this.pictureBox225.TabStop = false;
-            // 
-            // pictureBox226
-            // 
-            this.pictureBox226.AllowDrop = true;
-            this.pictureBox226.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox226, "pictureBox226");
-            this.pictureBox226.Name = "pictureBox226";
-            this.pictureBox226.TabStop = false;
-            // 
-            // pictureBox227
-            // 
-            this.pictureBox227.AllowDrop = true;
-            this.pictureBox227.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox227, "pictureBox227");
-            this.pictureBox227.Name = "pictureBox227";
-            this.pictureBox227.TabStop = false;
-            // 
-            // pictureBox228
-            // 
-            this.pictureBox228.AllowDrop = true;
-            this.pictureBox228.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox228, "pictureBox228");
-            this.pictureBox228.Name = "pictureBox228";
-            this.pictureBox228.TabStop = false;
             // 
             // tabPage43
             // 
@@ -5926,8 +5197,6 @@
             // 
             this.tabControl8.Controls.Add(this.tabPage6);
             this.tabControl8.Controls.Add(this.tabPage47);
-            this.tabControl8.Controls.Add(this.tabPage48);
-            this.tabControl8.Controls.Add(this.tabPage49);
             this.tabControl8.Controls.Add(this.tabPage50);
             this.tabControl8.Controls.Add(this.tabPage51);
             this.tabControl8.Controls.Add(this.tabPage52);
@@ -6127,198 +5396,6 @@
             resources.ApplyResources(this.pictureBox264, "pictureBox264");
             this.pictureBox264.Name = "pictureBox264";
             this.pictureBox264.TabStop = false;
-            // 
-            // tabPage48
-            // 
-            this.tabPage48.Controls.Add(this.label307);
-            this.tabPage48.Controls.Add(this.label308);
-            this.tabPage48.Controls.Add(this.label309);
-            this.tabPage48.Controls.Add(this.label310);
-            this.tabPage48.Controls.Add(this.label311);
-            this.tabPage48.Controls.Add(this.label312);
-            this.tabPage48.Controls.Add(this.pictureBox265);
-            this.tabPage48.Controls.Add(this.pictureBox266);
-            this.tabPage48.Controls.Add(this.pictureBox267);
-            this.tabPage48.Controls.Add(this.pictureBox268);
-            this.tabPage48.Controls.Add(this.pictureBox269);
-            this.tabPage48.Controls.Add(this.pictureBox270);
-            resources.ApplyResources(this.tabPage48, "tabPage48");
-            this.tabPage48.Name = "tabPage48";
-            this.tabPage48.UseVisualStyleBackColor = true;
-            // 
-            // label307
-            // 
-            resources.ApplyResources(this.label307, "label307");
-            this.label307.Name = "label307";
-            // 
-            // label308
-            // 
-            resources.ApplyResources(this.label308, "label308");
-            this.label308.Name = "label308";
-            // 
-            // label309
-            // 
-            resources.ApplyResources(this.label309, "label309");
-            this.label309.Name = "label309";
-            // 
-            // label310
-            // 
-            resources.ApplyResources(this.label310, "label310");
-            this.label310.Name = "label310";
-            // 
-            // label311
-            // 
-            resources.ApplyResources(this.label311, "label311");
-            this.label311.Name = "label311";
-            // 
-            // label312
-            // 
-            resources.ApplyResources(this.label312, "label312");
-            this.label312.Name = "label312";
-            // 
-            // pictureBox265
-            // 
-            this.pictureBox265.AllowDrop = true;
-            this.pictureBox265.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox265, "pictureBox265");
-            this.pictureBox265.Name = "pictureBox265";
-            this.pictureBox265.TabStop = false;
-            // 
-            // pictureBox266
-            // 
-            this.pictureBox266.AllowDrop = true;
-            this.pictureBox266.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox266, "pictureBox266");
-            this.pictureBox266.Name = "pictureBox266";
-            this.pictureBox266.TabStop = false;
-            // 
-            // pictureBox267
-            // 
-            this.pictureBox267.AllowDrop = true;
-            this.pictureBox267.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox267, "pictureBox267");
-            this.pictureBox267.Name = "pictureBox267";
-            this.pictureBox267.TabStop = false;
-            // 
-            // pictureBox268
-            // 
-            this.pictureBox268.AllowDrop = true;
-            this.pictureBox268.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox268, "pictureBox268");
-            this.pictureBox268.Name = "pictureBox268";
-            this.pictureBox268.TabStop = false;
-            // 
-            // pictureBox269
-            // 
-            this.pictureBox269.AllowDrop = true;
-            this.pictureBox269.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox269, "pictureBox269");
-            this.pictureBox269.Name = "pictureBox269";
-            this.pictureBox269.TabStop = false;
-            // 
-            // pictureBox270
-            // 
-            this.pictureBox270.AllowDrop = true;
-            this.pictureBox270.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox270, "pictureBox270");
-            this.pictureBox270.Name = "pictureBox270";
-            this.pictureBox270.TabStop = false;
-            // 
-            // tabPage49
-            // 
-            this.tabPage49.Controls.Add(this.label313);
-            this.tabPage49.Controls.Add(this.label314);
-            this.tabPage49.Controls.Add(this.label315);
-            this.tabPage49.Controls.Add(this.label316);
-            this.tabPage49.Controls.Add(this.label317);
-            this.tabPage49.Controls.Add(this.label318);
-            this.tabPage49.Controls.Add(this.pictureBox271);
-            this.tabPage49.Controls.Add(this.pictureBox272);
-            this.tabPage49.Controls.Add(this.pictureBox273);
-            this.tabPage49.Controls.Add(this.pictureBox274);
-            this.tabPage49.Controls.Add(this.pictureBox275);
-            this.tabPage49.Controls.Add(this.pictureBox276);
-            resources.ApplyResources(this.tabPage49, "tabPage49");
-            this.tabPage49.Name = "tabPage49";
-            this.tabPage49.UseVisualStyleBackColor = true;
-            // 
-            // label313
-            // 
-            resources.ApplyResources(this.label313, "label313");
-            this.label313.Name = "label313";
-            // 
-            // label314
-            // 
-            resources.ApplyResources(this.label314, "label314");
-            this.label314.Name = "label314";
-            // 
-            // label315
-            // 
-            resources.ApplyResources(this.label315, "label315");
-            this.label315.Name = "label315";
-            // 
-            // label316
-            // 
-            resources.ApplyResources(this.label316, "label316");
-            this.label316.Name = "label316";
-            // 
-            // label317
-            // 
-            resources.ApplyResources(this.label317, "label317");
-            this.label317.Name = "label317";
-            // 
-            // label318
-            // 
-            resources.ApplyResources(this.label318, "label318");
-            this.label318.Name = "label318";
-            // 
-            // pictureBox271
-            // 
-            this.pictureBox271.AllowDrop = true;
-            this.pictureBox271.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox271, "pictureBox271");
-            this.pictureBox271.Name = "pictureBox271";
-            this.pictureBox271.TabStop = false;
-            // 
-            // pictureBox272
-            // 
-            this.pictureBox272.AllowDrop = true;
-            this.pictureBox272.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox272, "pictureBox272");
-            this.pictureBox272.Name = "pictureBox272";
-            this.pictureBox272.TabStop = false;
-            // 
-            // pictureBox273
-            // 
-            this.pictureBox273.AllowDrop = true;
-            this.pictureBox273.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox273, "pictureBox273");
-            this.pictureBox273.Name = "pictureBox273";
-            this.pictureBox273.TabStop = false;
-            // 
-            // pictureBox274
-            // 
-            this.pictureBox274.AllowDrop = true;
-            this.pictureBox274.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox274, "pictureBox274");
-            this.pictureBox274.Name = "pictureBox274";
-            this.pictureBox274.TabStop = false;
-            // 
-            // pictureBox275
-            // 
-            this.pictureBox275.AllowDrop = true;
-            this.pictureBox275.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox275, "pictureBox275");
-            this.pictureBox275.Name = "pictureBox275";
-            this.pictureBox275.TabStop = false;
-            // 
-            // pictureBox276
-            // 
-            this.pictureBox276.AllowDrop = true;
-            this.pictureBox276.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox276, "pictureBox276");
-            this.pictureBox276.Name = "pictureBox276";
-            this.pictureBox276.TabStop = false;
             // 
             // tabPage50
             // 
@@ -6716,8 +5793,6 @@
             this.tabControl9.Controls.Add(this.tabPage7);
             this.tabControl9.Controls.Add(this.tabPage54);
             this.tabControl9.Controls.Add(this.tabPage55);
-            this.tabControl9.Controls.Add(this.tabPage56);
-            this.tabControl9.Controls.Add(this.tabPage57);
             this.tabControl9.Controls.Add(this.tabPage58);
             this.tabControl9.Controls.Add(this.tabPage59);
             this.tabControl9.Controls.Add(this.tabPage60);
@@ -7013,198 +6088,6 @@
             resources.ApplyResources(this.pictureBox318, "pictureBox318");
             this.pictureBox318.Name = "pictureBox318";
             this.pictureBox318.TabStop = false;
-            // 
-            // tabPage56
-            // 
-            this.tabPage56.Controls.Add(this.label361);
-            this.tabPage56.Controls.Add(this.label362);
-            this.tabPage56.Controls.Add(this.label363);
-            this.tabPage56.Controls.Add(this.label364);
-            this.tabPage56.Controls.Add(this.label365);
-            this.tabPage56.Controls.Add(this.label366);
-            this.tabPage56.Controls.Add(this.pictureBox319);
-            this.tabPage56.Controls.Add(this.pictureBox320);
-            this.tabPage56.Controls.Add(this.pictureBox321);
-            this.tabPage56.Controls.Add(this.pictureBox322);
-            this.tabPage56.Controls.Add(this.pictureBox323);
-            this.tabPage56.Controls.Add(this.pictureBox324);
-            resources.ApplyResources(this.tabPage56, "tabPage56");
-            this.tabPage56.Name = "tabPage56";
-            this.tabPage56.UseVisualStyleBackColor = true;
-            // 
-            // label361
-            // 
-            resources.ApplyResources(this.label361, "label361");
-            this.label361.Name = "label361";
-            // 
-            // label362
-            // 
-            resources.ApplyResources(this.label362, "label362");
-            this.label362.Name = "label362";
-            // 
-            // label363
-            // 
-            resources.ApplyResources(this.label363, "label363");
-            this.label363.Name = "label363";
-            // 
-            // label364
-            // 
-            resources.ApplyResources(this.label364, "label364");
-            this.label364.Name = "label364";
-            // 
-            // label365
-            // 
-            resources.ApplyResources(this.label365, "label365");
-            this.label365.Name = "label365";
-            // 
-            // label366
-            // 
-            resources.ApplyResources(this.label366, "label366");
-            this.label366.Name = "label366";
-            // 
-            // pictureBox319
-            // 
-            this.pictureBox319.AllowDrop = true;
-            this.pictureBox319.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox319, "pictureBox319");
-            this.pictureBox319.Name = "pictureBox319";
-            this.pictureBox319.TabStop = false;
-            // 
-            // pictureBox320
-            // 
-            this.pictureBox320.AllowDrop = true;
-            this.pictureBox320.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox320, "pictureBox320");
-            this.pictureBox320.Name = "pictureBox320";
-            this.pictureBox320.TabStop = false;
-            // 
-            // pictureBox321
-            // 
-            this.pictureBox321.AllowDrop = true;
-            this.pictureBox321.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox321, "pictureBox321");
-            this.pictureBox321.Name = "pictureBox321";
-            this.pictureBox321.TabStop = false;
-            // 
-            // pictureBox322
-            // 
-            this.pictureBox322.AllowDrop = true;
-            this.pictureBox322.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox322, "pictureBox322");
-            this.pictureBox322.Name = "pictureBox322";
-            this.pictureBox322.TabStop = false;
-            // 
-            // pictureBox323
-            // 
-            this.pictureBox323.AllowDrop = true;
-            this.pictureBox323.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox323, "pictureBox323");
-            this.pictureBox323.Name = "pictureBox323";
-            this.pictureBox323.TabStop = false;
-            // 
-            // pictureBox324
-            // 
-            this.pictureBox324.AllowDrop = true;
-            this.pictureBox324.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox324, "pictureBox324");
-            this.pictureBox324.Name = "pictureBox324";
-            this.pictureBox324.TabStop = false;
-            // 
-            // tabPage57
-            // 
-            this.tabPage57.Controls.Add(this.label367);
-            this.tabPage57.Controls.Add(this.label368);
-            this.tabPage57.Controls.Add(this.label369);
-            this.tabPage57.Controls.Add(this.label370);
-            this.tabPage57.Controls.Add(this.label371);
-            this.tabPage57.Controls.Add(this.label372);
-            this.tabPage57.Controls.Add(this.pictureBox325);
-            this.tabPage57.Controls.Add(this.pictureBox326);
-            this.tabPage57.Controls.Add(this.pictureBox327);
-            this.tabPage57.Controls.Add(this.pictureBox328);
-            this.tabPage57.Controls.Add(this.pictureBox329);
-            this.tabPage57.Controls.Add(this.pictureBox330);
-            resources.ApplyResources(this.tabPage57, "tabPage57");
-            this.tabPage57.Name = "tabPage57";
-            this.tabPage57.UseVisualStyleBackColor = true;
-            // 
-            // label367
-            // 
-            resources.ApplyResources(this.label367, "label367");
-            this.label367.Name = "label367";
-            // 
-            // label368
-            // 
-            resources.ApplyResources(this.label368, "label368");
-            this.label368.Name = "label368";
-            // 
-            // label369
-            // 
-            resources.ApplyResources(this.label369, "label369");
-            this.label369.Name = "label369";
-            // 
-            // label370
-            // 
-            resources.ApplyResources(this.label370, "label370");
-            this.label370.Name = "label370";
-            // 
-            // label371
-            // 
-            resources.ApplyResources(this.label371, "label371");
-            this.label371.Name = "label371";
-            // 
-            // label372
-            // 
-            resources.ApplyResources(this.label372, "label372");
-            this.label372.Name = "label372";
-            // 
-            // pictureBox325
-            // 
-            this.pictureBox325.AllowDrop = true;
-            this.pictureBox325.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox325, "pictureBox325");
-            this.pictureBox325.Name = "pictureBox325";
-            this.pictureBox325.TabStop = false;
-            // 
-            // pictureBox326
-            // 
-            this.pictureBox326.AllowDrop = true;
-            this.pictureBox326.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox326, "pictureBox326");
-            this.pictureBox326.Name = "pictureBox326";
-            this.pictureBox326.TabStop = false;
-            // 
-            // pictureBox327
-            // 
-            this.pictureBox327.AllowDrop = true;
-            this.pictureBox327.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox327, "pictureBox327");
-            this.pictureBox327.Name = "pictureBox327";
-            this.pictureBox327.TabStop = false;
-            // 
-            // pictureBox328
-            // 
-            this.pictureBox328.AllowDrop = true;
-            this.pictureBox328.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox328, "pictureBox328");
-            this.pictureBox328.Name = "pictureBox328";
-            this.pictureBox328.TabStop = false;
-            // 
-            // pictureBox329
-            // 
-            this.pictureBox329.AllowDrop = true;
-            this.pictureBox329.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox329, "pictureBox329");
-            this.pictureBox329.Name = "pictureBox329";
-            this.pictureBox329.TabStop = false;
-            // 
-            // pictureBox330
-            // 
-            this.pictureBox330.AllowDrop = true;
-            this.pictureBox330.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox330, "pictureBox330");
-            this.pictureBox330.Name = "pictureBox330";
-            this.pictureBox330.TabStop = false;
             // 
             // tabPage58
             // 
@@ -7599,8 +6482,6 @@
             // 
             // tabControl10
             // 
-            this.tabControl10.Controls.Add(this.tabPage8);
-            this.tabControl10.Controls.Add(this.tabPage62);
             this.tabControl10.Controls.Add(this.tabPage63);
             this.tabControl10.Controls.Add(this.tabPage64);
             this.tabControl10.Controls.Add(this.tabPage65);
@@ -7609,198 +6490,6 @@
             resources.ApplyResources(this.tabControl10, "tabControl10");
             this.tabControl10.Name = "tabControl10";
             this.tabControl10.SelectedIndex = 0;
-            // 
-            // tabPage8
-            // 
-            this.tabPage8.Controls.Add(this.label397);
-            this.tabPage8.Controls.Add(this.label398);
-            this.tabPage8.Controls.Add(this.label399);
-            this.tabPage8.Controls.Add(this.label400);
-            this.tabPage8.Controls.Add(this.label401);
-            this.tabPage8.Controls.Add(this.label402);
-            this.tabPage8.Controls.Add(this.pictureBox355);
-            this.tabPage8.Controls.Add(this.pictureBox356);
-            this.tabPage8.Controls.Add(this.pictureBox357);
-            this.tabPage8.Controls.Add(this.pictureBox358);
-            this.tabPage8.Controls.Add(this.pictureBox359);
-            this.tabPage8.Controls.Add(this.pictureBox360);
-            resources.ApplyResources(this.tabPage8, "tabPage8");
-            this.tabPage8.Name = "tabPage8";
-            this.tabPage8.UseVisualStyleBackColor = true;
-            // 
-            // label397
-            // 
-            resources.ApplyResources(this.label397, "label397");
-            this.label397.Name = "label397";
-            // 
-            // label398
-            // 
-            resources.ApplyResources(this.label398, "label398");
-            this.label398.Name = "label398";
-            // 
-            // label399
-            // 
-            resources.ApplyResources(this.label399, "label399");
-            this.label399.Name = "label399";
-            // 
-            // label400
-            // 
-            resources.ApplyResources(this.label400, "label400");
-            this.label400.Name = "label400";
-            // 
-            // label401
-            // 
-            resources.ApplyResources(this.label401, "label401");
-            this.label401.Name = "label401";
-            // 
-            // label402
-            // 
-            resources.ApplyResources(this.label402, "label402");
-            this.label402.Name = "label402";
-            // 
-            // pictureBox355
-            // 
-            this.pictureBox355.AllowDrop = true;
-            this.pictureBox355.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox355, "pictureBox355");
-            this.pictureBox355.Name = "pictureBox355";
-            this.pictureBox355.TabStop = false;
-            // 
-            // pictureBox356
-            // 
-            this.pictureBox356.AllowDrop = true;
-            this.pictureBox356.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox356, "pictureBox356");
-            this.pictureBox356.Name = "pictureBox356";
-            this.pictureBox356.TabStop = false;
-            // 
-            // pictureBox357
-            // 
-            this.pictureBox357.AllowDrop = true;
-            this.pictureBox357.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox357, "pictureBox357");
-            this.pictureBox357.Name = "pictureBox357";
-            this.pictureBox357.TabStop = false;
-            // 
-            // pictureBox358
-            // 
-            this.pictureBox358.AllowDrop = true;
-            this.pictureBox358.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox358, "pictureBox358");
-            this.pictureBox358.Name = "pictureBox358";
-            this.pictureBox358.TabStop = false;
-            // 
-            // pictureBox359
-            // 
-            this.pictureBox359.AllowDrop = true;
-            this.pictureBox359.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox359, "pictureBox359");
-            this.pictureBox359.Name = "pictureBox359";
-            this.pictureBox359.TabStop = false;
-            // 
-            // pictureBox360
-            // 
-            this.pictureBox360.AllowDrop = true;
-            this.pictureBox360.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox360, "pictureBox360");
-            this.pictureBox360.Name = "pictureBox360";
-            this.pictureBox360.TabStop = false;
-            // 
-            // tabPage62
-            // 
-            this.tabPage62.Controls.Add(this.label403);
-            this.tabPage62.Controls.Add(this.label404);
-            this.tabPage62.Controls.Add(this.label405);
-            this.tabPage62.Controls.Add(this.label406);
-            this.tabPage62.Controls.Add(this.label407);
-            this.tabPage62.Controls.Add(this.label408);
-            this.tabPage62.Controls.Add(this.pictureBox361);
-            this.tabPage62.Controls.Add(this.pictureBox362);
-            this.tabPage62.Controls.Add(this.pictureBox363);
-            this.tabPage62.Controls.Add(this.pictureBox364);
-            this.tabPage62.Controls.Add(this.pictureBox365);
-            this.tabPage62.Controls.Add(this.pictureBox366);
-            resources.ApplyResources(this.tabPage62, "tabPage62");
-            this.tabPage62.Name = "tabPage62";
-            this.tabPage62.UseVisualStyleBackColor = true;
-            // 
-            // label403
-            // 
-            resources.ApplyResources(this.label403, "label403");
-            this.label403.Name = "label403";
-            // 
-            // label404
-            // 
-            resources.ApplyResources(this.label404, "label404");
-            this.label404.Name = "label404";
-            // 
-            // label405
-            // 
-            resources.ApplyResources(this.label405, "label405");
-            this.label405.Name = "label405";
-            // 
-            // label406
-            // 
-            resources.ApplyResources(this.label406, "label406");
-            this.label406.Name = "label406";
-            // 
-            // label407
-            // 
-            resources.ApplyResources(this.label407, "label407");
-            this.label407.Name = "label407";
-            // 
-            // label408
-            // 
-            resources.ApplyResources(this.label408, "label408");
-            this.label408.Name = "label408";
-            // 
-            // pictureBox361
-            // 
-            this.pictureBox361.AllowDrop = true;
-            this.pictureBox361.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox361, "pictureBox361");
-            this.pictureBox361.Name = "pictureBox361";
-            this.pictureBox361.TabStop = false;
-            // 
-            // pictureBox362
-            // 
-            this.pictureBox362.AllowDrop = true;
-            this.pictureBox362.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox362, "pictureBox362");
-            this.pictureBox362.Name = "pictureBox362";
-            this.pictureBox362.TabStop = false;
-            // 
-            // pictureBox363
-            // 
-            this.pictureBox363.AllowDrop = true;
-            this.pictureBox363.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox363, "pictureBox363");
-            this.pictureBox363.Name = "pictureBox363";
-            this.pictureBox363.TabStop = false;
-            // 
-            // pictureBox364
-            // 
-            this.pictureBox364.AllowDrop = true;
-            this.pictureBox364.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox364, "pictureBox364");
-            this.pictureBox364.Name = "pictureBox364";
-            this.pictureBox364.TabStop = false;
-            // 
-            // pictureBox365
-            // 
-            this.pictureBox365.AllowDrop = true;
-            this.pictureBox365.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox365, "pictureBox365");
-            this.pictureBox365.Name = "pictureBox365";
-            this.pictureBox365.TabStop = false;
-            // 
-            // pictureBox366
-            // 
-            this.pictureBox366.AllowDrop = true;
-            this.pictureBox366.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox366, "pictureBox366");
-            this.pictureBox366.Name = "pictureBox366";
-            this.pictureBox366.TabStop = false;
             // 
             // tabPage63
             // 
@@ -8984,8 +7673,6 @@
             // tabControl12
             // 
             this.tabControl12.Controls.Add(this.WatsonGearTab);
-            this.tabControl12.Controls.Add(this.WattsonHairTab);
-            this.tabControl12.Controls.Add(this.WattsonHeadTab);
             this.tabControl12.Controls.Add(this.WattsonJacketTab);
             this.tabControl12.Controls.Add(this.WattsonJumpKitTab);
             this.tabControl12.Controls.Add(this.WattsonSuitTab);
@@ -8996,6 +7683,8 @@
             // 
             // WatsonGearTab
             // 
+            this.WatsonGearTab.Controls.Add(this.label481);
+            this.WatsonGearTab.Controls.Add(this.wattGearilm);
             this.WatsonGearTab.Controls.Add(this.label15);
             this.WatsonGearTab.Controls.Add(this.label16);
             this.WatsonGearTab.Controls.Add(this.label17);
@@ -9011,6 +7700,24 @@
             resources.ApplyResources(this.WatsonGearTab, "WatsonGearTab");
             this.WatsonGearTab.Name = "WatsonGearTab";
             this.WatsonGearTab.UseVisualStyleBackColor = true;
+            // 
+            // label481
+            // 
+            resources.ApplyResources(this.label481, "label481");
+            this.label481.Name = "label481";
+            // 
+            // wattGearilm
+            // 
+            this.wattGearilm.AllowDrop = true;
+            this.wattGearilm.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.wattGearilm, "wattGearilm");
+            this.wattGearilm.Name = "wattGearilm";
+            this.wattGearilm.TabStop = false;
+            this.wattGearilm.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.wattGearilm.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.wattGearilm.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.wattGearilm.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.wattGearilm.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // label15
             // 
@@ -9119,258 +7826,6 @@
             this.wattGearspec.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
             this.wattGearspec.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
             this.wattGearspec.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
-            // 
-            // WattsonHairTab
-            // 
-            this.WattsonHairTab.Controls.Add(this.label25);
-            this.WattsonHairTab.Controls.Add(this.label26);
-            this.WattsonHairTab.Controls.Add(this.label27);
-            this.WattsonHairTab.Controls.Add(this.label28);
-            this.WattsonHairTab.Controls.Add(this.label29);
-            this.WattsonHairTab.Controls.Add(this.label30);
-            this.WattsonHairTab.Controls.Add(this.wattHaircav);
-            this.WattsonHairTab.Controls.Add(this.wattHairao);
-            this.WattsonHairTab.Controls.Add(this.wattHaircol);
-            this.WattsonHairTab.Controls.Add(this.wattHairnorm);
-            this.WattsonHairTab.Controls.Add(this.wattHairgloss);
-            this.WattsonHairTab.Controls.Add(this.wattHairspec);
-            resources.ApplyResources(this.WattsonHairTab, "WattsonHairTab");
-            this.WattsonHairTab.Name = "WattsonHairTab";
-            this.WattsonHairTab.UseVisualStyleBackColor = true;
-            // 
-            // label25
-            // 
-            resources.ApplyResources(this.label25, "label25");
-            this.label25.Name = "label25";
-            // 
-            // label26
-            // 
-            resources.ApplyResources(this.label26, "label26");
-            this.label26.Name = "label26";
-            // 
-            // label27
-            // 
-            resources.ApplyResources(this.label27, "label27");
-            this.label27.Name = "label27";
-            // 
-            // label28
-            // 
-            resources.ApplyResources(this.label28, "label28");
-            this.label28.Name = "label28";
-            // 
-            // label29
-            // 
-            resources.ApplyResources(this.label29, "label29");
-            this.label29.Name = "label29";
-            // 
-            // label30
-            // 
-            resources.ApplyResources(this.label30, "label30");
-            this.label30.Name = "label30";
-            // 
-            // wattHaircav
-            // 
-            this.wattHaircav.AllowDrop = true;
-            this.wattHaircav.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.wattHaircav, "wattHaircav");
-            this.wattHaircav.Name = "wattHaircav";
-            this.wattHaircav.TabStop = false;
-            this.wattHaircav.Click += new System.EventHandler(this.texturePictureBox_NClick);
-            this.wattHaircav.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
-            this.wattHaircav.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
-            this.wattHaircav.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
-            this.wattHaircav.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
-            // 
-            // wattHairao
-            // 
-            this.wattHairao.AllowDrop = true;
-            this.wattHairao.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.wattHairao, "wattHairao");
-            this.wattHairao.Name = "wattHairao";
-            this.wattHairao.TabStop = false;
-            this.wattHairao.Click += new System.EventHandler(this.texturePictureBox_NClick);
-            this.wattHairao.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
-            this.wattHairao.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
-            this.wattHairao.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
-            this.wattHairao.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
-            // 
-            // wattHaircol
-            // 
-            this.wattHaircol.AllowDrop = true;
-            this.wattHaircol.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.wattHaircol, "wattHaircol");
-            this.wattHaircol.Name = "wattHaircol";
-            this.wattHaircol.TabStop = false;
-            this.wattHaircol.Click += new System.EventHandler(this.texturePictureBox_NClick);
-            this.wattHaircol.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
-            this.wattHaircol.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
-            this.wattHaircol.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
-            this.wattHaircol.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
-            // 
-            // wattHairnorm
-            // 
-            this.wattHairnorm.AllowDrop = true;
-            this.wattHairnorm.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.wattHairnorm, "wattHairnorm");
-            this.wattHairnorm.Name = "wattHairnorm";
-            this.wattHairnorm.TabStop = false;
-            this.wattHairnorm.Click += new System.EventHandler(this.texturePictureBox_NClick);
-            this.wattHairnorm.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
-            this.wattHairnorm.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
-            this.wattHairnorm.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
-            this.wattHairnorm.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
-            // 
-            // wattHairgloss
-            // 
-            this.wattHairgloss.AllowDrop = true;
-            this.wattHairgloss.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.wattHairgloss, "wattHairgloss");
-            this.wattHairgloss.Name = "wattHairgloss";
-            this.wattHairgloss.TabStop = false;
-            this.wattHairgloss.Click += new System.EventHandler(this.texturePictureBox_NClick);
-            this.wattHairgloss.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
-            this.wattHairgloss.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
-            this.wattHairgloss.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
-            this.wattHairgloss.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
-            // 
-            // wattHairspec
-            // 
-            this.wattHairspec.AllowDrop = true;
-            this.wattHairspec.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.wattHairspec, "wattHairspec");
-            this.wattHairspec.Name = "wattHairspec";
-            this.wattHairspec.TabStop = false;
-            this.wattHairspec.Click += new System.EventHandler(this.texturePictureBox_NClick);
-            this.wattHairspec.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
-            this.wattHairspec.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
-            this.wattHairspec.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
-            this.wattHairspec.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
-            // 
-            // WattsonHeadTab
-            // 
-            this.WattsonHeadTab.Controls.Add(this.label31);
-            this.WattsonHeadTab.Controls.Add(this.label32);
-            this.WattsonHeadTab.Controls.Add(this.label33);
-            this.WattsonHeadTab.Controls.Add(this.label34);
-            this.WattsonHeadTab.Controls.Add(this.label35);
-            this.WattsonHeadTab.Controls.Add(this.label36);
-            this.WattsonHeadTab.Controls.Add(this.wattHeadcav);
-            this.WattsonHeadTab.Controls.Add(this.wattHeadao);
-            this.WattsonHeadTab.Controls.Add(this.wattHeadcol);
-            this.WattsonHeadTab.Controls.Add(this.wattHeadnorm);
-            this.WattsonHeadTab.Controls.Add(this.wattHeadgloss);
-            this.WattsonHeadTab.Controls.Add(this.wattHeadspec);
-            resources.ApplyResources(this.WattsonHeadTab, "WattsonHeadTab");
-            this.WattsonHeadTab.Name = "WattsonHeadTab";
-            this.WattsonHeadTab.UseVisualStyleBackColor = true;
-            // 
-            // label31
-            // 
-            resources.ApplyResources(this.label31, "label31");
-            this.label31.Name = "label31";
-            // 
-            // label32
-            // 
-            resources.ApplyResources(this.label32, "label32");
-            this.label32.Name = "label32";
-            // 
-            // label33
-            // 
-            resources.ApplyResources(this.label33, "label33");
-            this.label33.Name = "label33";
-            // 
-            // label34
-            // 
-            resources.ApplyResources(this.label34, "label34");
-            this.label34.Name = "label34";
-            // 
-            // label35
-            // 
-            resources.ApplyResources(this.label35, "label35");
-            this.label35.Name = "label35";
-            // 
-            // label36
-            // 
-            resources.ApplyResources(this.label36, "label36");
-            this.label36.Name = "label36";
-            // 
-            // wattHeadcav
-            // 
-            this.wattHeadcav.AllowDrop = true;
-            this.wattHeadcav.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.wattHeadcav, "wattHeadcav");
-            this.wattHeadcav.Name = "wattHeadcav";
-            this.wattHeadcav.TabStop = false;
-            this.wattHeadcav.Click += new System.EventHandler(this.texturePictureBox_NClick);
-            this.wattHeadcav.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
-            this.wattHeadcav.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
-            this.wattHeadcav.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
-            this.wattHeadcav.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
-            // 
-            // wattHeadao
-            // 
-            this.wattHeadao.AllowDrop = true;
-            this.wattHeadao.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.wattHeadao, "wattHeadao");
-            this.wattHeadao.Name = "wattHeadao";
-            this.wattHeadao.TabStop = false;
-            this.wattHeadao.Click += new System.EventHandler(this.texturePictureBox_NClick);
-            this.wattHeadao.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
-            this.wattHeadao.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
-            this.wattHeadao.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
-            this.wattHeadao.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
-            // 
-            // wattHeadcol
-            // 
-            this.wattHeadcol.AllowDrop = true;
-            this.wattHeadcol.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.wattHeadcol, "wattHeadcol");
-            this.wattHeadcol.Name = "wattHeadcol";
-            this.wattHeadcol.TabStop = false;
-            this.wattHeadcol.Click += new System.EventHandler(this.texturePictureBox_NClick);
-            this.wattHeadcol.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
-            this.wattHeadcol.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
-            this.wattHeadcol.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
-            this.wattHeadcol.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
-            // 
-            // wattHeadnorm
-            // 
-            this.wattHeadnorm.AllowDrop = true;
-            this.wattHeadnorm.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.wattHeadnorm, "wattHeadnorm");
-            this.wattHeadnorm.Name = "wattHeadnorm";
-            this.wattHeadnorm.TabStop = false;
-            this.wattHeadnorm.Click += new System.EventHandler(this.texturePictureBox_NClick);
-            this.wattHeadnorm.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
-            this.wattHeadnorm.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
-            this.wattHeadnorm.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
-            this.wattHeadnorm.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
-            // 
-            // wattHeadgloss
-            // 
-            this.wattHeadgloss.AllowDrop = true;
-            this.wattHeadgloss.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.wattHeadgloss, "wattHeadgloss");
-            this.wattHeadgloss.Name = "wattHeadgloss";
-            this.wattHeadgloss.TabStop = false;
-            this.wattHeadgloss.Click += new System.EventHandler(this.texturePictureBox_NClick);
-            this.wattHeadgloss.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
-            this.wattHeadgloss.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
-            this.wattHeadgloss.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
-            this.wattHeadgloss.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
-            // 
-            // wattHeadspec
-            // 
-            this.wattHeadspec.AllowDrop = true;
-            this.wattHeadspec.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.wattHeadspec, "wattHeadspec");
-            this.wattHeadspec.Name = "wattHeadspec";
-            this.wattHeadspec.TabStop = false;
-            this.wattHeadspec.Click += new System.EventHandler(this.texturePictureBox_NClick);
-            this.wattHeadspec.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
-            this.wattHeadspec.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
-            this.wattHeadspec.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
-            this.wattHeadspec.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // WattsonJacketTab
             // 
@@ -9752,6 +8207,8 @@
             // 
             // WattsonViewTab
             // 
+            this.WattsonViewTab.Controls.Add(this.label482);
+            this.WattsonViewTab.Controls.Add(this.wattVMilm);
             this.WattsonViewTab.Controls.Add(this.label13);
             this.WattsonViewTab.Controls.Add(this.label14);
             this.WattsonViewTab.Controls.Add(this.label18);
@@ -9767,6 +8224,24 @@
             resources.ApplyResources(this.WattsonViewTab, "WattsonViewTab");
             this.WattsonViewTab.Name = "WattsonViewTab";
             this.WattsonViewTab.UseVisualStyleBackColor = true;
+            // 
+            // label482
+            // 
+            resources.ApplyResources(this.label482, "label482");
+            this.label482.Name = "label482";
+            // 
+            // wattVMilm
+            // 
+            this.wattVMilm.AllowDrop = true;
+            this.wattVMilm.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.wattVMilm, "wattVMilm");
+            this.wattVMilm.Name = "wattVMilm";
+            this.wattVMilm.TabStop = false;
+            this.wattVMilm.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.wattVMilm.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.wattVMilm.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.wattVMilm.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.wattVMilm.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // label13
             // 
@@ -9941,6 +8416,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.bloodFurspec)).EndInit();
             this.tabPage10.ResumeLayout(false);
             this.tabPage10.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.bloodGauntletilm)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.bloodGauntletcav)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.bloodGauntletao)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.bloodGauntletcol)).EndInit();
@@ -9949,6 +8425,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.bloodGauntletspec)).EndInit();
             this.tabPage12.ResumeLayout(false);
             this.tabPage12.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.bloodGearilm)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.bloodGearcav)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.bloodGearao)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.bloodGearcol)).EndInit();
@@ -9983,142 +8460,110 @@
             this.tabControl3.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox43)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox44)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox45)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox46)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox47)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox48)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyBodycav)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyBodyao)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyBodycol)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyBodynorm)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyBodygloss)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyBodyspec)).EndInit();
             this.tabPage16.ResumeLayout(false);
             this.tabPage16.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox49)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox50)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox51)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox52)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox53)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox54)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyExtracav)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyExtraao)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyExtracol)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyExtranorm)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyExtragloss)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyExtraspec)).EndInit();
             this.tabPage17.ResumeLayout(false);
             this.tabPage17.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox55)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox56)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox57)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox58)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox59)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox60)).EndInit();
-            this.tabPage18.ResumeLayout(false);
-            this.tabPage18.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox61)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox62)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox63)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox64)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox65)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox66)).EndInit();
-            this.tabPage19.ResumeLayout(false);
-            this.tabPage19.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox67)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox68)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox69)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox70)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox71)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox72)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyGearcav)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyGearao)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyGearcol)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyGearnorm)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyGeargloss)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyGearspec)).EndInit();
             this.tabPage20.ResumeLayout(false);
             this.tabPage20.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox73)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox74)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox75)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox76)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox77)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox78)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyJumpKitcav)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyJumpKitao)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyJumpKitcol)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyJumpKitnorm)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyJumpKitgloss)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyJumpKitspec)).EndInit();
             this.tabPage21.ResumeLayout(false);
             this.tabPage21.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox79)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox80)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox81)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox82)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox83)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox84)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyShieldcav)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyShieldao)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyShieldcol)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyShieldnorm)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyShieldgloss)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyShieldspec)).EndInit();
             this.tabPage22.ResumeLayout(false);
             this.tabPage22.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox85)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox86)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox87)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox88)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox89)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox90)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyProxycav)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyProxyao)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyProxycol)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyProxynorm)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyProxygloss)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyProxyspec)).EndInit();
             this.tabPage23.ResumeLayout(false);
             this.tabPage23.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox91)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox92)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox93)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox94)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox95)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox96)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibySheildClampcav)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibySheildClampao)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibySheildClampcol)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibySheildClampnorm)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibySheildClampgloss)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibySheildClampspec)).EndInit();
             this.tabPage24.ResumeLayout(false);
             this.tabPage24.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox97)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox98)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox99)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox100)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox101)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox102)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyVMcav)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyVMao)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyVMcol)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyVMnorm)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyVMgloss)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gibyVMspec)).EndInit();
             this.LifelinetabPage.ResumeLayout(false);
-            this.tabControl5.ResumeLayout(false);
+            this.ltab12.ResumeLayout(false);
             this.tabPage3.ResumeLayout(false);
             this.tabPage3.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox103)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox104)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox105)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox106)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox107)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox108)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineBodycav)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineBodyao)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineBodycol)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineBodynorm)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineBodygloss)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineBodyspec)).EndInit();
             this.tabPage25.ResumeLayout(false);
             this.tabPage25.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox109)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox110)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox111)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox112)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox113)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox114)).EndInit();
-            this.tabPage26.ResumeLayout(false);
-            this.tabPage26.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox115)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox116)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox117)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox118)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox119)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox120)).EndInit();
-            this.tabPage27.ResumeLayout(false);
-            this.tabPage27.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox121)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox122)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox123)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox124)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox125)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox126)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineDronecav)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineDroneao)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineDronecol)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineDronenorm)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineDronegloss)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineDronespec)).EndInit();
             this.tabPage28.ResumeLayout(false);
             this.tabPage28.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox127)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox128)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox129)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox130)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox131)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox132)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineHandcav)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineHandao)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineHandcol)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineHandnorm)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineHandgloss)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineHandspec)).EndInit();
             this.tabPage29.ResumeLayout(false);
             this.tabPage29.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox133)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox134)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox135)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox136)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox137)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox138)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineJumpKitcav)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineJumpKitao)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineJumpKitcol)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineJumpKitnorm)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineJumpKitgloss)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineJumpKitspec)).EndInit();
             this.tabPage30.ResumeLayout(false);
             this.tabPage30.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox139)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox140)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox141)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox142)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox143)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox144)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineVMcav)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineVMao)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineVMcol)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineVMnorm)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineVMgloss)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lifelineVMspec)).EndInit();
             this.PathfindertabPage.ResumeLayout(false);
             this.tabControl6.ResumeLayout(false);
             this.tabPage4.ResumeLayout(false);
@@ -10211,30 +8656,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox208)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox209)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox210)).EndInit();
-            this.tabPage40.ResumeLayout(false);
-            this.tabPage40.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox211)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox212)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox213)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox214)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox215)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox216)).EndInit();
-            this.tabPage41.ResumeLayout(false);
-            this.tabPage41.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox217)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox218)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox219)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox220)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox221)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox222)).EndInit();
-            this.tabPage42.ResumeLayout(false);
-            this.tabPage42.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox223)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox224)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox225)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox226)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox227)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox228)).EndInit();
             this.tabPage43.ResumeLayout(false);
             this.tabPage43.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox229)).EndInit();
@@ -10285,22 +8706,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox262)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox263)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox264)).EndInit();
-            this.tabPage48.ResumeLayout(false);
-            this.tabPage48.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox265)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox266)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox267)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox268)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox269)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox270)).EndInit();
-            this.tabPage49.ResumeLayout(false);
-            this.tabPage49.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox271)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox272)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox273)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox274)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox275)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox276)).EndInit();
             this.tabPage50.ResumeLayout(false);
             this.tabPage50.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox277)).EndInit();
@@ -10359,22 +8764,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox316)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox317)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox318)).EndInit();
-            this.tabPage56.ResumeLayout(false);
-            this.tabPage56.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox319)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox320)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox321)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox322)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox323)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox324)).EndInit();
-            this.tabPage57.ResumeLayout(false);
-            this.tabPage57.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox325)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox326)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox327)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox328)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox329)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox330)).EndInit();
             this.tabPage58.ResumeLayout(false);
             this.tabPage58.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox331)).EndInit();
@@ -10409,22 +8798,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox354)).EndInit();
             this.MiragetabPage.ResumeLayout(false);
             this.tabControl10.ResumeLayout(false);
-            this.tabPage8.ResumeLayout(false);
-            this.tabPage8.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox355)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox356)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox357)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox358)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox359)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox360)).EndInit();
-            this.tabPage62.ResumeLayout(false);
-            this.tabPage62.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox361)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox362)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox363)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox364)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox365)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox366)).EndInit();
             this.tabPage63.ResumeLayout(false);
             this.tabPage63.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox367)).EndInit();
@@ -10527,28 +8900,13 @@
             this.tabControl12.ResumeLayout(false);
             this.WatsonGearTab.ResumeLayout(false);
             this.WatsonGearTab.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.wattGearilm)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.wattGearcav)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.wattGearao)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.wattGearcol)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.wattGearnorm)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.wattGeargloss)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.wattGearspec)).EndInit();
-            this.WattsonHairTab.ResumeLayout(false);
-            this.WattsonHairTab.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.wattHaircav)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.wattHairao)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.wattHaircol)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.wattHairnorm)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.wattHairgloss)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.wattHairspec)).EndInit();
-            this.WattsonHeadTab.ResumeLayout(false);
-            this.WattsonHeadTab.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.wattHeadcav)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.wattHeadao)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.wattHeadcol)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.wattHeadnorm)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.wattHeadgloss)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.wattHeadspec)).EndInit();
             this.WattsonJacketTab.ResumeLayout(false);
             this.WattsonJacketTab.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.wattJacketcav)).EndInit();
@@ -10575,6 +8933,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.wattSuitspec)).EndInit();
             this.WattsonViewTab.ResumeLayout(false);
             this.WattsonViewTab.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.wattVMilm)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.wattVMcav)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.wattVMao)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.wattVMcol)).EndInit();
@@ -10607,7 +8966,7 @@
         private System.Windows.Forms.TabControl tabControl3;
         private System.Windows.Forms.TabPage tabPage1;
         private System.Windows.Forms.TabPage LifelinetabPage;
-        private System.Windows.Forms.TabControl tabControl5;
+        private System.Windows.Forms.TabControl ltab12;
         private System.Windows.Forms.TabPage tabPage3;
         private System.Windows.Forms.TabPage PathfindertabPage;
         private System.Windows.Forms.TabPage WraithtabPage;
@@ -10628,7 +8987,6 @@
         private System.Windows.Forms.TabControl tabControl9;
         private System.Windows.Forms.TabPage tabPage7;
         private System.Windows.Forms.TabControl tabControl10;
-        private System.Windows.Forms.TabPage tabPage8;
         private System.Windows.Forms.TabControl tabControl11;
         private System.Windows.Forms.TabPage tabPage9;
         private System.Windows.Forms.TabControl tabControl12;
@@ -10687,32 +9045,6 @@
         private System.Windows.Forms.PictureBox wattVMgloss;
         private System.Windows.Forms.PictureBox wattVMspec;
         private System.Windows.Forms.TabPage BloodhoundFurTab;
-        private System.Windows.Forms.TabPage WattsonHairTab;
-        private System.Windows.Forms.Label label25;
-        private System.Windows.Forms.Label label26;
-        private System.Windows.Forms.Label label27;
-        private System.Windows.Forms.Label label28;
-        private System.Windows.Forms.Label label29;
-        private System.Windows.Forms.Label label30;
-        private System.Windows.Forms.PictureBox wattHaircav;
-        private System.Windows.Forms.PictureBox wattHairao;
-        private System.Windows.Forms.PictureBox wattHaircol;
-        private System.Windows.Forms.PictureBox wattHairnorm;
-        private System.Windows.Forms.PictureBox wattHairgloss;
-        private System.Windows.Forms.PictureBox wattHairspec;
-        private System.Windows.Forms.TabPage WattsonHeadTab;
-        private System.Windows.Forms.Label label31;
-        private System.Windows.Forms.Label label32;
-        private System.Windows.Forms.Label label33;
-        private System.Windows.Forms.Label label34;
-        private System.Windows.Forms.Label label35;
-        private System.Windows.Forms.Label label36;
-        private System.Windows.Forms.PictureBox wattHeadcav;
-        private System.Windows.Forms.PictureBox wattHeadao;
-        private System.Windows.Forms.PictureBox wattHeadcol;
-        private System.Windows.Forms.PictureBox wattHeadnorm;
-        private System.Windows.Forms.PictureBox wattHeadgloss;
-        private System.Windows.Forms.PictureBox wattHeadspec;
         private System.Windows.Forms.TabPage WattsonJumpKitTab;
         private System.Windows.Forms.Label label37;
         private System.Windows.Forms.Label label38;
@@ -10821,12 +9153,12 @@
         private System.Windows.Forms.Label label88;
         private System.Windows.Forms.Label label89;
         private System.Windows.Forms.Label label90;
-        private System.Windows.Forms.PictureBox pictureBox43;
-        private System.Windows.Forms.PictureBox pictureBox44;
-        private System.Windows.Forms.PictureBox pictureBox45;
-        private System.Windows.Forms.PictureBox pictureBox46;
-        private System.Windows.Forms.PictureBox pictureBox47;
-        private System.Windows.Forms.PictureBox pictureBox48;
+        private System.Windows.Forms.PictureBox gibyBodycav;
+        private System.Windows.Forms.PictureBox gibyBodyao;
+        private System.Windows.Forms.PictureBox gibyBodycol;
+        private System.Windows.Forms.PictureBox gibyBodynorm;
+        private System.Windows.Forms.PictureBox gibyBodygloss;
+        private System.Windows.Forms.PictureBox gibyBodyspec;
         private System.Windows.Forms.TabPage tabPage16;
         private System.Windows.Forms.Label label91;
         private System.Windows.Forms.Label label92;
@@ -10834,12 +9166,12 @@
         private System.Windows.Forms.Label label94;
         private System.Windows.Forms.Label label95;
         private System.Windows.Forms.Label label96;
-        private System.Windows.Forms.PictureBox pictureBox49;
-        private System.Windows.Forms.PictureBox pictureBox50;
-        private System.Windows.Forms.PictureBox pictureBox51;
-        private System.Windows.Forms.PictureBox pictureBox52;
-        private System.Windows.Forms.PictureBox pictureBox53;
-        private System.Windows.Forms.PictureBox pictureBox54;
+        private System.Windows.Forms.PictureBox gibyExtracav;
+        private System.Windows.Forms.PictureBox gibyExtraao;
+        private System.Windows.Forms.PictureBox gibyExtracol;
+        private System.Windows.Forms.PictureBox gibyExtranorm;
+        private System.Windows.Forms.PictureBox gibyExtragloss;
+        private System.Windows.Forms.PictureBox gibyExtraspec;
         private System.Windows.Forms.TabPage tabPage17;
         private System.Windows.Forms.Label label97;
         private System.Windows.Forms.Label label98;
@@ -10847,38 +9179,12 @@
         private System.Windows.Forms.Label label100;
         private System.Windows.Forms.Label label101;
         private System.Windows.Forms.Label label102;
-        private System.Windows.Forms.PictureBox pictureBox55;
-        private System.Windows.Forms.PictureBox pictureBox56;
-        private System.Windows.Forms.PictureBox pictureBox57;
-        private System.Windows.Forms.PictureBox pictureBox58;
-        private System.Windows.Forms.PictureBox pictureBox59;
-        private System.Windows.Forms.PictureBox pictureBox60;
-        private System.Windows.Forms.TabPage tabPage18;
-        private System.Windows.Forms.Label label103;
-        private System.Windows.Forms.Label label104;
-        private System.Windows.Forms.Label label105;
-        private System.Windows.Forms.Label label106;
-        private System.Windows.Forms.Label label107;
-        private System.Windows.Forms.Label label108;
-        private System.Windows.Forms.PictureBox pictureBox61;
-        private System.Windows.Forms.PictureBox pictureBox62;
-        private System.Windows.Forms.PictureBox pictureBox63;
-        private System.Windows.Forms.PictureBox pictureBox64;
-        private System.Windows.Forms.PictureBox pictureBox65;
-        private System.Windows.Forms.PictureBox pictureBox66;
-        private System.Windows.Forms.TabPage tabPage19;
-        private System.Windows.Forms.Label label109;
-        private System.Windows.Forms.Label label110;
-        private System.Windows.Forms.Label label111;
-        private System.Windows.Forms.Label label112;
-        private System.Windows.Forms.Label label113;
-        private System.Windows.Forms.Label label114;
-        private System.Windows.Forms.PictureBox pictureBox67;
-        private System.Windows.Forms.PictureBox pictureBox68;
-        private System.Windows.Forms.PictureBox pictureBox69;
-        private System.Windows.Forms.PictureBox pictureBox70;
-        private System.Windows.Forms.PictureBox pictureBox71;
-        private System.Windows.Forms.PictureBox pictureBox72;
+        private System.Windows.Forms.PictureBox gibyGearcav;
+        private System.Windows.Forms.PictureBox gibyGearao;
+        private System.Windows.Forms.PictureBox gibyGearcol;
+        private System.Windows.Forms.PictureBox gibyGearnorm;
+        private System.Windows.Forms.PictureBox gibyGeargloss;
+        private System.Windows.Forms.PictureBox gibyGearspec;
         private System.Windows.Forms.TabPage tabPage20;
         private System.Windows.Forms.Label label115;
         private System.Windows.Forms.Label label116;
@@ -10886,12 +9192,12 @@
         private System.Windows.Forms.Label label118;
         private System.Windows.Forms.Label label119;
         private System.Windows.Forms.Label label120;
-        private System.Windows.Forms.PictureBox pictureBox73;
-        private System.Windows.Forms.PictureBox pictureBox74;
-        private System.Windows.Forms.PictureBox pictureBox75;
-        private System.Windows.Forms.PictureBox pictureBox76;
-        private System.Windows.Forms.PictureBox pictureBox77;
-        private System.Windows.Forms.PictureBox pictureBox78;
+        private System.Windows.Forms.PictureBox gibyJumpKitcav;
+        private System.Windows.Forms.PictureBox gibyJumpKitao;
+        private System.Windows.Forms.PictureBox gibyJumpKitcol;
+        private System.Windows.Forms.PictureBox gibyJumpKitnorm;
+        private System.Windows.Forms.PictureBox gibyJumpKitgloss;
+        private System.Windows.Forms.PictureBox gibyJumpKitspec;
         private System.Windows.Forms.TabPage tabPage21;
         private System.Windows.Forms.Label label121;
         private System.Windows.Forms.Label label122;
@@ -10899,12 +9205,12 @@
         private System.Windows.Forms.Label label124;
         private System.Windows.Forms.Label label125;
         private System.Windows.Forms.Label label126;
-        private System.Windows.Forms.PictureBox pictureBox79;
-        private System.Windows.Forms.PictureBox pictureBox80;
-        private System.Windows.Forms.PictureBox pictureBox81;
-        private System.Windows.Forms.PictureBox pictureBox82;
-        private System.Windows.Forms.PictureBox pictureBox83;
-        private System.Windows.Forms.PictureBox pictureBox84;
+        private System.Windows.Forms.PictureBox gibyShieldcav;
+        private System.Windows.Forms.PictureBox gibyShieldao;
+        private System.Windows.Forms.PictureBox gibyShieldcol;
+        private System.Windows.Forms.PictureBox gibyShieldnorm;
+        private System.Windows.Forms.PictureBox gibyShieldgloss;
+        private System.Windows.Forms.PictureBox gibyShieldspec;
         private System.Windows.Forms.TabPage tabPage22;
         private System.Windows.Forms.Label label127;
         private System.Windows.Forms.Label label128;
@@ -10912,12 +9218,12 @@
         private System.Windows.Forms.Label label130;
         private System.Windows.Forms.Label label131;
         private System.Windows.Forms.Label label132;
-        private System.Windows.Forms.PictureBox pictureBox85;
-        private System.Windows.Forms.PictureBox pictureBox86;
-        private System.Windows.Forms.PictureBox pictureBox87;
-        private System.Windows.Forms.PictureBox pictureBox88;
-        private System.Windows.Forms.PictureBox pictureBox89;
-        private System.Windows.Forms.PictureBox pictureBox90;
+        private System.Windows.Forms.PictureBox gibyProxycav;
+        private System.Windows.Forms.PictureBox gibyProxyao;
+        private System.Windows.Forms.PictureBox gibyProxycol;
+        private System.Windows.Forms.PictureBox gibyProxynorm;
+        private System.Windows.Forms.PictureBox gibyProxygloss;
+        private System.Windows.Forms.PictureBox gibyProxyspec;
         private System.Windows.Forms.TabPage tabPage23;
         private System.Windows.Forms.Label label133;
         private System.Windows.Forms.Label label134;
@@ -10925,12 +9231,12 @@
         private System.Windows.Forms.Label label136;
         private System.Windows.Forms.Label label137;
         private System.Windows.Forms.Label label138;
-        private System.Windows.Forms.PictureBox pictureBox91;
-        private System.Windows.Forms.PictureBox pictureBox92;
-        private System.Windows.Forms.PictureBox pictureBox93;
-        private System.Windows.Forms.PictureBox pictureBox94;
-        private System.Windows.Forms.PictureBox pictureBox95;
-        private System.Windows.Forms.PictureBox pictureBox96;
+        private System.Windows.Forms.PictureBox gibySheildClampcav;
+        private System.Windows.Forms.PictureBox gibySheildClampao;
+        private System.Windows.Forms.PictureBox gibySheildClampcol;
+        private System.Windows.Forms.PictureBox gibySheildClampnorm;
+        private System.Windows.Forms.PictureBox gibySheildClampgloss;
+        private System.Windows.Forms.PictureBox gibySheildClampspec;
         private System.Windows.Forms.TabPage tabPage24;
         private System.Windows.Forms.Label label139;
         private System.Windows.Forms.Label label140;
@@ -10938,24 +9244,24 @@
         private System.Windows.Forms.Label label142;
         private System.Windows.Forms.Label label143;
         private System.Windows.Forms.Label label144;
-        private System.Windows.Forms.PictureBox pictureBox97;
-        private System.Windows.Forms.PictureBox pictureBox98;
-        private System.Windows.Forms.PictureBox pictureBox99;
-        private System.Windows.Forms.PictureBox pictureBox100;
-        private System.Windows.Forms.PictureBox pictureBox101;
-        private System.Windows.Forms.PictureBox pictureBox102;
+        private System.Windows.Forms.PictureBox gibyVMcav;
+        private System.Windows.Forms.PictureBox gibyVMao;
+        private System.Windows.Forms.PictureBox gibyVMcol;
+        private System.Windows.Forms.PictureBox gibyVMnorm;
+        private System.Windows.Forms.PictureBox gibyVMgloss;
+        private System.Windows.Forms.PictureBox gibyVMspec;
         private System.Windows.Forms.Label label145;
         private System.Windows.Forms.Label label146;
         private System.Windows.Forms.Label label147;
         private System.Windows.Forms.Label label148;
         private System.Windows.Forms.Label label149;
         private System.Windows.Forms.Label label150;
-        private System.Windows.Forms.PictureBox pictureBox103;
-        private System.Windows.Forms.PictureBox pictureBox104;
-        private System.Windows.Forms.PictureBox pictureBox105;
-        private System.Windows.Forms.PictureBox pictureBox106;
-        private System.Windows.Forms.PictureBox pictureBox107;
-        private System.Windows.Forms.PictureBox pictureBox108;
+        private System.Windows.Forms.PictureBox lifelineBodycav;
+        private System.Windows.Forms.PictureBox lifelineBodyao;
+        private System.Windows.Forms.PictureBox lifelineBodycol;
+        private System.Windows.Forms.PictureBox lifelineBodynorm;
+        private System.Windows.Forms.PictureBox lifelineBodygloss;
+        private System.Windows.Forms.PictureBox lifelineBodyspec;
         private System.Windows.Forms.TabPage tabPage25;
         private System.Windows.Forms.Label label151;
         private System.Windows.Forms.Label label152;
@@ -10963,38 +9269,12 @@
         private System.Windows.Forms.Label label154;
         private System.Windows.Forms.Label label155;
         private System.Windows.Forms.Label label156;
-        private System.Windows.Forms.PictureBox pictureBox109;
-        private System.Windows.Forms.PictureBox pictureBox110;
-        private System.Windows.Forms.PictureBox pictureBox111;
-        private System.Windows.Forms.PictureBox pictureBox112;
-        private System.Windows.Forms.PictureBox pictureBox113;
-        private System.Windows.Forms.PictureBox pictureBox114;
-        private System.Windows.Forms.TabPage tabPage26;
-        private System.Windows.Forms.Label label157;
-        private System.Windows.Forms.Label label158;
-        private System.Windows.Forms.Label label159;
-        private System.Windows.Forms.Label label160;
-        private System.Windows.Forms.Label label161;
-        private System.Windows.Forms.Label label162;
-        private System.Windows.Forms.PictureBox pictureBox115;
-        private System.Windows.Forms.PictureBox pictureBox116;
-        private System.Windows.Forms.PictureBox pictureBox117;
-        private System.Windows.Forms.PictureBox pictureBox118;
-        private System.Windows.Forms.PictureBox pictureBox119;
-        private System.Windows.Forms.PictureBox pictureBox120;
-        private System.Windows.Forms.TabPage tabPage27;
-        private System.Windows.Forms.Label label163;
-        private System.Windows.Forms.Label label164;
-        private System.Windows.Forms.Label label165;
-        private System.Windows.Forms.Label label166;
-        private System.Windows.Forms.Label label167;
-        private System.Windows.Forms.Label label168;
-        private System.Windows.Forms.PictureBox pictureBox121;
-        private System.Windows.Forms.PictureBox pictureBox122;
-        private System.Windows.Forms.PictureBox pictureBox123;
-        private System.Windows.Forms.PictureBox pictureBox124;
-        private System.Windows.Forms.PictureBox pictureBox125;
-        private System.Windows.Forms.PictureBox pictureBox126;
+        private System.Windows.Forms.PictureBox lifelineDronecav;
+        private System.Windows.Forms.PictureBox lifelineDroneao;
+        private System.Windows.Forms.PictureBox lifelineDronecol;
+        private System.Windows.Forms.PictureBox lifelineDronenorm;
+        private System.Windows.Forms.PictureBox lifelineDronegloss;
+        private System.Windows.Forms.PictureBox lifelineDronespec;
         private System.Windows.Forms.TabPage tabPage28;
         private System.Windows.Forms.Label label169;
         private System.Windows.Forms.Label label170;
@@ -11002,12 +9282,12 @@
         private System.Windows.Forms.Label label172;
         private System.Windows.Forms.Label label173;
         private System.Windows.Forms.Label label174;
-        private System.Windows.Forms.PictureBox pictureBox127;
-        private System.Windows.Forms.PictureBox pictureBox128;
-        private System.Windows.Forms.PictureBox pictureBox129;
-        private System.Windows.Forms.PictureBox pictureBox130;
-        private System.Windows.Forms.PictureBox pictureBox131;
-        private System.Windows.Forms.PictureBox pictureBox132;
+        private System.Windows.Forms.PictureBox lifelineHandcav;
+        private System.Windows.Forms.PictureBox lifelineHandao;
+        private System.Windows.Forms.PictureBox lifelineHandcol;
+        private System.Windows.Forms.PictureBox lifelineHandnorm;
+        private System.Windows.Forms.PictureBox lifelineHandgloss;
+        private System.Windows.Forms.PictureBox lifelineHandspec;
         private System.Windows.Forms.TabPage tabPage29;
         private System.Windows.Forms.Label label175;
         private System.Windows.Forms.Label label176;
@@ -11015,12 +9295,12 @@
         private System.Windows.Forms.Label label178;
         private System.Windows.Forms.Label label179;
         private System.Windows.Forms.Label label180;
-        private System.Windows.Forms.PictureBox pictureBox133;
-        private System.Windows.Forms.PictureBox pictureBox134;
-        private System.Windows.Forms.PictureBox pictureBox135;
-        private System.Windows.Forms.PictureBox pictureBox136;
-        private System.Windows.Forms.PictureBox pictureBox137;
-        private System.Windows.Forms.PictureBox pictureBox138;
+        private System.Windows.Forms.PictureBox lifelineJumpKitcav;
+        private System.Windows.Forms.PictureBox lifelineJumpKitao;
+        private System.Windows.Forms.PictureBox lifelineJumpKitcol;
+        private System.Windows.Forms.PictureBox lifelineJumpKitnorm;
+        private System.Windows.Forms.PictureBox lifelineJumpKitgloss;
+        private System.Windows.Forms.PictureBox lifelineJumpKitspec;
         private System.Windows.Forms.TabPage tabPage30;
         private System.Windows.Forms.Label label181;
         private System.Windows.Forms.Label label182;
@@ -11028,12 +9308,12 @@
         private System.Windows.Forms.Label label184;
         private System.Windows.Forms.Label label185;
         private System.Windows.Forms.Label label186;
-        private System.Windows.Forms.PictureBox pictureBox139;
-        private System.Windows.Forms.PictureBox pictureBox140;
-        private System.Windows.Forms.PictureBox pictureBox141;
-        private System.Windows.Forms.PictureBox pictureBox142;
-        private System.Windows.Forms.PictureBox pictureBox143;
-        private System.Windows.Forms.PictureBox pictureBox144;
+        private System.Windows.Forms.PictureBox lifelineVMcav;
+        private System.Windows.Forms.PictureBox lifelineVMao;
+        private System.Windows.Forms.PictureBox lifelineVMcol;
+        private System.Windows.Forms.PictureBox lifelineVMnorm;
+        private System.Windows.Forms.PictureBox lifelineVMgloss;
+        private System.Windows.Forms.PictureBox lifelineVMspec;
         private System.Windows.Forms.Label label187;
         private System.Windows.Forms.Label label188;
         private System.Windows.Forms.Label label189;
@@ -11175,45 +9455,6 @@
         private System.Windows.Forms.PictureBox pictureBox208;
         private System.Windows.Forms.PictureBox pictureBox209;
         private System.Windows.Forms.PictureBox pictureBox210;
-        private System.Windows.Forms.TabPage tabPage40;
-        private System.Windows.Forms.Label label253;
-        private System.Windows.Forms.Label label254;
-        private System.Windows.Forms.Label label255;
-        private System.Windows.Forms.Label label256;
-        private System.Windows.Forms.Label label257;
-        private System.Windows.Forms.Label label258;
-        private System.Windows.Forms.PictureBox pictureBox211;
-        private System.Windows.Forms.PictureBox pictureBox212;
-        private System.Windows.Forms.PictureBox pictureBox213;
-        private System.Windows.Forms.PictureBox pictureBox214;
-        private System.Windows.Forms.PictureBox pictureBox215;
-        private System.Windows.Forms.PictureBox pictureBox216;
-        private System.Windows.Forms.TabPage tabPage41;
-        private System.Windows.Forms.Label label259;
-        private System.Windows.Forms.Label label260;
-        private System.Windows.Forms.Label label261;
-        private System.Windows.Forms.Label label262;
-        private System.Windows.Forms.Label label263;
-        private System.Windows.Forms.Label label264;
-        private System.Windows.Forms.PictureBox pictureBox217;
-        private System.Windows.Forms.PictureBox pictureBox218;
-        private System.Windows.Forms.PictureBox pictureBox219;
-        private System.Windows.Forms.PictureBox pictureBox220;
-        private System.Windows.Forms.PictureBox pictureBox221;
-        private System.Windows.Forms.PictureBox pictureBox222;
-        private System.Windows.Forms.TabPage tabPage42;
-        private System.Windows.Forms.Label label265;
-        private System.Windows.Forms.Label label266;
-        private System.Windows.Forms.Label label267;
-        private System.Windows.Forms.Label label268;
-        private System.Windows.Forms.Label label269;
-        private System.Windows.Forms.Label label270;
-        private System.Windows.Forms.PictureBox pictureBox223;
-        private System.Windows.Forms.PictureBox pictureBox224;
-        private System.Windows.Forms.PictureBox pictureBox225;
-        private System.Windows.Forms.PictureBox pictureBox226;
-        private System.Windows.Forms.PictureBox pictureBox227;
-        private System.Windows.Forms.PictureBox pictureBox228;
         private System.Windows.Forms.TabPage tabPage43;
         private System.Windows.Forms.Label label271;
         private System.Windows.Forms.Label label272;
@@ -11291,32 +9532,6 @@
         private System.Windows.Forms.PictureBox pictureBox262;
         private System.Windows.Forms.PictureBox pictureBox263;
         private System.Windows.Forms.PictureBox pictureBox264;
-        private System.Windows.Forms.TabPage tabPage48;
-        private System.Windows.Forms.Label label307;
-        private System.Windows.Forms.Label label308;
-        private System.Windows.Forms.Label label309;
-        private System.Windows.Forms.Label label310;
-        private System.Windows.Forms.Label label311;
-        private System.Windows.Forms.Label label312;
-        private System.Windows.Forms.PictureBox pictureBox265;
-        private System.Windows.Forms.PictureBox pictureBox266;
-        private System.Windows.Forms.PictureBox pictureBox267;
-        private System.Windows.Forms.PictureBox pictureBox268;
-        private System.Windows.Forms.PictureBox pictureBox269;
-        private System.Windows.Forms.PictureBox pictureBox270;
-        private System.Windows.Forms.TabPage tabPage49;
-        private System.Windows.Forms.Label label313;
-        private System.Windows.Forms.Label label314;
-        private System.Windows.Forms.Label label315;
-        private System.Windows.Forms.Label label316;
-        private System.Windows.Forms.Label label317;
-        private System.Windows.Forms.Label label318;
-        private System.Windows.Forms.PictureBox pictureBox271;
-        private System.Windows.Forms.PictureBox pictureBox272;
-        private System.Windows.Forms.PictureBox pictureBox273;
-        private System.Windows.Forms.PictureBox pictureBox274;
-        private System.Windows.Forms.PictureBox pictureBox275;
-        private System.Windows.Forms.PictureBox pictureBox276;
         private System.Windows.Forms.TabPage tabPage50;
         private System.Windows.Forms.Label label319;
         private System.Windows.Forms.Label label320;
@@ -11407,32 +9622,6 @@
         private System.Windows.Forms.PictureBox pictureBox316;
         private System.Windows.Forms.PictureBox pictureBox317;
         private System.Windows.Forms.PictureBox pictureBox318;
-        private System.Windows.Forms.TabPage tabPage56;
-        private System.Windows.Forms.Label label361;
-        private System.Windows.Forms.Label label362;
-        private System.Windows.Forms.Label label363;
-        private System.Windows.Forms.Label label364;
-        private System.Windows.Forms.Label label365;
-        private System.Windows.Forms.Label label366;
-        private System.Windows.Forms.PictureBox pictureBox319;
-        private System.Windows.Forms.PictureBox pictureBox320;
-        private System.Windows.Forms.PictureBox pictureBox321;
-        private System.Windows.Forms.PictureBox pictureBox322;
-        private System.Windows.Forms.PictureBox pictureBox323;
-        private System.Windows.Forms.PictureBox pictureBox324;
-        private System.Windows.Forms.TabPage tabPage57;
-        private System.Windows.Forms.Label label367;
-        private System.Windows.Forms.Label label368;
-        private System.Windows.Forms.Label label369;
-        private System.Windows.Forms.Label label370;
-        private System.Windows.Forms.Label label371;
-        private System.Windows.Forms.Label label372;
-        private System.Windows.Forms.PictureBox pictureBox325;
-        private System.Windows.Forms.PictureBox pictureBox326;
-        private System.Windows.Forms.PictureBox pictureBox327;
-        private System.Windows.Forms.PictureBox pictureBox328;
-        private System.Windows.Forms.PictureBox pictureBox329;
-        private System.Windows.Forms.PictureBox pictureBox330;
         private System.Windows.Forms.TabPage tabPage58;
         private System.Windows.Forms.Label label373;
         private System.Windows.Forms.Label label374;
@@ -11485,31 +9674,6 @@
         private System.Windows.Forms.PictureBox pictureBox352;
         private System.Windows.Forms.PictureBox pictureBox353;
         private System.Windows.Forms.PictureBox pictureBox354;
-        private System.Windows.Forms.Label label397;
-        private System.Windows.Forms.Label label398;
-        private System.Windows.Forms.Label label399;
-        private System.Windows.Forms.Label label400;
-        private System.Windows.Forms.Label label401;
-        private System.Windows.Forms.Label label402;
-        private System.Windows.Forms.PictureBox pictureBox355;
-        private System.Windows.Forms.PictureBox pictureBox356;
-        private System.Windows.Forms.PictureBox pictureBox357;
-        private System.Windows.Forms.PictureBox pictureBox358;
-        private System.Windows.Forms.PictureBox pictureBox359;
-        private System.Windows.Forms.PictureBox pictureBox360;
-        private System.Windows.Forms.TabPage tabPage62;
-        private System.Windows.Forms.Label label403;
-        private System.Windows.Forms.Label label404;
-        private System.Windows.Forms.Label label405;
-        private System.Windows.Forms.Label label406;
-        private System.Windows.Forms.Label label407;
-        private System.Windows.Forms.Label label408;
-        private System.Windows.Forms.PictureBox pictureBox361;
-        private System.Windows.Forms.PictureBox pictureBox362;
-        private System.Windows.Forms.PictureBox pictureBox363;
-        private System.Windows.Forms.PictureBox pictureBox364;
-        private System.Windows.Forms.PictureBox pictureBox365;
-        private System.Windows.Forms.PictureBox pictureBox366;
         private System.Windows.Forms.TabPage tabPage63;
         private System.Windows.Forms.Label label409;
         private System.Windows.Forms.Label label410;
@@ -11665,5 +9829,13 @@
         private System.Windows.Forms.PictureBox pictureBox436;
         private System.Windows.Forms.PictureBox pictureBox437;
         private System.Windows.Forms.PictureBox pictureBox438;
+        private System.Windows.Forms.Label label481;
+        private System.Windows.Forms.PictureBox wattGearilm;
+        private System.Windows.Forms.Label label25;
+        private System.Windows.Forms.PictureBox bloodGauntletilm;
+        private System.Windows.Forms.Label label26;
+        private System.Windows.Forms.PictureBox bloodGearilm;
+        private System.Windows.Forms.Label label482;
+        private System.Windows.Forms.PictureBox wattVMilm;
     }
 }

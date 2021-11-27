@@ -156,6 +156,16 @@ namespace Titanfall2_SkinTool
                         tolength = Convert.ToInt32(pdc.Length);
                         totype = Convert.ToInt32(pdc.SeekLength);
                     }
+                    else if (IsLegend(i))
+                    {
+                        if (SelectedGame == "APEX")
+                        {
+                            APEX.LegendData.LegendDataControl ldc = new APEX.LegendData.LegendDataControl(i, imagecheck);
+                            toseek = Convert.ToInt64(ldc.FilePath[0, 1]);
+                            tolength = Convert.ToInt32(ldc.FilePath[0, 2]);
+                            totype = Convert.ToInt32(ldc.FilePath[0, 3]);
+                        }
+                    }
                     else //if(IsWeapon(i))
                     {
                         if (SelectedGame == "APEX")
@@ -373,6 +383,18 @@ namespace Titanfall2_SkinTool
         private bool IsPilot(string Name)
         {
             if (Name.Contains("Stim_") || Name.Contains("PhaseShift_") || Name.Contains("HoloPilot_") || Name.Contains("PulseBlade_") || Name.Contains("Grapple_") || Name.Contains("AWall_") || Name.Contains("Cloak_") || Name.Contains("Public_"))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        private bool IsLegend(string Name)
+        {
+            if (Name.Contains("Bloodhound") || Name.Contains("Gibraltar") || Name.Contains("Lifeline") || Name.Contains("Pathfinder") || Name.Contains("Wraith") || Name.Contains("Bangalore") || Name.Contains("Caustic") || Name.Contains("Mirage") || Name.Contains("Octane") || Name.Contains("Wattson") || Name.Contains("Crypto"))
             {
                 return true;
             }

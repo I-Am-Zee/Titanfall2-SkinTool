@@ -81,7 +81,7 @@ namespace Titanfall2_SkinTool
             }
         }
 
-        private void LegendTexturePrep(string prefix, PictureBox col, PictureBox spc, PictureBox gls, PictureBox nml, PictureBox ao, PictureBox cav, ZipArchive zipArchive, ProgressForm progressForm)
+        private void LegendTexturePrep(string prefix, PictureBox col, PictureBox spc, PictureBox gls, PictureBox nml, PictureBox ao, PictureBox cav, ZipArchive zipArchive, ProgressForm progressForm, bool big)
         {
             if (col.Enabled && col.Image != null)
             {
@@ -129,6 +129,68 @@ namespace Titanfall2_SkinTool
             {
                 MagickImage cavImage = new MagickImage(ImageToByteArray(cav.Image));
                 SaveTexture(SelectedWeapon + prefix + "_Default_cav.dds", cavImage, zipArchive, BCnEncoder.Shared.CompressionFormat.Bc4);
+            }
+
+            progressForm?.AdvanceEntry(); 
+        }
+
+        private void LegendTexturePrepILM(string prefix, PictureBox col, PictureBox spc, PictureBox gls, PictureBox nml, PictureBox ao, PictureBox cav, PictureBox ilm, ZipArchive zipArchive, ProgressForm progressForm, bool big)
+        {
+            if (col.Enabled && col.Image != null)
+            {
+                MagickImage colorImage = new MagickImage(ImageToByteArray(col.Image));
+                colorImage.SetCompression(CompressionMethod.DXT1);
+                SaveTexture(SelectedWeapon + prefix + "_Default_col.dds", colorImage, zipArchive, BCnEncoder.Shared.CompressionFormat.Rgba);
+            }
+
+            progressForm?.AdvanceEntry();
+
+            if (spc.Enabled && spc.Image != null)
+            {
+                MagickImage specularImage = new MagickImage(ImageToByteArray(spc.Image));
+                specularImage.SetCompression(CompressionMethod.DXT1);
+                SaveTexture(SelectedWeapon + prefix + "_Default_spc.dds", specularImage, zipArchive);
+            }
+
+            progressForm?.AdvanceEntry();
+
+            if (gls.Enabled && gls.Image != null)
+            {
+                MagickImage glossinessImage = new MagickImage(ImageToByteArray(gls.Image));
+                SaveTexture(SelectedWeapon + prefix + "_Default_gls.dds", glossinessImage, zipArchive, BCnEncoder.Shared.CompressionFormat.Bc4);
+            }
+
+            progressForm?.AdvanceEntry();
+
+            if (nml.Enabled && nml.Image != null)
+            {
+                MagickImage normalImage = new MagickImage(ImageToByteArray(nml.Image));
+                SaveTexture(SelectedWeapon + prefix + "_Default_nml.dds", normalImage, zipArchive, BCnEncoder.Shared.CompressionFormat.Bc5);
+            }
+
+            progressForm?.AdvanceEntry();
+
+            if (ao.Enabled && ao.Image != null)
+            {
+                MagickImage aoImage = new MagickImage(ImageToByteArray(ao.Image));
+                SaveTexture(SelectedWeapon + prefix + "_Default_ao.dds", aoImage, zipArchive, BCnEncoder.Shared.CompressionFormat.Bc4);
+            }
+
+            progressForm?.AdvanceEntry();
+
+            if (cav.Enabled && cav.Image != null)
+            {
+                MagickImage cavImage = new MagickImage(ImageToByteArray(cav.Image));
+                SaveTexture(SelectedWeapon + prefix + "_Default_cav.dds", cavImage, zipArchive, BCnEncoder.Shared.CompressionFormat.Bc4);
+            }
+
+            progressForm?.AdvanceEntry();
+
+            if (ilm.Enabled && ilm.Image != null)
+            {
+                MagickImage illuminationImage = new MagickImage(ImageToByteArray(ilm.Image));
+                illuminationImage.SetCompression(CompressionMethod.DXT1);
+                SaveTexture(SelectedWeapon + prefix + "_Default_ilm.dds", illuminationImage, zipArchive);
             }
 
             progressForm?.AdvanceEntry();
@@ -181,25 +243,25 @@ namespace Titanfall2_SkinTool
                     ZipArchive zipArchive = ZipFile.Open(GetSkinPackRootPath(), ZipArchiveMode.Create);
 
                     //Body
-                    LegendTexturePrep("_Body", bloodBodycol, bloodBodyspec, bloodBodygloss, bloodBodynorm, bloodBodyao, bloodBodycav, zipArchive, progressForm);
+                    LegendTexturePrep("Body", bloodBodycol, bloodBodyspec, bloodBodygloss, bloodBodynorm, bloodBodyao, bloodBodycav, zipArchive, progressForm, false);
 
                     //Fur
-                    LegendTexturePrep("_Fur", bloodFurcol, bloodFurspec, bloodFurgloss, bloodFurnorm, bloodFurao, bloodFurcav, zipArchive, progressForm);
+                    LegendTexturePrep("Fur", bloodFurcol, bloodFurspec, bloodFurgloss, bloodFurnorm, bloodFurao, bloodFurcav, zipArchive, progressForm, false);
 
                     //Gauntlet
-                    LegendTexturePrep("_Gauntlet", bloodGauntletcol, bloodGauntletspec, bloodGauntletgloss, bloodGauntletnorm, bloodGauntletao, bloodGauntletcav, zipArchive, progressForm);
+                    LegendTexturePrepILM("Gauntlet", bloodGauntletcol, bloodGauntletspec, bloodGauntletgloss, bloodGauntletnorm, bloodGauntletao, bloodGauntletcav, bloodGauntletilm, zipArchive, progressForm, false);
 
                     //Gear
-                    LegendTexturePrep("_Gear", bloodGearcol, bloodGearspec, bloodGeargloss, bloodGearnorm, bloodGearnorm, bloodGearcav, zipArchive, progressForm);
+                    LegendTexturePrepILM("Gear", bloodGearcol, bloodGearspec, bloodGeargloss, bloodGearnorm, bloodGearnorm, bloodGearcav, bloodGearilm, zipArchive, progressForm, false);
 
                     //Helmet
-                    LegendTexturePrep("_Helmet", bloodHelmetcol, bloodHelmetspec, bloodHelmetgloss, bloodHelmetnorm, bloodHelmetao, bloodHelmetcav, zipArchive, progressForm);
+                    LegendTexturePrep("Helmet", bloodHelmetcol, bloodHelmetspec, bloodHelmetgloss, bloodHelmetnorm, bloodHelmetao, bloodHelmetcav, zipArchive, progressForm, false);
 
                     //ViewModel Arms
-                    LegendTexturePrep("_VMA", bloodVMAcol, bloodVMAspec, bloodVMAgloss, bloodVMAnorm, bloodVMAao, bloodVMAcav, zipArchive, progressForm);
+                    LegendTexturePrep("VMA", bloodVMAcol, bloodVMAspec, bloodVMAgloss, bloodVMAnorm, bloodVMAao, bloodVMAcav, zipArchive, progressForm, false);
 
                     //ViewModel Gear
-                    LegendTexturePrep("_VMG", bloodVMGcol, bloodVMGspec, bloodVMGgloss, bloodVMGnorm, bloodVMGao, bloodVMGcav, zipArchive, progressForm);
+                    LegendTexturePrep("VMG", bloodVMGcol, bloodVMGspec, bloodVMGgloss, bloodVMGnorm, bloodVMGao, bloodVMGcav, zipArchive, progressForm, false);
 
                     progressForm?.ForceClose();
 
@@ -224,34 +286,28 @@ namespace Titanfall2_SkinTool
                     ZipArchive zipArchive = ZipFile.Open(GetSkinPackRootPath(), ZipArchiveMode.Create);
 
                     //Body
-                    LegendTexturePrep("_Body", gibyBodycol, gibyBodyspec, gibyBodygloss, gibyBodynorm, gibyBodyao, gibyBodycav, zipArchive, progressForm);
+                    LegendTexturePrep("_Body", gibyBodycol, gibyBodyspec, gibyBodygloss, gibyBodynorm, gibyBodyao, gibyBodycav, zipArchive, progressForm, false);
 
                     //Extra
-                    LegendTexturePrep("_Extra", gibyExtracol, gibyExtraspec, gibyExtragloss, gibyExtranorm, gibyExtraao, gibyExtracav, zipArchive, progressForm);
+                    LegendTexturePrep("_Extra", gibyExtracol, gibyExtraspec, gibyExtragloss, gibyExtranorm, gibyExtraao, gibyExtracav, zipArchive, progressForm, false);
 
                     //Gear
-                    LegendTexturePrep("_Gear", gibyGearcol, gibyGearspec, gibyGeargloss, gibyGearnorm, gibyGearao, gibyGearcav, zipArchive, progressForm);
-
-                    //Hair
-                    LegendTexturePrep("_Hair", gibyHaircol, gibyHairspec, gibyHairgloss, gibyHairnorm, gibyHairao, gibyHaircav, zipArchive, progressForm);
-
-                    //Head
-                    LegendTexturePrep("_Head", gibyHeadcol, gibyHeadspec, gibyHeadgloss, gibyHeadnorm, gibyHeadao, gibyHeadcav, zipArchive, progressForm);
+                    LegendTexturePrep("_Gear", gibyGearcol, gibyGearspec, gibyGeargloss, gibyGearnorm, gibyGearao, gibyGearcav, zipArchive, progressForm, false);
 
                     //JumpKit
-                    LegendTexturePrep("_JumpKit", gibyJumpKitcol, gibyJumpKitspec, gibyJumpKitgloss, gibyJumpKitnorm, gibyJumpKitao, gibyJumpKitcav, zipArchive, progressForm);
+                    LegendTexturePrep("_JumpKit", gibyJumpKitcol, gibyJumpKitspec, gibyJumpKitgloss, gibyJumpKitnorm, gibyJumpKitao, gibyJumpKitcav, zipArchive, progressForm, false);
 
                     //Sheild
-                    LegendTexturePrep("_Sheild", gibySheildcol, gibySheildspec, gibySheildgloss, gibySheildnorm, gibySheildao, gibySheildcav, zipArchive, progressForm);
+                    LegendTexturePrep("_Sheild", gibyShieldcol, gibyShieldspec, gibyShieldgloss, gibyShieldnorm, gibyShieldao, gibyShieldcav, zipArchive, progressForm, false);
 
                     //Proxy
-                    LegendTexturePrep("_Proxy", gibyProxycol, gibyProxyspec, gibyProxygloss, gibyProxynorm, gibyProxyao, gibyProxycav, zipArchive, progressForm);
+                    LegendTexturePrep("_Proxy", gibyProxycol, gibyProxyspec, gibyProxygloss, gibyProxynorm, gibyProxyao, gibyProxycav, zipArchive, progressForm, false);
 
                     //Sheild Clamp
-                    LegendTexturePrep("_SheildClamp", gibySheildClampcol, gibySheildClampspec, gibySheildClampgloss, gibySheildClampnorm, gibySheildClampao, gibySheildClampcav, zipArchive, progressForm);
+                    LegendTexturePrep("_SheildClamp", gibySheildClampcol, gibySheildClampspec, gibySheildClampgloss, gibySheildClampnorm, gibySheildClampao, gibySheildClampcav, zipArchive, progressForm, false);
 
                     //Viewmodel Arms
-                    LegendTexturePrep("_VM", gibyVMcol, gibyVMspec, gibyVMgloss, gibyVMnorm, gibyVMao, gibyVMcav, zipArchive, progressForm);
+                    LegendTexturePrep("_VM", gibyVMcol, gibyVMspec, gibyVMgloss, gibyVMnorm, gibyVMao, gibyVMcav, zipArchive, progressForm, false);
 
                     progressForm?.ForceClose();
 
@@ -276,25 +332,19 @@ namespace Titanfall2_SkinTool
                     ZipArchive zipArchive = ZipFile.Open(GetSkinPackRootPath(), ZipArchiveMode.Create);
 
                     //Body
-                    LegendTexturePrep("_Body", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    LegendTexturePrep("_Body", lifelineBodycol, lifelineBodyspec, lifelineBodygloss, lifelineBodynorm, lifelineBodyao, lifelineBodycav, zipArchive, progressForm, false);
 
                     //Drone
-                    LegendTexturePrep("_Drone", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
-
-                    //Face
-                    LegendTexturePrep("_Face", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
-
-                    //Hair
-                    LegendTexturePrep("_Hair", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    LegendTexturePrep("_Drone", lifelineDronecol, lifelineDronespec, lifelineDronegloss, lifelineDronenorm, lifelineDroneao, lifelineDronecav, zipArchive, progressForm, false);
 
                     //Hand
-                    LegendTexturePrep("_Hand", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    LegendTexturePrep("_Hand", lifelineHandcol, lifelineHandspec, lifelineHandgloss, lifelineHandnorm, lifelineHandao, lifelineHandcav, zipArchive, progressForm, false);
 
                     //JumpKit
-                    LegendTexturePrep("_JumpKit", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    LegendTexturePrep("_JumpKit", lifelineJumpKitcol, lifelineJumpKitspec, lifelineJumpKitgloss, lifelineJumpKitnorm, lifelineJumpKitao, lifelineJumpKitcav, zipArchive, progressForm, false);
 
                     //Viewmodel Arms
-                    LegendTexturePrep("_VM", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    LegendTexturePrep("_VM", lifelineVMcol, lifelineVMspec, lifelineVMgloss, lifelineVMnorm, lifelineVMao, lifelineVMcav, zipArchive, progressForm, false);
 
                     progressForm?.ForceClose();
 
@@ -319,31 +369,31 @@ namespace Titanfall2_SkinTool
                     ZipArchive zipArchive = ZipFile.Open(GetSkinPackRootPath(), ZipArchiveMode.Create);
 
                     //Body
-                    LegendTexturePrep("_Body", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Body", pathfinderBodycol, pathfinderBodyspec, pathfinderBodygloss, pathfinderBodynorm, pathfinderBodyao, pathfinderBodycav, zipArchive, progressForm, false);
 
                     //Attachment
-                    LegendTexturePrep("_Attachment", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Attachment", pathfinderAttachmentcol, pathfinderAttachmentspec, pathfinderAttachmentgloss, pathfinderAttachmentnorm, pathfinderAttachmentao, pathfinderAttachmentcav, zipArchive, progressForm, false);
 
                     //GrappleHook
-                    LegendTexturePrep("_GrappleHook", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_GrappleHook", pathfinderGrappleHookcol, pathfinderGrappleHookspec, pathfinderGrappleHookgloss, pathfinderGrappleHooknorm, pathfinderGrappleHookao, pathfinderGrappleHookcav, zipArchive, progressForm, false);
 
                     //Hands
-                    LegendTexturePrep("_Hands", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Hands", pathfinderHandscol, pathfinderHandsspec, pathfinderHandsgloss, pathfinderHandsnorm, pathfinderHandsao, pathfinderHandscav, zipArchive, progressForm, false);
 
                     //Head
-                    LegendTexturePrep("_Head", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Head", pathfinderHeadcol, pathfinderHeadspec, pathfinderHeadgloss, pathfinderHeadnorm, pathfinderHeadao, pathfinderHeadcav, zipArchive, progressForm, false);
 
                     //JumpKit
-                    LegendTexturePrep("_JumpKit", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_JumpKit", pathfinderJumpKitcol, pathfinderJumpKitspec, pathfinderJumpKitgloss, pathfinderJumpKitnorm, pathfinderJumpKitao, pathfinderJumpKitcav, zipArchive, progressForm, false);
 
                     //Zipline
-                    LegendTexturePrep("_Zipline", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Zipline", pathfinderZiplinecol, pathfinderZiplinespec, pathfinderZiplinegloss, pathfinderZiplinenorm, pathfinderZiplineao, pathfinderZiplinecav, zipArchive, progressForm, false);
 
                     //Viewmodel Arms
-                    LegendTexturePrep("_VMA", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_VMA", pathfinderVMAcol, pathfinderVMAspec, pathfinderVMAgloss, pathfinderVMAnorm, pathfinderVMAao, pathfinderVMAcav, zipArchive, progressForm, false);
 
                     //Viemodel Zipline
-                    LegendTexturePrep("_VMZ", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_VMZ", pathfinderVMZcol, pathfinderVMZspec, pathfinderVMZgloss, pathfinderVMZnorm, pathfinderVMZao, pathfinderVMZcav, zipArchive, progressForm, false);
 
                     progressForm?.ForceClose();
 
@@ -368,28 +418,28 @@ namespace Titanfall2_SkinTool
                     ZipArchive zipArchive = ZipFile.Open(GetSkinPackRootPath(), ZipArchiveMode.Create);
 
                     //Body
-                    LegendTexturePrep("_Body", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Body", wraithBodycol, wraithBodyspec, wraithBodygloss, wraithBodynorm, wraithBodyao, wraithBodycav, zipArchive, progressForm, false);
 
                     //Gauntlet
-                    LegendTexturePrep("_Gauntlet", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Gauntlet", wraithGauntletcol, wraithGauntletspec, wraithGauntletgloss, wraithGauntletnorm, wraithGauntletao, wraithGauntletcav, zipArchive, progressForm, false);
 
                     //Hair
-                    LegendTexturePrep("_Hair", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Hair", wraithHaircol, wraithHairspec, wraithHairgloss, wraithHairnorm, wraithHairao, wraithHaircav, zipArchive, progressForm, false);
 
                     //Hair02
-                    LegendTexturePrep("_Hair02", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Hair02", wraithHair02col, wraithHair02spec, wraithHair02gloss, wraithHair02norm, wraithHair02ao, wraithHair02cav, zipArchive, progressForm, false);
 
                     //Jetpack
-                    LegendTexturePrep("_Jetpack", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Jetpack", wraithJetpackcol, wraithJetpackspec, wraithJetpackgloss, wraithJetpacknorm, wraithJetpackao, wraithJetpackcav, zipArchive, progressForm, false);
 
                     //Scarf
-                    LegendTexturePrep("_Scarf", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Scarf", wraithScarfcol, wraithScarfspec, wraithScarfgloss, wraithScarfnorm, wraithScarfao, wraithScarfcav, zipArchive, progressForm, false);
 
                     //Viewmodel Arms
-                    LegendTexturePrep("_VMA", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_VMA", wraithVMAcol, wraithVMAspec, wraithVMAgloss, wraithVMAnorm, wraithVMAao, wraithVMAcav, zipArchive, progressForm, false);
 
                     //Viewmodel Device
-                    LegendTexturePrep("_VMD", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_VMD", wraithVMDcol, wraithVMDspec, wraithVMDgloss, wraithVMDnorm, wraithVMDao, wraithVMDcav, zipArchive, progressForm, false);
 
                     progressForm?.ForceClose();
 
@@ -414,28 +464,28 @@ namespace Titanfall2_SkinTool
                     ZipArchive zipArchive = ZipFile.Open(GetSkinPackRootPath(), ZipArchiveMode.Create);
 
                     //Body
-                    LegendTexturePrep("_Body", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Body", bangaloreBodycol, bangaloreBodyspec, bangaloreBodygloss, bangaloreBodynorm, bangaloreBodyao, bangaloreBodycav, zipArchive, progressForm, false);
 
                     //Gauntlet
-                    LegendTexturePrep("_Gauntlet", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Gauntlet", bangaloreGauntletcol, bangaloreGauntletspec, bangaloreGauntletgloss, bangaloreGauntletnorm, bangaloreGauntletao, bangaloreGauntletcav, zipArchive, progressForm, false);
 
                     //Hair
-                    LegendTexturePrep("_Hair", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Hair", bangaloreHaircol, bangaloreHairspec, bangaloreHairgloss, bangaloreHairnorm, bangaloreHairao, bangaloreHaircav, zipArchive, progressForm, false);
 
                     //Head
-                    LegendTexturePrep("_Head", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Head", bangaloreHeadcol, bangaloreHeadspec, bangaloreHeadgloss, bangaloreHeadnorm, bangaloreHeadao, bangaloreHeadcav, zipArchive, progressForm, false);
 
                     //Jetpack
-                    LegendTexturePrep("_Jetpack", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Jetpack", bangaloreJetpackcol, bangaloreJetpackspec, bangaloreJetpackgloss, bangaloreJetpacknorm, bangaloreJetpackao, bangaloreJetpackcav, zipArchive, progressForm, false);
 
                     //Launcher
-                    LegendTexturePrep("_Launcher", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Launcher", bangaloreLaunchercol, bangaloreLauncherspec, bangaloreLaunchergloss, bangaloreLaunchernorm, bangaloreLauncherao, bangaloreLaunchercav, zipArchive, progressForm, false);
 
                     //Gas Cannister
-                    LegendTexturePrep("_GasCannister", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_GasCannister", bangaloreGasCannistercol, bangaloreGasCannisterspec, bangaloreGasCannistergloss, bangaloreGasCannisternorm, bangaloreGasCannisterao, bangaloreGasCannistercav, zipArchive, progressForm, false);
 
                     //Viewmodel Arms
-                    LegendTexturePrep("_VM", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_VM", bangaloreVMcol, bangaloreVMspec, bangaloreVMgloss, bangaloreVMnorm, bangaloreVMao, bangaloreVMcav, zipArchive, progressForm, false);
 
                     progressForm?.ForceClose();
 
@@ -460,31 +510,31 @@ namespace Titanfall2_SkinTool
                     ZipArchive zipArchive = ZipFile.Open(GetSkinPackRootPath(), ZipArchiveMode.Create);
 
                     //Body
-                    LegendTexturePrep("_Body", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    LegendTexturePrep("_Body", causticBodycol, causticBodyspec, causticBodygloss, causticBodynorm, causticBodyao, causticBodycav, zipArchive, progressForm, false);
 
                     //Gauntlet
-                    LegendTexturePrep("_Gauntlet", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Gauntlet", causticGauntletcol, causticGauntletspec, causticGauntletgloss, causticGauntletnorm, causticGauntletao, causticGauntletcav, zipArchive, progressForm, false);
                     
                     //Gear
-                    LegendTexturePrep("_Gear", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Gear", causticGearcol, causticGearspec, causticGeargloss, causticGearnorm, causticGearao, causticGearcav, zipArchive, progressForm, false);
 
                     //Hair
-                    LegendTexturePrep("_Hair", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Hair", causticHaircol, causticHairspec, causticHairgloss, causticHairnorm, causticHairao, causticHaircav, zipArchive, progressForm, false);
 
                     //Head
-                    LegendTexturePrep("_Head", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Head", causticHeadcol, causticHeadspec, causticHeadgloss, causticHeadnorm, causticHeadao, causticHeadcav, zipArchive, progressForm, false);
 
                     //JumpKit
-                    LegendTexturePrep("_JumpKit", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_JumpKit", causticJumpKitcol, causticJumpKitspec, causticJumpKitgloss, causticJumpKitnorm, causticJumpKitao, causticJumpKitcav, zipArchive, progressForm, false);
 
                     //Lense
-                    LegendTexturePrep("_Lense", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Lense", causticLensecol, causticLensespec, causticLensegloss, causticLensenorm, causticLenseao, causticLensecav, zipArchive, progressForm, false);
 
                     //Gas Grenade
-                    LegendTexturePrep("_GasGrenade", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_GasGrenade", causticGasGrenadecol, causticGasGrenadespec, causticGasGrenadegloss, causticGasGrenadenorm, causticGasGrenadeao, causticGasGrenadecav, zipArchive, progressForm, false);
 
                     //Viewmodel Arms
-                    LegendTexturePrep("_VMA", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_VMA", causticVMAcol, causticVMAspec, causticVMAgloss, causticVMAnorm, causticVMAao, causticVMAcav, zipArchive, progressForm, false);
 
                     progressForm?.ForceClose();
 
@@ -509,25 +559,25 @@ namespace Titanfall2_SkinTool
                     ZipArchive zipArchive = ZipFile.Open(GetSkinPackRootPath(), ZipArchiveMode.Create);
 
                     //Hair
-                    LegendTexturePrep("_Hair", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Hair", mirageHaircol, mirageHairspec, mirageHairgloss, mirageHairnorm, mirageHairao, mirageHaircav, zipArchive, progressForm, false);
 
                     //Head
-                    LegendTexturePrep("_Head", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Head", mirageHeadcol, mirageHeadspec, mirageHeadgloss, mirageHeadnorm, mirageHeadao, mirageHeadcav, zipArchive, progressForm, false);
 
                     //HeadStuff
-                    LegendTexturePrep("_HeadStuff", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_HeadStuff", mirageHeadStuffcol, mirageHeadStuffspec, mirageHeadStuffgloss, mirageHeadStuffnorm, mirageHeadStuffao, mirageHeadStuffcav, zipArchive, progressForm, false);
 
                     //JumpKit
-                    LegendTexturePrep("_JumpKit", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_JumpKit", mirageJumpKitcol, mirageJumpKitspec, mirageJumpKitgloss, mirageJumpKitnorm, mirageJumpKitao, mirageJumpKitcav, zipArchive, progressForm, false);
 
                     //Lower
-                    LegendTexturePrep("_Lower", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Lower", mirageLowercol, mirageLowerspec, mirageLowergloss, mirageLowernorm, mirageLowerao, mirageLowercav, zipArchive, progressForm, false);
 
                     //Upper
-                    LegendTexturePrep("_Upper", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Upper", mirageUppercol, mirageUpperspec, mirageUppergloss, mirageUppernorm, mirageUpperao, mirageUppercav, zipArchive, progressForm, false);
 
                     //Viewmodel Arms
-                    LegendTexturePrep("_VM", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_VM", mirageVMcol, mirageVMspec, mirageVMgloss, mirageVMnorm, mirageVMao, mirageVMcav, zipArchive, progressForm, false);
 
                     progressForm?.ForceClose();
 
@@ -552,25 +602,25 @@ namespace Titanfall2_SkinTool
                     ZipArchive zipArchive = ZipFile.Open(GetSkinPackRootPath(), ZipArchiveMode.Create);
 
                     //Body
-                    LegendTexturePrep("_Body", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Body", octaneBodycol, octaneBodyspec, octaneBodygloss, octaneBodynorm, octaneBodyao, octaneBodycav, zipArchive, progressForm, false);
 
                     //Camera
-                    LegendTexturePrep("_Camera", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Camera", octaneCameracol, octaneCameraspec, octaneCameragloss, octaneCameranorm, octaneCameraao, octaneCameracav, zipArchive, progressForm, false);
 
                     //Gauntlet
-                    LegendTexturePrep("_Gauntlet", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Gauntlet", octaneGauntletcol, octaneGauntletspec, octaneGauntletgloss, octaneGauntletnorm, octaneGauntletao, octaneGauntletcav, zipArchive, progressForm, false);
 
                     //Gear
-                    LegendTexturePrep("_Gear", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Gear", octaneGearcol, octaneGearspec, octaneGeargloss, octaneGearnorm, octaneGearao, octaneGearcav, zipArchive, progressForm, false);
 
                     //Head
-                    LegendTexturePrep("_Head", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_Head", octaneHeadcol, octaneHeadspec, octaneHeadgloss, octaneHeadnorm, octaneHeadao, octaneHeadcav, zipArchive, progressForm, false);
 
                     //JumpKit
-                    LegendTexturePrep("_JumpKit", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_JumpKit", octaneJumpKitcol, octaneJumpKitspec, octaneJumpKitgloss, octaneJumpKitnorm, octaneJumpKitao, octaneJumpKitcav, zipArchive, progressForm, false);
 
                     //Viewmodel Arms
-                    LegendTexturePrep("_VM", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_VM", octaneVMcol, octaneVMspec, octaneVMgloss, octaneVMnorm, octaneVMao, octaneVMcav, zipArchive, progressForm, false);
 
                     progressForm?.ForceClose();
 
@@ -595,25 +645,19 @@ namespace Titanfall2_SkinTool
                     ZipArchive zipArchive = ZipFile.Open(GetSkinPackRootPath(), ZipArchiveMode.Create);
 
                     //Gear
-                    LegendTexturePrep("_Gear", wattGearcol, wattGearspec, wattGeargloss, wattGearnorm, wattGearao, wattGearcav, zipArchive, progressForm);
-
-                    //Hair
-                    LegendTexturePrep("_Hair", wattHaircol, wattHairspec, wattHairgloss, wattHairnorm, wattHairao, wattHaircav, zipArchive, progressForm);
-
-                    //Head
-                    LegendTexturePrep("_Head", wattHeadcol, wattHeadspec, wattHeadgloss, wattHeadnorm, wattHeadao, wattHeadcav, zipArchive, progressForm);
+                    LegendTexturePrepILM("Gear", wattGearcol, wattGearspec, wattGeargloss, wattGearnorm, wattGearao, wattGearcav, wattGearilm, zipArchive, progressForm, false);
 
                     //Jacket
-                    LegendTexturePrep("_Jacket", wattJacketcol, wattJacketspec, wattJacketgloss, wattJacketnorm, wattJacketao, wattJacketcav, zipArchive, progressForm);
+                    LegendTexturePrep("Jacket", wattJacketcol, wattJacketspec, wattJacketgloss, wattJacketnorm, wattJacketao, wattJacketcav, zipArchive, progressForm, false);
 
                     //JumpKit
-                    LegendTexturePrep("_Jumpkit", wattJumpKitcol, wattJumpKitspec, wattJumpKitgloss, wattJumpKitnorm, wattJumpKitao, wattJumpKitcav, zipArchive, progressForm);
+                    LegendTexturePrep("Jumpkit", wattJumpKitcol, wattJumpKitspec, wattJumpKitgloss, wattJumpKitnorm, wattJumpKitao, wattJumpKitcav, zipArchive, progressForm, false);
 
                     //Suit
-                    LegendTexturePrep("_Suit", wattSuitcol, wattSuitspec, wattSuitgloss, wattSuitnorm, wattSuitao, wattSuitcav, zipArchive, progressForm);
+                    LegendTexturePrep("Suit", wattSuitcol, wattSuitspec, wattSuitgloss, wattSuitnorm, wattSuitao, wattSuitcav, zipArchive, progressForm, false);
 
                     //ViewModel
-                    LegendTexturePrep("_VM", wattVMcol, wattVMspec, wattVMgloss, wattVMnorm, wattVMao, wattVMcav, zipArchive, progressForm);
+                    LegendTexturePrepILM("VM", wattVMcol, wattVMspec, wattVMgloss, wattVMnorm, wattVMao, wattVMcav, wattVMilm, zipArchive, progressForm, true);
 
                     progressForm?.ForceClose();
 
@@ -638,34 +682,34 @@ namespace Titanfall2_SkinTool
                     ZipArchive zipArchive = ZipFile.Open(GetSkinPackRootPath(), ZipArchiveMode.Create);
 
                     //
-                    LegendTexturePrep("_", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_", col, spec, gloss, norm, ao, cav, zipArchive, progressForm, false);
 
                     //
-                    LegendTexturePrep("_", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_", col, spec, gloss, norm, ao, cav, zipArchive, progressForm, false);
 
                     //
-                    LegendTexturePrep("_", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_", col, spec, gloss, norm, ao, cav, zipArchive, progressForm, false);
 
                     //
-                    LegendTexturePrep("_", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_", col, spec, gloss, norm, ao, cav, zipArchive, progressForm, false);
 
                     //
-                    LegendTexturePrep("_", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_", col, spec, gloss, norm, ao, cav, zipArchive, progressForm, false);
 
                     //
-                    LegendTexturePrep("_", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_", col, spec, gloss, norm, ao, cav, zipArchive, progressForm, false);
 
                     //
-                    LegendTexturePrep("_", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_", col, spec, gloss, norm, ao, cav, zipArchive, progressForm, false);
 
                     //
-                    LegendTexturePrep("_", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_", col, spec, gloss, norm, ao, cav, zipArchive, progressForm, false);
 
                     //
-                    LegendTexturePrep("_", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_", col, spec, gloss, norm, ao, cav, zipArchive, progressForm, false);
 
                     //
-                    LegendTexturePrep("_", col, spec, gloss, norm, ao, cav, zipArchive, progressForm);
+                    //LegendTexturePrep("_", col, spec, gloss, norm, ao, cav, zipArchive, progressForm, false);
 
                     progressForm?.ForceClose();
 
