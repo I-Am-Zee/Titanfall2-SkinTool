@@ -234,7 +234,7 @@ namespace Titanfall2_SkinTool
                 try
                 {
                     Thread progressThread = new Thread(() => {
-                        progressForm = new ProgressForm(42); // 24 texture slots 
+                        progressForm = new ProgressForm(44); // 24 texture slots 
                         progressForm.ShowDialog();
                     }); // 24 texture slots
 
@@ -286,28 +286,28 @@ namespace Titanfall2_SkinTool
                     ZipArchive zipArchive = ZipFile.Open(GetSkinPackRootPath(), ZipArchiveMode.Create);
 
                     //Body
-                    LegendTexturePrep("_Body", gibyBodycol, gibyBodyspec, gibyBodygloss, gibyBodynorm, gibyBodyao, gibyBodycav, zipArchive, progressForm, false);
+                    LegendTexturePrep("Body", gibyBodycol, gibyBodyspec, gibyBodygloss, gibyBodynorm, gibyBodyao, gibyBodycav, zipArchive, progressForm, false);
 
                     //Extra
-                    LegendTexturePrep("_Extra", gibyExtracol, gibyExtraspec, gibyExtragloss, gibyExtranorm, gibyExtraao, gibyExtracav, zipArchive, progressForm, false);
+                    LegendTexturePrep("Extra", gibyExtracol, gibyExtraspec, gibyExtragloss, gibyExtranorm, gibyExtraao, gibyExtracav, zipArchive, progressForm, false);
 
                     //Gear
-                    LegendTexturePrep("_Gear", gibyGearcol, gibyGearspec, gibyGeargloss, gibyGearnorm, gibyGearao, gibyGearcav, zipArchive, progressForm, false);
+                    LegendTexturePrep("Gear", gibyGearcol, gibyGearspec, gibyGeargloss, gibyGearnorm, gibyGearao, gibyGearcav, zipArchive, progressForm, false);
 
                     //JumpKit
-                    LegendTexturePrep("_JumpKit", gibyJumpKitcol, gibyJumpKitspec, gibyJumpKitgloss, gibyJumpKitnorm, gibyJumpKitao, gibyJumpKitcav, zipArchive, progressForm, false);
+                    LegendTexturePrep("JumpKit", gibyJumpKitcol, gibyJumpKitspec, gibyJumpKitgloss, gibyJumpKitnorm, gibyJumpKitao, gibyJumpKitcav, zipArchive, progressForm, false);
 
                     //Sheild
-                    LegendTexturePrep("_Sheild", gibyShieldcol, gibyShieldspec, gibyShieldgloss, gibyShieldnorm, gibyShieldao, gibyShieldcav, zipArchive, progressForm, false);
+                    LegendTexturePrep("Sheild", gibyShieldcol, gibyShieldspec, gibyShieldgloss, gibyShieldnorm, gibyShieldao, gibyShieldcav, zipArchive, progressForm, false);
 
                     //Proxy
-                    LegendTexturePrep("_Proxy", gibyProxycol, gibyProxyspec, gibyProxygloss, gibyProxynorm, gibyProxyao, gibyProxycav, zipArchive, progressForm, false);
+                    LegendTexturePrep("Proxy", gibyProxycol, gibyProxyspec, gibyProxygloss, gibyProxynorm, gibyProxyao, gibyProxycav, zipArchive, progressForm, false);
 
                     //Sheild Clamp
-                    LegendTexturePrep("_SheildClamp", gibySheildClampcol, gibySheildClampspec, gibySheildClampgloss, gibySheildClampnorm, gibySheildClampao, gibySheildClampcav, zipArchive, progressForm, false);
+                    LegendTexturePrep("SheildClamp", gibySheildClampcol, gibySheildClampspec, gibySheildClampgloss, gibySheildClampnorm, gibySheildClampao, gibySheildClampcav, zipArchive, progressForm, false);
 
                     //Viewmodel Arms
-                    LegendTexturePrep("_VM", gibyVMcol, gibyVMspec, gibyVMgloss, gibyVMnorm, gibyVMao, gibyVMcav, zipArchive, progressForm, false);
+                    LegendTexturePrep("VM", gibyVMcol, gibyVMspec, gibyVMgloss, gibyVMnorm, gibyVMao, gibyVMcav, zipArchive, progressForm, false);
 
                     progressForm?.ForceClose();
 
@@ -332,19 +332,19 @@ namespace Titanfall2_SkinTool
                     ZipArchive zipArchive = ZipFile.Open(GetSkinPackRootPath(), ZipArchiveMode.Create);
 
                     //Body
-                    LegendTexturePrep("_Body", lifelineBodycol, lifelineBodyspec, lifelineBodygloss, lifelineBodynorm, lifelineBodyao, lifelineBodycav, zipArchive, progressForm, false);
+                    LegendTexturePrep("Body", lifelineBodycol, lifelineBodyspec, lifelineBodygloss, lifelineBodynorm, lifelineBodyao, lifelineBodycav, zipArchive, progressForm, false);
 
                     //Drone
-                    LegendTexturePrep("_Drone", lifelineDronecol, lifelineDronespec, lifelineDronegloss, lifelineDronenorm, lifelineDroneao, lifelineDronecav, zipArchive, progressForm, false);
+                    LegendTexturePrep("Drone", lifelineDronecol, lifelineDronespec, lifelineDronegloss, lifelineDronenorm, lifelineDroneao, lifelineDronecav, zipArchive, progressForm, false);
 
                     //Hand
-                    LegendTexturePrep("_Hand", lifelineHandcol, lifelineHandspec, lifelineHandgloss, lifelineHandnorm, lifelineHandao, lifelineHandcav, zipArchive, progressForm, false);
+                    LegendTexturePrep("Hand", lifelineHandcol, lifelineHandspec, lifelineHandgloss, lifelineHandnorm, lifelineHandao, lifelineHandcav, zipArchive, progressForm, false);
 
                     //JumpKit
-                    LegendTexturePrep("_JumpKit", lifelineJumpKitcol, lifelineJumpKitspec, lifelineJumpKitgloss, lifelineJumpKitnorm, lifelineJumpKitao, lifelineJumpKitcav, zipArchive, progressForm, false);
+                    LegendTexturePrep("JumpKit", lifelineJumpKitcol, lifelineJumpKitspec, lifelineJumpKitgloss, lifelineJumpKitnorm, lifelineJumpKitao, lifelineJumpKitcav, zipArchive, progressForm, false);
 
                     //Viewmodel Arms
-                    LegendTexturePrep("_VM", lifelineVMcol, lifelineVMspec, lifelineVMgloss, lifelineVMnorm, lifelineVMao, lifelineVMcav, zipArchive, progressForm, false);
+                    LegendTexturePrep("VM", lifelineVMcol, lifelineVMspec, lifelineVMgloss, lifelineVMnorm, lifelineVMao, lifelineVMcav, zipArchive, progressForm, false);
 
                     progressForm?.ForceClose();
 
@@ -455,7 +455,7 @@ namespace Titanfall2_SkinTool
                 try
                 {
                     Thread progressThread = new Thread(() => {
-                        progressForm = new ProgressForm(42); // 24 texture slots 
+                        progressForm = new ProgressForm(37); // 24 texture slots 
                         progressForm.ShowDialog();
                     }); // 24 texture slots
 
@@ -464,28 +464,22 @@ namespace Titanfall2_SkinTool
                     ZipArchive zipArchive = ZipFile.Open(GetSkinPackRootPath(), ZipArchiveMode.Create);
 
                     //Body
-                    //LegendTexturePrep("_Body", bangaloreBodycol, bangaloreBodyspec, bangaloreBodygloss, bangaloreBodynorm, bangaloreBodyao, bangaloreBodycav, zipArchive, progressForm, false);
+                    LegendTexturePrep("Body", bangaloreBodycol, bangaloreBodyspec, bangaloreBodygloss, bangaloreBodynorm, bangaloreBodyao, bangaloreBodycav, zipArchive, progressForm, false);
 
                     //Gauntlet
-                    //LegendTexturePrep("_Gauntlet", bangaloreGauntletcol, bangaloreGauntletspec, bangaloreGauntletgloss, bangaloreGauntletnorm, bangaloreGauntletao, bangaloreGauntletcav, zipArchive, progressForm, false);
-
-                    //Hair
-                    //LegendTexturePrep("_Hair", bangaloreHaircol, bangaloreHairspec, bangaloreHairgloss, bangaloreHairnorm, bangaloreHairao, bangaloreHaircav, zipArchive, progressForm, false);
-
-                    //Head
-                    //LegendTexturePrep("_Head", bangaloreHeadcol, bangaloreHeadspec, bangaloreHeadgloss, bangaloreHeadnorm, bangaloreHeadao, bangaloreHeadcav, zipArchive, progressForm, false);
+                    LegendTexturePrep("Gauntlet", bangaloreGauntletcol, bangaloreGauntletspec, bangaloreGauntletgloss, bangaloreGauntletnorm, bangaloreGauntletao, bangaloreGauntletcav, zipArchive, progressForm, false);
 
                     //Jetpack
-                    //LegendTexturePrep("_Jetpack", bangaloreJetpackcol, bangaloreJetpackspec, bangaloreJetpackgloss, bangaloreJetpacknorm, bangaloreJetpackao, bangaloreJetpackcav, zipArchive, progressForm, false);
+                    LegendTexturePrep("Jetpack", bangaloreJetpackcol, bangaloreJetpackspec, bangaloreJetpackgloss, bangaloreJetpacknorm, bangaloreJetpackao, bangaloreJetpackcav, zipArchive, progressForm, false);
 
                     //Launcher
-                    //LegendTexturePrep("_Launcher", bangaloreLaunchercol, bangaloreLauncherspec, bangaloreLaunchergloss, bangaloreLaunchernorm, bangaloreLauncherao, bangaloreLaunchercav, zipArchive, progressForm, false);
+                    LegendTexturePrep("Launcher", bangaloreLaunchercol, bangaloreLauncherspec, bangaloreLaunchergloss, bangaloreLaunchernorm, bangaloreLauncherao, bangaloreLaunchercav, zipArchive, progressForm, false);
 
                     //Gas Cannister
-                    //LegendTexturePrep("_GasCannister", bangaloreGasCannistercol, bangaloreGasCannisterspec, bangaloreGasCannistergloss, bangaloreGasCannisternorm, bangaloreGasCannisterao, bangaloreGasCannistercav, zipArchive, progressForm, false);
+                    LegendTexturePrepILM("Rocket", bangaloreGasCannistercol, bangaloreGasCannisterspec, bangaloreGasCannistergloss, bangaloreGasCannisternorm, bangaloreGasCannisterao, bangaloreGasCannistercav, bangaloreGasCannisterilm, zipArchive, progressForm, false);
 
                     //Viewmodel Arms
-                    //LegendTexturePrep("_VM", bangaloreVMcol, bangaloreVMspec, bangaloreVMgloss, bangaloreVMnorm, bangaloreVMao, bangaloreVMcav, zipArchive, progressForm, false);
+                    LegendTexturePrep("VM", bangaloreVMcol, bangaloreVMspec, bangaloreVMgloss, bangaloreVMnorm, bangaloreVMao, bangaloreVMcav, zipArchive, progressForm, false);
 
                     progressForm?.ForceClose();
 
@@ -636,7 +630,7 @@ namespace Titanfall2_SkinTool
                 try
                 {
                     Thread progressThread = new Thread(() => {
-                        progressForm = new ProgressForm(42); // 24 texture slots 
+                        progressForm = new ProgressForm(32); // 24 texture slots 
                         progressForm.ShowDialog();
                     } ); // 24 texture slots
 

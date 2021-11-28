@@ -104,15 +104,15 @@ namespace Titanfall2_SkinTool.APEX.LegendData.Default.Wattson
             WattsonViewModel_cav[2].seeklength = 128;
 
             //ilm
-            WattsonViewModel_ilm[0].name = "ilm";
-            WattsonViewModel_ilm[0].seek = 8553172992;
-            WattsonViewModel_ilm[0].length = 524288;
-            WattsonViewModel_ilm[0].seeklength = 128;
-
             WattsonViewModel_ilm[1].name = "ilm";
-            WattsonViewModel_ilm[1].seek = 8553697280;
-            WattsonViewModel_ilm[1].length = 2097152;
+            WattsonViewModel_ilm[1].seek = 8553172992;
+            WattsonViewModel_ilm[1].length = 524288;
             WattsonViewModel_ilm[1].seeklength = 128;
+
+            WattsonViewModel_ilm[2].name = "ilm";
+            WattsonViewModel_ilm[2].seek = 8553697280;
+            WattsonViewModel_ilm[2].length = 2097152;
+            WattsonViewModel_ilm[2].seeklength = 128;
         }
     }
 }

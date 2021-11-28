@@ -14953,184 +14953,184 @@
   <data name="&gt;&gt;label300.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
-  <data name="pictureBox253.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreBodycav.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox253.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreBodycav.Location" type="System.Drawing.Point, System.Drawing">
     <value>388, 186</value>
   </data>
-  <data name="pictureBox253.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreBodycav.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox253.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreBodycav.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox253.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreBodycav.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox253.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreBodycav.TabIndex" type="System.Int32, mscorlib">
     <value>54</value>
   </data>
-  <data name="&gt;&gt;pictureBox253.Name" xml:space="preserve">
-    <value>pictureBox253</value>
+  <data name="&gt;&gt;bangaloreBodycav.Name" xml:space="preserve">
+    <value>bangaloreBodycav</value>
   </data>
-  <data name="&gt;&gt;pictureBox253.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreBodycav.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox253.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreBodycav.Parent" xml:space="preserve">
     <value>tabPage6</value>
   </data>
-  <data name="&gt;&gt;pictureBox253.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreBodycav.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
-  <data name="pictureBox254.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreBodyao.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox254.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreBodyao.Location" type="System.Drawing.Point, System.Drawing">
     <value>232, 186</value>
   </data>
-  <data name="pictureBox254.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreBodyao.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox254.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreBodyao.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox254.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreBodyao.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox254.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreBodyao.TabIndex" type="System.Int32, mscorlib">
     <value>55</value>
   </data>
-  <data name="&gt;&gt;pictureBox254.Name" xml:space="preserve">
-    <value>pictureBox254</value>
+  <data name="&gt;&gt;bangaloreBodyao.Name" xml:space="preserve">
+    <value>bangaloreBodyao</value>
   </data>
-  <data name="&gt;&gt;pictureBox254.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreBodyao.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox254.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreBodyao.Parent" xml:space="preserve">
     <value>tabPage6</value>
   </data>
-  <data name="&gt;&gt;pictureBox254.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreBodyao.ZOrder" xml:space="preserve">
     <value>7</value>
   </data>
-  <data name="pictureBox255.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreBodycol.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox255.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreBodycol.Location" type="System.Drawing.Point, System.Drawing">
     <value>75, 4</value>
   </data>
-  <data name="pictureBox255.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreBodycol.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox255.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreBodycol.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox255.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreBodycol.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox255.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreBodycol.TabIndex" type="System.Int32, mscorlib">
     <value>56</value>
   </data>
-  <data name="&gt;&gt;pictureBox255.Name" xml:space="preserve">
-    <value>pictureBox255</value>
+  <data name="&gt;&gt;bangaloreBodycol.Name" xml:space="preserve">
+    <value>bangaloreBodycol</value>
   </data>
-  <data name="&gt;&gt;pictureBox255.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreBodycol.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox255.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreBodycol.Parent" xml:space="preserve">
     <value>tabPage6</value>
   </data>
-  <data name="&gt;&gt;pictureBox255.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreBodycol.ZOrder" xml:space="preserve">
     <value>8</value>
   </data>
-  <data name="pictureBox256.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreBodynorm.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox256.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreBodynorm.Location" type="System.Drawing.Point, System.Drawing">
     <value>75, 186</value>
   </data>
-  <data name="pictureBox256.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreBodynorm.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox256.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreBodynorm.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox256.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreBodynorm.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox256.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreBodynorm.TabIndex" type="System.Int32, mscorlib">
     <value>57</value>
   </data>
-  <data name="&gt;&gt;pictureBox256.Name" xml:space="preserve">
-    <value>pictureBox256</value>
+  <data name="&gt;&gt;bangaloreBodynorm.Name" xml:space="preserve">
+    <value>bangaloreBodynorm</value>
   </data>
-  <data name="&gt;&gt;pictureBox256.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreBodynorm.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox256.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreBodynorm.Parent" xml:space="preserve">
     <value>tabPage6</value>
   </data>
-  <data name="&gt;&gt;pictureBox256.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreBodynorm.ZOrder" xml:space="preserve">
     <value>9</value>
   </data>
-  <data name="pictureBox257.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreBodygloss.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox257.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreBodygloss.Location" type="System.Drawing.Point, System.Drawing">
     <value>388, 4</value>
   </data>
-  <data name="pictureBox257.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreBodygloss.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox257.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreBodygloss.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox257.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreBodygloss.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox257.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreBodygloss.TabIndex" type="System.Int32, mscorlib">
     <value>58</value>
   </data>
-  <data name="&gt;&gt;pictureBox257.Name" xml:space="preserve">
-    <value>pictureBox257</value>
+  <data name="&gt;&gt;bangaloreBodygloss.Name" xml:space="preserve">
+    <value>bangaloreBodygloss</value>
   </data>
-  <data name="&gt;&gt;pictureBox257.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreBodygloss.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox257.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreBodygloss.Parent" xml:space="preserve">
     <value>tabPage6</value>
   </data>
-  <data name="&gt;&gt;pictureBox257.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreBodygloss.ZOrder" xml:space="preserve">
     <value>10</value>
   </data>
-  <data name="pictureBox258.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreBodyspec.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox258.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreBodyspec.Location" type="System.Drawing.Point, System.Drawing">
     <value>231, 4</value>
   </data>
-  <data name="pictureBox258.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreBodyspec.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox258.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreBodyspec.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox258.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreBodyspec.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox258.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreBodyspec.TabIndex" type="System.Int32, mscorlib">
     <value>59</value>
   </data>
-  <data name="&gt;&gt;pictureBox258.Name" xml:space="preserve">
-    <value>pictureBox258</value>
+  <data name="&gt;&gt;bangaloreBodyspec.Name" xml:space="preserve">
+    <value>bangaloreBodyspec</value>
   </data>
-  <data name="&gt;&gt;pictureBox258.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreBodyspec.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox258.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreBodyspec.Parent" xml:space="preserve">
     <value>tabPage6</value>
   </data>
-  <data name="&gt;&gt;pictureBox258.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreBodyspec.ZOrder" xml:space="preserve">
     <value>11</value>
   </data>
   <data name="tabPage6.Location" type="System.Drawing.Point, System.Drawing">
@@ -15355,184 +15355,184 @@
   <data name="&gt;&gt;label306.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
-  <data name="pictureBox259.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreGauntletcav.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox259.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreGauntletcav.Location" type="System.Drawing.Point, System.Drawing">
     <value>388, 186</value>
   </data>
-  <data name="pictureBox259.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreGauntletcav.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox259.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreGauntletcav.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox259.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreGauntletcav.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox259.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreGauntletcav.TabIndex" type="System.Int32, mscorlib">
     <value>54</value>
   </data>
-  <data name="&gt;&gt;pictureBox259.Name" xml:space="preserve">
-    <value>pictureBox259</value>
+  <data name="&gt;&gt;bangaloreGauntletcav.Name" xml:space="preserve">
+    <value>bangaloreGauntletcav</value>
   </data>
-  <data name="&gt;&gt;pictureBox259.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGauntletcav.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox259.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGauntletcav.Parent" xml:space="preserve">
     <value>tabPage47</value>
   </data>
-  <data name="&gt;&gt;pictureBox259.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGauntletcav.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
-  <data name="pictureBox260.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreGauntletao.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox260.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreGauntletao.Location" type="System.Drawing.Point, System.Drawing">
     <value>232, 186</value>
   </data>
-  <data name="pictureBox260.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreGauntletao.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox260.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreGauntletao.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox260.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreGauntletao.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox260.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreGauntletao.TabIndex" type="System.Int32, mscorlib">
     <value>55</value>
   </data>
-  <data name="&gt;&gt;pictureBox260.Name" xml:space="preserve">
-    <value>pictureBox260</value>
+  <data name="&gt;&gt;bangaloreGauntletao.Name" xml:space="preserve">
+    <value>bangaloreGauntletao</value>
   </data>
-  <data name="&gt;&gt;pictureBox260.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGauntletao.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox260.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGauntletao.Parent" xml:space="preserve">
     <value>tabPage47</value>
   </data>
-  <data name="&gt;&gt;pictureBox260.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGauntletao.ZOrder" xml:space="preserve">
     <value>7</value>
   </data>
-  <data name="pictureBox261.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreGauntletcol.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox261.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreGauntletcol.Location" type="System.Drawing.Point, System.Drawing">
     <value>75, 4</value>
   </data>
-  <data name="pictureBox261.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreGauntletcol.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox261.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreGauntletcol.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox261.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreGauntletcol.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox261.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreGauntletcol.TabIndex" type="System.Int32, mscorlib">
     <value>56</value>
   </data>
-  <data name="&gt;&gt;pictureBox261.Name" xml:space="preserve">
-    <value>pictureBox261</value>
+  <data name="&gt;&gt;bangaloreGauntletcol.Name" xml:space="preserve">
+    <value>bangaloreGauntletcol</value>
   </data>
-  <data name="&gt;&gt;pictureBox261.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGauntletcol.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox261.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGauntletcol.Parent" xml:space="preserve">
     <value>tabPage47</value>
   </data>
-  <data name="&gt;&gt;pictureBox261.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGauntletcol.ZOrder" xml:space="preserve">
     <value>8</value>
   </data>
-  <data name="pictureBox262.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreGauntletnorm.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox262.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreGauntletnorm.Location" type="System.Drawing.Point, System.Drawing">
     <value>75, 186</value>
   </data>
-  <data name="pictureBox262.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreGauntletnorm.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox262.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreGauntletnorm.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox262.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreGauntletnorm.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox262.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreGauntletnorm.TabIndex" type="System.Int32, mscorlib">
     <value>57</value>
   </data>
-  <data name="&gt;&gt;pictureBox262.Name" xml:space="preserve">
-    <value>pictureBox262</value>
+  <data name="&gt;&gt;bangaloreGauntletnorm.Name" xml:space="preserve">
+    <value>bangaloreGauntletnorm</value>
   </data>
-  <data name="&gt;&gt;pictureBox262.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGauntletnorm.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox262.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGauntletnorm.Parent" xml:space="preserve">
     <value>tabPage47</value>
   </data>
-  <data name="&gt;&gt;pictureBox262.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGauntletnorm.ZOrder" xml:space="preserve">
     <value>9</value>
   </data>
-  <data name="pictureBox263.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreGauntletgloss.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox263.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreGauntletgloss.Location" type="System.Drawing.Point, System.Drawing">
     <value>388, 4</value>
   </data>
-  <data name="pictureBox263.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreGauntletgloss.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox263.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreGauntletgloss.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox263.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreGauntletgloss.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox263.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreGauntletgloss.TabIndex" type="System.Int32, mscorlib">
     <value>58</value>
   </data>
-  <data name="&gt;&gt;pictureBox263.Name" xml:space="preserve">
-    <value>pictureBox263</value>
+  <data name="&gt;&gt;bangaloreGauntletgloss.Name" xml:space="preserve">
+    <value>bangaloreGauntletgloss</value>
   </data>
-  <data name="&gt;&gt;pictureBox263.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGauntletgloss.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox263.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGauntletgloss.Parent" xml:space="preserve">
     <value>tabPage47</value>
   </data>
-  <data name="&gt;&gt;pictureBox263.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGauntletgloss.ZOrder" xml:space="preserve">
     <value>10</value>
   </data>
-  <data name="pictureBox264.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreGauntletspec.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox264.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreGauntletspec.Location" type="System.Drawing.Point, System.Drawing">
     <value>231, 4</value>
   </data>
-  <data name="pictureBox264.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreGauntletspec.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox264.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreGauntletspec.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox264.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreGauntletspec.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox264.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreGauntletspec.TabIndex" type="System.Int32, mscorlib">
     <value>59</value>
   </data>
-  <data name="&gt;&gt;pictureBox264.Name" xml:space="preserve">
-    <value>pictureBox264</value>
+  <data name="&gt;&gt;bangaloreGauntletspec.Name" xml:space="preserve">
+    <value>bangaloreGauntletspec</value>
   </data>
-  <data name="&gt;&gt;pictureBox264.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGauntletspec.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox264.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGauntletspec.Parent" xml:space="preserve">
     <value>tabPage47</value>
   </data>
-  <data name="&gt;&gt;pictureBox264.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGauntletspec.ZOrder" xml:space="preserve">
     <value>11</value>
   </data>
   <data name="tabPage47.Location" type="System.Drawing.Point, System.Drawing">
@@ -15757,184 +15757,184 @@
   <data name="&gt;&gt;label324.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
-  <data name="pictureBox277.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreJetpackcav.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox277.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreJetpackcav.Location" type="System.Drawing.Point, System.Drawing">
     <value>388, 186</value>
   </data>
-  <data name="pictureBox277.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreJetpackcav.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox277.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreJetpackcav.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox277.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreJetpackcav.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox277.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreJetpackcav.TabIndex" type="System.Int32, mscorlib">
     <value>54</value>
   </data>
-  <data name="&gt;&gt;pictureBox277.Name" xml:space="preserve">
-    <value>pictureBox277</value>
+  <data name="&gt;&gt;bangaloreJetpackcav.Name" xml:space="preserve">
+    <value>bangaloreJetpackcav</value>
   </data>
-  <data name="&gt;&gt;pictureBox277.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreJetpackcav.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox277.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreJetpackcav.Parent" xml:space="preserve">
     <value>tabPage50</value>
   </data>
-  <data name="&gt;&gt;pictureBox277.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreJetpackcav.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
-  <data name="pictureBox278.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreJetpackao.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox278.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreJetpackao.Location" type="System.Drawing.Point, System.Drawing">
     <value>232, 186</value>
   </data>
-  <data name="pictureBox278.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreJetpackao.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox278.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreJetpackao.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox278.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreJetpackao.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox278.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreJetpackao.TabIndex" type="System.Int32, mscorlib">
     <value>55</value>
   </data>
-  <data name="&gt;&gt;pictureBox278.Name" xml:space="preserve">
-    <value>pictureBox278</value>
+  <data name="&gt;&gt;bangaloreJetpackao.Name" xml:space="preserve">
+    <value>bangaloreJetpackao</value>
   </data>
-  <data name="&gt;&gt;pictureBox278.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreJetpackao.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox278.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreJetpackao.Parent" xml:space="preserve">
     <value>tabPage50</value>
   </data>
-  <data name="&gt;&gt;pictureBox278.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreJetpackao.ZOrder" xml:space="preserve">
     <value>7</value>
   </data>
-  <data name="pictureBox279.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreJetpackcol.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox279.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreJetpackcol.Location" type="System.Drawing.Point, System.Drawing">
     <value>75, 4</value>
   </data>
-  <data name="pictureBox279.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreJetpackcol.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox279.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreJetpackcol.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox279.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreJetpackcol.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox279.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreJetpackcol.TabIndex" type="System.Int32, mscorlib">
     <value>56</value>
   </data>
-  <data name="&gt;&gt;pictureBox279.Name" xml:space="preserve">
-    <value>pictureBox279</value>
+  <data name="&gt;&gt;bangaloreJetpackcol.Name" xml:space="preserve">
+    <value>bangaloreJetpackcol</value>
   </data>
-  <data name="&gt;&gt;pictureBox279.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreJetpackcol.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox279.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreJetpackcol.Parent" xml:space="preserve">
     <value>tabPage50</value>
   </data>
-  <data name="&gt;&gt;pictureBox279.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreJetpackcol.ZOrder" xml:space="preserve">
     <value>8</value>
   </data>
-  <data name="pictureBox280.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreJetpacknorm.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox280.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreJetpacknorm.Location" type="System.Drawing.Point, System.Drawing">
     <value>75, 186</value>
   </data>
-  <data name="pictureBox280.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreJetpacknorm.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox280.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreJetpacknorm.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox280.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreJetpacknorm.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox280.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreJetpacknorm.TabIndex" type="System.Int32, mscorlib">
     <value>57</value>
   </data>
-  <data name="&gt;&gt;pictureBox280.Name" xml:space="preserve">
-    <value>pictureBox280</value>
+  <data name="&gt;&gt;bangaloreJetpacknorm.Name" xml:space="preserve">
+    <value>bangaloreJetpacknorm</value>
   </data>
-  <data name="&gt;&gt;pictureBox280.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreJetpacknorm.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox280.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreJetpacknorm.Parent" xml:space="preserve">
     <value>tabPage50</value>
   </data>
-  <data name="&gt;&gt;pictureBox280.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreJetpacknorm.ZOrder" xml:space="preserve">
     <value>9</value>
   </data>
-  <data name="pictureBox281.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreJetpackgloss.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox281.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreJetpackgloss.Location" type="System.Drawing.Point, System.Drawing">
     <value>388, 4</value>
   </data>
-  <data name="pictureBox281.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreJetpackgloss.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox281.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreJetpackgloss.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox281.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreJetpackgloss.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox281.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreJetpackgloss.TabIndex" type="System.Int32, mscorlib">
     <value>58</value>
   </data>
-  <data name="&gt;&gt;pictureBox281.Name" xml:space="preserve">
-    <value>pictureBox281</value>
+  <data name="&gt;&gt;bangaloreJetpackgloss.Name" xml:space="preserve">
+    <value>bangaloreJetpackgloss</value>
   </data>
-  <data name="&gt;&gt;pictureBox281.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreJetpackgloss.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox281.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreJetpackgloss.Parent" xml:space="preserve">
     <value>tabPage50</value>
   </data>
-  <data name="&gt;&gt;pictureBox281.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreJetpackgloss.ZOrder" xml:space="preserve">
     <value>10</value>
   </data>
-  <data name="pictureBox282.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreJetpackspec.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox282.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreJetpackspec.Location" type="System.Drawing.Point, System.Drawing">
     <value>231, 4</value>
   </data>
-  <data name="pictureBox282.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreJetpackspec.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox282.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreJetpackspec.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox282.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreJetpackspec.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox282.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreJetpackspec.TabIndex" type="System.Int32, mscorlib">
     <value>59</value>
   </data>
-  <data name="&gt;&gt;pictureBox282.Name" xml:space="preserve">
-    <value>pictureBox282</value>
+  <data name="&gt;&gt;bangaloreJetpackspec.Name" xml:space="preserve">
+    <value>bangaloreJetpackspec</value>
   </data>
-  <data name="&gt;&gt;pictureBox282.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreJetpackspec.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox282.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreJetpackspec.Parent" xml:space="preserve">
     <value>tabPage50</value>
   </data>
-  <data name="&gt;&gt;pictureBox282.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreJetpackspec.ZOrder" xml:space="preserve">
     <value>11</value>
   </data>
   <data name="tabPage50.Location" type="System.Drawing.Point, System.Drawing">
@@ -16159,184 +16159,184 @@
   <data name="&gt;&gt;label330.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
-  <data name="pictureBox283.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreLaunchercav.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox283.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreLaunchercav.Location" type="System.Drawing.Point, System.Drawing">
     <value>388, 186</value>
   </data>
-  <data name="pictureBox283.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreLaunchercav.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox283.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreLaunchercav.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox283.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreLaunchercav.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox283.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreLaunchercav.TabIndex" type="System.Int32, mscorlib">
     <value>54</value>
   </data>
-  <data name="&gt;&gt;pictureBox283.Name" xml:space="preserve">
-    <value>pictureBox283</value>
+  <data name="&gt;&gt;bangaloreLaunchercav.Name" xml:space="preserve">
+    <value>bangaloreLaunchercav</value>
   </data>
-  <data name="&gt;&gt;pictureBox283.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreLaunchercav.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox283.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreLaunchercav.Parent" xml:space="preserve">
     <value>tabPage51</value>
   </data>
-  <data name="&gt;&gt;pictureBox283.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreLaunchercav.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
-  <data name="pictureBox284.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreLauncherao.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox284.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreLauncherao.Location" type="System.Drawing.Point, System.Drawing">
     <value>232, 186</value>
   </data>
-  <data name="pictureBox284.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreLauncherao.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox284.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreLauncherao.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox284.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreLauncherao.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox284.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreLauncherao.TabIndex" type="System.Int32, mscorlib">
     <value>55</value>
   </data>
-  <data name="&gt;&gt;pictureBox284.Name" xml:space="preserve">
-    <value>pictureBox284</value>
+  <data name="&gt;&gt;bangaloreLauncherao.Name" xml:space="preserve">
+    <value>bangaloreLauncherao</value>
   </data>
-  <data name="&gt;&gt;pictureBox284.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreLauncherao.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox284.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreLauncherao.Parent" xml:space="preserve">
     <value>tabPage51</value>
   </data>
-  <data name="&gt;&gt;pictureBox284.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreLauncherao.ZOrder" xml:space="preserve">
     <value>7</value>
   </data>
-  <data name="pictureBox285.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreLaunchercol.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox285.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreLaunchercol.Location" type="System.Drawing.Point, System.Drawing">
     <value>75, 4</value>
   </data>
-  <data name="pictureBox285.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreLaunchercol.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox285.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreLaunchercol.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox285.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreLaunchercol.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox285.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreLaunchercol.TabIndex" type="System.Int32, mscorlib">
     <value>56</value>
   </data>
-  <data name="&gt;&gt;pictureBox285.Name" xml:space="preserve">
-    <value>pictureBox285</value>
+  <data name="&gt;&gt;bangaloreLaunchercol.Name" xml:space="preserve">
+    <value>bangaloreLaunchercol</value>
   </data>
-  <data name="&gt;&gt;pictureBox285.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreLaunchercol.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox285.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreLaunchercol.Parent" xml:space="preserve">
     <value>tabPage51</value>
   </data>
-  <data name="&gt;&gt;pictureBox285.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreLaunchercol.ZOrder" xml:space="preserve">
     <value>8</value>
   </data>
-  <data name="pictureBox286.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreLaunchernorm.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox286.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreLaunchernorm.Location" type="System.Drawing.Point, System.Drawing">
     <value>75, 186</value>
   </data>
-  <data name="pictureBox286.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreLaunchernorm.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox286.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreLaunchernorm.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox286.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreLaunchernorm.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox286.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreLaunchernorm.TabIndex" type="System.Int32, mscorlib">
     <value>57</value>
   </data>
-  <data name="&gt;&gt;pictureBox286.Name" xml:space="preserve">
-    <value>pictureBox286</value>
+  <data name="&gt;&gt;bangaloreLaunchernorm.Name" xml:space="preserve">
+    <value>bangaloreLaunchernorm</value>
   </data>
-  <data name="&gt;&gt;pictureBox286.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreLaunchernorm.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox286.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreLaunchernorm.Parent" xml:space="preserve">
     <value>tabPage51</value>
   </data>
-  <data name="&gt;&gt;pictureBox286.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreLaunchernorm.ZOrder" xml:space="preserve">
     <value>9</value>
   </data>
-  <data name="pictureBox287.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreLaunchergloss.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox287.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreLaunchergloss.Location" type="System.Drawing.Point, System.Drawing">
     <value>388, 4</value>
   </data>
-  <data name="pictureBox287.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreLaunchergloss.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox287.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreLaunchergloss.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox287.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreLaunchergloss.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox287.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreLaunchergloss.TabIndex" type="System.Int32, mscorlib">
     <value>58</value>
   </data>
-  <data name="&gt;&gt;pictureBox287.Name" xml:space="preserve">
-    <value>pictureBox287</value>
+  <data name="&gt;&gt;bangaloreLaunchergloss.Name" xml:space="preserve">
+    <value>bangaloreLaunchergloss</value>
   </data>
-  <data name="&gt;&gt;pictureBox287.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreLaunchergloss.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox287.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreLaunchergloss.Parent" xml:space="preserve">
     <value>tabPage51</value>
   </data>
-  <data name="&gt;&gt;pictureBox287.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreLaunchergloss.ZOrder" xml:space="preserve">
     <value>10</value>
   </data>
-  <data name="pictureBox288.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreLauncherspec.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox288.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreLauncherspec.Location" type="System.Drawing.Point, System.Drawing">
     <value>231, 4</value>
   </data>
-  <data name="pictureBox288.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreLauncherspec.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox288.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreLauncherspec.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox288.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreLauncherspec.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox288.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreLauncherspec.TabIndex" type="System.Int32, mscorlib">
     <value>59</value>
   </data>
-  <data name="&gt;&gt;pictureBox288.Name" xml:space="preserve">
-    <value>pictureBox288</value>
+  <data name="&gt;&gt;bangaloreLauncherspec.Name" xml:space="preserve">
+    <value>bangaloreLauncherspec</value>
   </data>
-  <data name="&gt;&gt;pictureBox288.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreLauncherspec.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox288.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreLauncherspec.Parent" xml:space="preserve">
     <value>tabPage51</value>
   </data>
-  <data name="&gt;&gt;pictureBox288.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreLauncherspec.ZOrder" xml:space="preserve">
     <value>11</value>
   </data>
   <data name="tabPage51.Location" type="System.Drawing.Point, System.Drawing">
@@ -16363,6 +16363,69 @@
   <data name="&gt;&gt;tabPage51.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
+  <data name="label27.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label27.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label27.Location" type="System.Drawing.Point, System.Drawing">
+    <value>506, 240</value>
+  </data>
+  <data name="label27.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 0, 4, 0</value>
+  </data>
+  <data name="label27.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 15</value>
+  </data>
+  <data name="label27.TabIndex" type="System.Int32, mscorlib">
+    <value>67</value>
+  </data>
+  <data name="label27.Text" xml:space="preserve">
+    <value>Illumination</value>
+  </data>
+  <data name="&gt;&gt;label27.Name" xml:space="preserve">
+    <value>label27</value>
+  </data>
+  <data name="&gt;&gt;label27.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label27.Parent" xml:space="preserve">
+    <value>tabPage52</value>
+  </data>
+  <data name="&gt;&gt;label27.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="bangaloreGasCannisterilm.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="bangaloreGasCannisterilm.Location" type="System.Drawing.Point, System.Drawing">
+    <value>474, 106</value>
+  </data>
+  <data name="bangaloreGasCannisterilm.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 3, 4, 3</value>
+  </data>
+  <data name="bangaloreGasCannisterilm.Size" type="System.Drawing.Size, System.Drawing">
+    <value>130, 130</value>
+  </data>
+  <data name="bangaloreGasCannisterilm.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="bangaloreGasCannisterilm.TabIndex" type="System.Int32, mscorlib">
+    <value>66</value>
+  </data>
+  <data name="&gt;&gt;bangaloreGasCannisterilm.Name" xml:space="preserve">
+    <value>bangaloreGasCannisterilm</value>
+  </data>
+  <data name="&gt;&gt;bangaloreGasCannisterilm.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bangaloreGasCannisterilm.Parent" xml:space="preserve">
+    <value>tabPage52</value>
+  </data>
+  <data name="&gt;&gt;bangaloreGasCannisterilm.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
   <data name="label331.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -16370,7 +16433,7 @@
     <value>NoControl</value>
   </data>
   <data name="label331.Location" type="System.Drawing.Point, System.Drawing">
-    <value>126, 342</value>
+    <value>55, 342</value>
   </data>
   <data name="label331.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 0, 4, 0</value>
@@ -16394,7 +16457,7 @@
     <value>tabPage52</value>
   </data>
   <data name="&gt;&gt;label331.ZOrder" xml:space="preserve">
-    <value>0</value>
+    <value>2</value>
   </data>
   <data name="label332.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -16403,7 +16466,7 @@
     <value>NoControl</value>
   </data>
   <data name="label332.Location" type="System.Drawing.Point, System.Drawing">
-    <value>430, 160</value>
+    <value>359, 160</value>
   </data>
   <data name="label332.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 0, 4, 0</value>
@@ -16427,7 +16490,7 @@
     <value>tabPage52</value>
   </data>
   <data name="&gt;&gt;label332.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>3</value>
   </data>
   <data name="label333.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -16436,7 +16499,7 @@
     <value>NoControl</value>
   </data>
   <data name="label333.Location" type="System.Drawing.Point, System.Drawing">
-    <value>278, 160</value>
+    <value>207, 160</value>
   </data>
   <data name="label333.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 0, 4, 0</value>
@@ -16460,7 +16523,7 @@
     <value>tabPage52</value>
   </data>
   <data name="&gt;&gt;label333.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>4</value>
   </data>
   <data name="label334.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -16469,7 +16532,7 @@
     <value>NoControl</value>
   </data>
   <data name="label334.Location" type="System.Drawing.Point, System.Drawing">
-    <value>442, 341</value>
+    <value>371, 341</value>
   </data>
   <data name="label334.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 0, 4, 0</value>
@@ -16493,7 +16556,7 @@
     <value>tabPage52</value>
   </data>
   <data name="&gt;&gt;label334.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>5</value>
   </data>
   <data name="label335.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -16502,7 +16565,7 @@
     <value>NoControl</value>
   </data>
   <data name="label335.Location" type="System.Drawing.Point, System.Drawing">
-    <value>294, 341</value>
+    <value>223, 341</value>
   </data>
   <data name="label335.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 0, 4, 0</value>
@@ -16526,7 +16589,7 @@
     <value>tabPage52</value>
   </data>
   <data name="&gt;&gt;label335.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>6</value>
   </data>
   <data name="label336.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -16535,7 +16598,7 @@
     <value>NoControl</value>
   </data>
   <data name="label336.Location" type="System.Drawing.Point, System.Drawing">
-    <value>132, 160</value>
+    <value>61, 160</value>
   </data>
   <data name="label336.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 0, 4, 0</value>
@@ -16559,187 +16622,187 @@
     <value>tabPage52</value>
   </data>
   <data name="&gt;&gt;label336.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="pictureBox289.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="pictureBox289.Location" type="System.Drawing.Point, System.Drawing">
-    <value>388, 186</value>
-  </data>
-  <data name="pictureBox289.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
-    <value>4, 3, 4, 3</value>
-  </data>
-  <data name="pictureBox289.Size" type="System.Drawing.Size, System.Drawing">
-    <value>149, 147</value>
-  </data>
-  <data name="pictureBox289.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>StretchImage</value>
-  </data>
-  <data name="pictureBox289.TabIndex" type="System.Int32, mscorlib">
-    <value>54</value>
-  </data>
-  <data name="&gt;&gt;pictureBox289.Name" xml:space="preserve">
-    <value>pictureBox289</value>
-  </data>
-  <data name="&gt;&gt;pictureBox289.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictureBox289.Parent" xml:space="preserve">
-    <value>tabPage52</value>
-  </data>
-  <data name="&gt;&gt;pictureBox289.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="pictureBox290.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="pictureBox290.Location" type="System.Drawing.Point, System.Drawing">
-    <value>232, 186</value>
-  </data>
-  <data name="pictureBox290.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
-    <value>4, 3, 4, 3</value>
-  </data>
-  <data name="pictureBox290.Size" type="System.Drawing.Size, System.Drawing">
-    <value>149, 147</value>
-  </data>
-  <data name="pictureBox290.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>StretchImage</value>
-  </data>
-  <data name="pictureBox290.TabIndex" type="System.Int32, mscorlib">
-    <value>55</value>
-  </data>
-  <data name="&gt;&gt;pictureBox290.Name" xml:space="preserve">
-    <value>pictureBox290</value>
-  </data>
-  <data name="&gt;&gt;pictureBox290.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictureBox290.Parent" xml:space="preserve">
-    <value>tabPage52</value>
-  </data>
-  <data name="&gt;&gt;pictureBox290.ZOrder" xml:space="preserve">
     <value>7</value>
   </data>
-  <data name="pictureBox291.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreGasCannistercav.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox291.Location" type="System.Drawing.Point, System.Drawing">
-    <value>75, 4</value>
+  <data name="bangaloreGasCannistercav.Location" type="System.Drawing.Point, System.Drawing">
+    <value>317, 186</value>
   </data>
-  <data name="pictureBox291.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreGasCannistercav.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox291.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreGasCannistercav.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox291.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreGasCannistercav.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox291.TabIndex" type="System.Int32, mscorlib">
-    <value>56</value>
+  <data name="bangaloreGasCannistercav.TabIndex" type="System.Int32, mscorlib">
+    <value>54</value>
   </data>
-  <data name="&gt;&gt;pictureBox291.Name" xml:space="preserve">
-    <value>pictureBox291</value>
+  <data name="&gt;&gt;bangaloreGasCannistercav.Name" xml:space="preserve">
+    <value>bangaloreGasCannistercav</value>
   </data>
-  <data name="&gt;&gt;pictureBox291.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGasCannistercav.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox291.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGasCannistercav.Parent" xml:space="preserve">
     <value>tabPage52</value>
   </data>
-  <data name="&gt;&gt;pictureBox291.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGasCannistercav.ZOrder" xml:space="preserve">
     <value>8</value>
   </data>
-  <data name="pictureBox292.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreGasCannisterao.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox292.Location" type="System.Drawing.Point, System.Drawing">
-    <value>75, 186</value>
+  <data name="bangaloreGasCannisterao.Location" type="System.Drawing.Point, System.Drawing">
+    <value>161, 186</value>
   </data>
-  <data name="pictureBox292.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreGasCannisterao.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox292.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreGasCannisterao.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox292.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreGasCannisterao.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox292.TabIndex" type="System.Int32, mscorlib">
-    <value>57</value>
+  <data name="bangaloreGasCannisterao.TabIndex" type="System.Int32, mscorlib">
+    <value>55</value>
   </data>
-  <data name="&gt;&gt;pictureBox292.Name" xml:space="preserve">
-    <value>pictureBox292</value>
+  <data name="&gt;&gt;bangaloreGasCannisterao.Name" xml:space="preserve">
+    <value>bangaloreGasCannisterao</value>
   </data>
-  <data name="&gt;&gt;pictureBox292.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGasCannisterao.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox292.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGasCannisterao.Parent" xml:space="preserve">
     <value>tabPage52</value>
   </data>
-  <data name="&gt;&gt;pictureBox292.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGasCannisterao.ZOrder" xml:space="preserve">
     <value>9</value>
   </data>
-  <data name="pictureBox293.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreGasCannistercol.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox293.Location" type="System.Drawing.Point, System.Drawing">
-    <value>388, 4</value>
+  <data name="bangaloreGasCannistercol.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 4</value>
   </data>
-  <data name="pictureBox293.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreGasCannistercol.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox293.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreGasCannistercol.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox293.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreGasCannistercol.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox293.TabIndex" type="System.Int32, mscorlib">
-    <value>58</value>
+  <data name="bangaloreGasCannistercol.TabIndex" type="System.Int32, mscorlib">
+    <value>56</value>
   </data>
-  <data name="&gt;&gt;pictureBox293.Name" xml:space="preserve">
-    <value>pictureBox293</value>
+  <data name="&gt;&gt;bangaloreGasCannistercol.Name" xml:space="preserve">
+    <value>bangaloreGasCannistercol</value>
   </data>
-  <data name="&gt;&gt;pictureBox293.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGasCannistercol.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox293.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGasCannistercol.Parent" xml:space="preserve">
     <value>tabPage52</value>
   </data>
-  <data name="&gt;&gt;pictureBox293.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGasCannistercol.ZOrder" xml:space="preserve">
     <value>10</value>
   </data>
-  <data name="pictureBox294.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreGasCannisternorm.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox294.Location" type="System.Drawing.Point, System.Drawing">
-    <value>231, 4</value>
+  <data name="bangaloreGasCannisternorm.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 186</value>
   </data>
-  <data name="pictureBox294.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreGasCannisternorm.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox294.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreGasCannisternorm.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox294.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreGasCannisternorm.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox294.TabIndex" type="System.Int32, mscorlib">
-    <value>59</value>
+  <data name="bangaloreGasCannisternorm.TabIndex" type="System.Int32, mscorlib">
+    <value>57</value>
   </data>
-  <data name="&gt;&gt;pictureBox294.Name" xml:space="preserve">
-    <value>pictureBox294</value>
+  <data name="&gt;&gt;bangaloreGasCannisternorm.Name" xml:space="preserve">
+    <value>bangaloreGasCannisternorm</value>
   </data>
-  <data name="&gt;&gt;pictureBox294.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGasCannisternorm.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox294.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGasCannisternorm.Parent" xml:space="preserve">
     <value>tabPage52</value>
   </data>
-  <data name="&gt;&gt;pictureBox294.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreGasCannisternorm.ZOrder" xml:space="preserve">
     <value>11</value>
+  </data>
+  <data name="bangaloreGasCannistergloss.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="bangaloreGasCannistergloss.Location" type="System.Drawing.Point, System.Drawing">
+    <value>317, 4</value>
+  </data>
+  <data name="bangaloreGasCannistergloss.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 3, 4, 3</value>
+  </data>
+  <data name="bangaloreGasCannistergloss.Size" type="System.Drawing.Size, System.Drawing">
+    <value>149, 147</value>
+  </data>
+  <data name="bangaloreGasCannistergloss.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="bangaloreGasCannistergloss.TabIndex" type="System.Int32, mscorlib">
+    <value>58</value>
+  </data>
+  <data name="&gt;&gt;bangaloreGasCannistergloss.Name" xml:space="preserve">
+    <value>bangaloreGasCannistergloss</value>
+  </data>
+  <data name="&gt;&gt;bangaloreGasCannistergloss.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bangaloreGasCannistergloss.Parent" xml:space="preserve">
+    <value>tabPage52</value>
+  </data>
+  <data name="&gt;&gt;bangaloreGasCannistergloss.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="bangaloreGasCannisterspec.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="bangaloreGasCannisterspec.Location" type="System.Drawing.Point, System.Drawing">
+    <value>160, 4</value>
+  </data>
+  <data name="bangaloreGasCannisterspec.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+    <value>4, 3, 4, 3</value>
+  </data>
+  <data name="bangaloreGasCannisterspec.Size" type="System.Drawing.Size, System.Drawing">
+    <value>149, 147</value>
+  </data>
+  <data name="bangaloreGasCannisterspec.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="bangaloreGasCannisterspec.TabIndex" type="System.Int32, mscorlib">
+    <value>59</value>
+  </data>
+  <data name="&gt;&gt;bangaloreGasCannisterspec.Name" xml:space="preserve">
+    <value>bangaloreGasCannisterspec</value>
+  </data>
+  <data name="&gt;&gt;bangaloreGasCannisterspec.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bangaloreGasCannisterspec.Parent" xml:space="preserve">
+    <value>tabPage52</value>
+  </data>
+  <data name="&gt;&gt;bangaloreGasCannisterspec.ZOrder" xml:space="preserve">
+    <value>13</value>
   </data>
   <data name="tabPage52.Location" type="System.Drawing.Point, System.Drawing">
     <value>4, 24</value>
@@ -16751,7 +16814,7 @@
     <value>6</value>
   </data>
   <data name="tabPage52.Text" xml:space="preserve">
-    <value>Gas Cannister</value>
+    <value>Rockets</value>
   </data>
   <data name="&gt;&gt;tabPage52.Name" xml:space="preserve">
     <value>tabPage52</value>
@@ -16963,184 +17026,184 @@
   <data name="&gt;&gt;label342.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
-  <data name="pictureBox295.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreVMcav.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox295.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreVMcav.Location" type="System.Drawing.Point, System.Drawing">
     <value>388, 186</value>
   </data>
-  <data name="pictureBox295.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreVMcav.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox295.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreVMcav.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox295.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreVMcav.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox295.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreVMcav.TabIndex" type="System.Int32, mscorlib">
     <value>54</value>
   </data>
-  <data name="&gt;&gt;pictureBox295.Name" xml:space="preserve">
-    <value>pictureBox295</value>
+  <data name="&gt;&gt;bangaloreVMcav.Name" xml:space="preserve">
+    <value>bangaloreVMcav</value>
   </data>
-  <data name="&gt;&gt;pictureBox295.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreVMcav.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox295.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreVMcav.Parent" xml:space="preserve">
     <value>tabPage53</value>
   </data>
-  <data name="&gt;&gt;pictureBox295.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreVMcav.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
-  <data name="pictureBox296.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreVMao.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox296.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreVMao.Location" type="System.Drawing.Point, System.Drawing">
     <value>232, 186</value>
   </data>
-  <data name="pictureBox296.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreVMao.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox296.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreVMao.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox296.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreVMao.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox296.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreVMao.TabIndex" type="System.Int32, mscorlib">
     <value>55</value>
   </data>
-  <data name="&gt;&gt;pictureBox296.Name" xml:space="preserve">
-    <value>pictureBox296</value>
+  <data name="&gt;&gt;bangaloreVMao.Name" xml:space="preserve">
+    <value>bangaloreVMao</value>
   </data>
-  <data name="&gt;&gt;pictureBox296.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreVMao.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox296.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreVMao.Parent" xml:space="preserve">
     <value>tabPage53</value>
   </data>
-  <data name="&gt;&gt;pictureBox296.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreVMao.ZOrder" xml:space="preserve">
     <value>7</value>
   </data>
-  <data name="pictureBox297.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreVMcol.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox297.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreVMcol.Location" type="System.Drawing.Point, System.Drawing">
     <value>75, 4</value>
   </data>
-  <data name="pictureBox297.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreVMcol.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox297.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreVMcol.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox297.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreVMcol.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox297.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreVMcol.TabIndex" type="System.Int32, mscorlib">
     <value>56</value>
   </data>
-  <data name="&gt;&gt;pictureBox297.Name" xml:space="preserve">
-    <value>pictureBox297</value>
+  <data name="&gt;&gt;bangaloreVMcol.Name" xml:space="preserve">
+    <value>bangaloreVMcol</value>
   </data>
-  <data name="&gt;&gt;pictureBox297.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreVMcol.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox297.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreVMcol.Parent" xml:space="preserve">
     <value>tabPage53</value>
   </data>
-  <data name="&gt;&gt;pictureBox297.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreVMcol.ZOrder" xml:space="preserve">
     <value>8</value>
   </data>
-  <data name="pictureBox298.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreVMnorm.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox298.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreVMnorm.Location" type="System.Drawing.Point, System.Drawing">
     <value>75, 186</value>
   </data>
-  <data name="pictureBox298.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreVMnorm.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox298.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreVMnorm.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox298.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreVMnorm.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox298.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreVMnorm.TabIndex" type="System.Int32, mscorlib">
     <value>57</value>
   </data>
-  <data name="&gt;&gt;pictureBox298.Name" xml:space="preserve">
-    <value>pictureBox298</value>
+  <data name="&gt;&gt;bangaloreVMnorm.Name" xml:space="preserve">
+    <value>bangaloreVMnorm</value>
   </data>
-  <data name="&gt;&gt;pictureBox298.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreVMnorm.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox298.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreVMnorm.Parent" xml:space="preserve">
     <value>tabPage53</value>
   </data>
-  <data name="&gt;&gt;pictureBox298.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreVMnorm.ZOrder" xml:space="preserve">
     <value>9</value>
   </data>
-  <data name="pictureBox299.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreVMgloss.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox299.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreVMgloss.Location" type="System.Drawing.Point, System.Drawing">
     <value>388, 4</value>
   </data>
-  <data name="pictureBox299.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreVMgloss.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox299.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreVMgloss.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox299.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreVMgloss.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox299.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreVMgloss.TabIndex" type="System.Int32, mscorlib">
     <value>58</value>
   </data>
-  <data name="&gt;&gt;pictureBox299.Name" xml:space="preserve">
-    <value>pictureBox299</value>
+  <data name="&gt;&gt;bangaloreVMgloss.Name" xml:space="preserve">
+    <value>bangaloreVMgloss</value>
   </data>
-  <data name="&gt;&gt;pictureBox299.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreVMgloss.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox299.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreVMgloss.Parent" xml:space="preserve">
     <value>tabPage53</value>
   </data>
-  <data name="&gt;&gt;pictureBox299.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreVMgloss.ZOrder" xml:space="preserve">
     <value>10</value>
   </data>
-  <data name="pictureBox300.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bangaloreVMspec.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="pictureBox300.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bangaloreVMspec.Location" type="System.Drawing.Point, System.Drawing">
     <value>231, 4</value>
   </data>
-  <data name="pictureBox300.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
+  <data name="bangaloreVMspec.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms.Primitives">
     <value>4, 3, 4, 3</value>
   </data>
-  <data name="pictureBox300.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bangaloreVMspec.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 147</value>
   </data>
-  <data name="pictureBox300.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+  <data name="bangaloreVMspec.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
   </data>
-  <data name="pictureBox300.TabIndex" type="System.Int32, mscorlib">
+  <data name="bangaloreVMspec.TabIndex" type="System.Int32, mscorlib">
     <value>59</value>
   </data>
-  <data name="&gt;&gt;pictureBox300.Name" xml:space="preserve">
-    <value>pictureBox300</value>
+  <data name="&gt;&gt;bangaloreVMspec.Name" xml:space="preserve">
+    <value>bangaloreVMspec</value>
   </data>
-  <data name="&gt;&gt;pictureBox300.Type" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreVMspec.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pictureBox300.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreVMspec.Parent" xml:space="preserve">
     <value>tabPage53</value>
   </data>
-  <data name="&gt;&gt;pictureBox300.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bangaloreVMspec.ZOrder" xml:space="preserve">
     <value>11</value>
   </data>
   <data name="tabPage53.Location" type="System.Drawing.Point, System.Drawing">

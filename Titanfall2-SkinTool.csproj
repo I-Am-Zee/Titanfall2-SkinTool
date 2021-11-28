@@ -74,4 +74,14 @@
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="APEX\LegendData\Default\Gibraltar\" />
+    <Folder Include="APEX\LegendData\Default\Lifeline\" />
+    <Folder Include="APEX\LegendData\Default\Caustic\" />
+    <Folder Include="APEX\LegendData\Default\Mirage\" />
+    <Folder Include="APEX\LegendData\Default\Crypto\" />
+    <Folder Include="APEX\LegendData\Default\Octane\" />
+    <Folder Include="APEX\LegendData\Default\Wraith\" />
+    <Folder Include="APEX\LegendData\Default\Pathfinder\" />
+  </ItemGroup>
 </Project>

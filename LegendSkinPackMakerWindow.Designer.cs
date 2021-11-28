@@ -518,12 +518,12 @@
             this.label298 = new System.Windows.Forms.Label();
             this.label299 = new System.Windows.Forms.Label();
             this.label300 = new System.Windows.Forms.Label();
-            this.pictureBox253 = new System.Windows.Forms.PictureBox();
-            this.pictureBox254 = new System.Windows.Forms.PictureBox();
-            this.pictureBox255 = new System.Windows.Forms.PictureBox();
-            this.pictureBox256 = new System.Windows.Forms.PictureBox();
-            this.pictureBox257 = new System.Windows.Forms.PictureBox();
-            this.pictureBox258 = new System.Windows.Forms.PictureBox();
+            this.bangaloreBodycav = new System.Windows.Forms.PictureBox();
+            this.bangaloreBodyao = new System.Windows.Forms.PictureBox();
+            this.bangaloreBodycol = new System.Windows.Forms.PictureBox();
+            this.bangaloreBodynorm = new System.Windows.Forms.PictureBox();
+            this.bangaloreBodygloss = new System.Windows.Forms.PictureBox();
+            this.bangaloreBodyspec = new System.Windows.Forms.PictureBox();
             this.tabPage47 = new System.Windows.Forms.TabPage();
             this.label301 = new System.Windows.Forms.Label();
             this.label302 = new System.Windows.Forms.Label();
@@ -531,12 +531,12 @@
             this.label304 = new System.Windows.Forms.Label();
             this.label305 = new System.Windows.Forms.Label();
             this.label306 = new System.Windows.Forms.Label();
-            this.pictureBox259 = new System.Windows.Forms.PictureBox();
-            this.pictureBox260 = new System.Windows.Forms.PictureBox();
-            this.pictureBox261 = new System.Windows.Forms.PictureBox();
-            this.pictureBox262 = new System.Windows.Forms.PictureBox();
-            this.pictureBox263 = new System.Windows.Forms.PictureBox();
-            this.pictureBox264 = new System.Windows.Forms.PictureBox();
+            this.bangaloreGauntletcav = new System.Windows.Forms.PictureBox();
+            this.bangaloreGauntletao = new System.Windows.Forms.PictureBox();
+            this.bangaloreGauntletcol = new System.Windows.Forms.PictureBox();
+            this.bangaloreGauntletnorm = new System.Windows.Forms.PictureBox();
+            this.bangaloreGauntletgloss = new System.Windows.Forms.PictureBox();
+            this.bangaloreGauntletspec = new System.Windows.Forms.PictureBox();
             this.tabPage50 = new System.Windows.Forms.TabPage();
             this.label319 = new System.Windows.Forms.Label();
             this.label320 = new System.Windows.Forms.Label();
@@ -544,12 +544,12 @@
             this.label322 = new System.Windows.Forms.Label();
             this.label323 = new System.Windows.Forms.Label();
             this.label324 = new System.Windows.Forms.Label();
-            this.pictureBox277 = new System.Windows.Forms.PictureBox();
-            this.pictureBox278 = new System.Windows.Forms.PictureBox();
-            this.pictureBox279 = new System.Windows.Forms.PictureBox();
-            this.pictureBox280 = new System.Windows.Forms.PictureBox();
-            this.pictureBox281 = new System.Windows.Forms.PictureBox();
-            this.pictureBox282 = new System.Windows.Forms.PictureBox();
+            this.bangaloreJetpackcav = new System.Windows.Forms.PictureBox();
+            this.bangaloreJetpackao = new System.Windows.Forms.PictureBox();
+            this.bangaloreJetpackcol = new System.Windows.Forms.PictureBox();
+            this.bangaloreJetpacknorm = new System.Windows.Forms.PictureBox();
+            this.bangaloreJetpackgloss = new System.Windows.Forms.PictureBox();
+            this.bangaloreJetpackspec = new System.Windows.Forms.PictureBox();
             this.tabPage51 = new System.Windows.Forms.TabPage();
             this.label325 = new System.Windows.Forms.Label();
             this.label326 = new System.Windows.Forms.Label();
@@ -557,12 +557,12 @@
             this.label328 = new System.Windows.Forms.Label();
             this.label329 = new System.Windows.Forms.Label();
             this.label330 = new System.Windows.Forms.Label();
-            this.pictureBox283 = new System.Windows.Forms.PictureBox();
-            this.pictureBox284 = new System.Windows.Forms.PictureBox();
-            this.pictureBox285 = new System.Windows.Forms.PictureBox();
-            this.pictureBox286 = new System.Windows.Forms.PictureBox();
-            this.pictureBox287 = new System.Windows.Forms.PictureBox();
-            this.pictureBox288 = new System.Windows.Forms.PictureBox();
+            this.bangaloreLaunchercav = new System.Windows.Forms.PictureBox();
+            this.bangaloreLauncherao = new System.Windows.Forms.PictureBox();
+            this.bangaloreLaunchercol = new System.Windows.Forms.PictureBox();
+            this.bangaloreLaunchernorm = new System.Windows.Forms.PictureBox();
+            this.bangaloreLaunchergloss = new System.Windows.Forms.PictureBox();
+            this.bangaloreLauncherspec = new System.Windows.Forms.PictureBox();
             this.tabPage52 = new System.Windows.Forms.TabPage();
             this.label331 = new System.Windows.Forms.Label();
             this.label332 = new System.Windows.Forms.Label();
@@ -570,12 +570,12 @@
             this.label334 = new System.Windows.Forms.Label();
             this.label335 = new System.Windows.Forms.Label();
             this.label336 = new System.Windows.Forms.Label();
-            this.pictureBox289 = new System.Windows.Forms.PictureBox();
-            this.pictureBox290 = new System.Windows.Forms.PictureBox();
-            this.pictureBox291 = new System.Windows.Forms.PictureBox();
-            this.pictureBox292 = new System.Windows.Forms.PictureBox();
-            this.pictureBox293 = new System.Windows.Forms.PictureBox();
-            this.pictureBox294 = new System.Windows.Forms.PictureBox();
+            this.bangaloreGasCannistercav = new System.Windows.Forms.PictureBox();
+            this.bangaloreGasCannisterao = new System.Windows.Forms.PictureBox();
+            this.bangaloreGasCannistercol = new System.Windows.Forms.PictureBox();
+            this.bangaloreGasCannisternorm = new System.Windows.Forms.PictureBox();
+            this.bangaloreGasCannistergloss = new System.Windows.Forms.PictureBox();
+            this.bangaloreGasCannisterspec = new System.Windows.Forms.PictureBox();
             this.tabPage53 = new System.Windows.Forms.TabPage();
             this.label337 = new System.Windows.Forms.Label();
             this.label338 = new System.Windows.Forms.Label();
@@ -583,12 +583,12 @@
             this.label340 = new System.Windows.Forms.Label();
             this.label341 = new System.Windows.Forms.Label();
             this.label342 = new System.Windows.Forms.Label();
-            this.pictureBox295 = new System.Windows.Forms.PictureBox();
-            this.pictureBox296 = new System.Windows.Forms.PictureBox();
-            this.pictureBox297 = new System.Windows.Forms.PictureBox();
-            this.pictureBox298 = new System.Windows.Forms.PictureBox();
-            this.pictureBox299 = new System.Windows.Forms.PictureBox();
-            this.pictureBox300 = new System.Windows.Forms.PictureBox();
+            this.bangaloreVMcav = new System.Windows.Forms.PictureBox();
+            this.bangaloreVMao = new System.Windows.Forms.PictureBox();
+            this.bangaloreVMcol = new System.Windows.Forms.PictureBox();
+            this.bangaloreVMnorm = new System.Windows.Forms.PictureBox();
+            this.bangaloreVMgloss = new System.Windows.Forms.PictureBox();
+            this.bangaloreVMspec = new System.Windows.Forms.PictureBox();
             this.CaustictabPage = new System.Windows.Forms.TabPage();
             this.tabControl9 = new System.Windows.Forms.TabControl();
             this.tabPage7 = new System.Windows.Forms.TabPage();
@@ -918,6 +918,8 @@
             this.tabPage11 = new System.Windows.Forms.TabPage();
             this.tabControl4 = new System.Windows.Forms.TabControl();
             this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.label27 = new System.Windows.Forms.Label();
+            this.bangaloreGasCannisterilm = new System.Windows.Forms.PictureBox();
             this.generalInfoGroup.SuspendLayout();
             this.tabControl1.SuspendLayout();
             this.BloodhoundtabPage.SuspendLayout();
@@ -1180,47 +1182,47 @@
             this.BangaloretabPage.SuspendLayout();
             this.tabControl8.SuspendLayout();
             this.tabPage6.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox253)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox254)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox255)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox256)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox257)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox258)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreBodycav)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreBodyao)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreBodycol)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreBodynorm)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreBodygloss)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreBodyspec)).BeginInit();
             this.tabPage47.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox259)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox260)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox261)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox262)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox263)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox264)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreGauntletcav)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreGauntletao)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreGauntletcol)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreGauntletnorm)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreGauntletgloss)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreGauntletspec)).BeginInit();
             this.tabPage50.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox277)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox278)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox279)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox280)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox281)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox282)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreJetpackcav)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreJetpackao)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreJetpackcol)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreJetpacknorm)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreJetpackgloss)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreJetpackspec)).BeginInit();
             this.tabPage51.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox283)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox284)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox285)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox286)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox287)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox288)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreLaunchercav)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreLauncherao)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreLaunchercol)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreLaunchernorm)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreLaunchergloss)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreLauncherspec)).BeginInit();
             this.tabPage52.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox289)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox290)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox291)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox292)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox293)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox294)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreGasCannistercav)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreGasCannisterao)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreGasCannistercol)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreGasCannisternorm)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreGasCannistergloss)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreGasCannisterspec)).BeginInit();
             this.tabPage53.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox295)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox296)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox297)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox298)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox299)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox300)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreVMcav)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreVMao)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreVMcol)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreVMnorm)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreVMgloss)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreVMspec)).BeginInit();
             this.CaustictabPage.SuspendLayout();
             this.tabControl9.SuspendLayout();
             this.tabPage7.SuspendLayout();
@@ -1402,6 +1404,7 @@
             this.CryptotabPage.SuspendLayout();
             this.tabControl13.SuspendLayout();
             this.tabControl4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreGasCannisterilm)).BeginInit();
             this.SuspendLayout();
             // 
             // generalInfoGroup
@@ -5213,12 +5216,12 @@
             this.tabPage6.Controls.Add(this.label298);
             this.tabPage6.Controls.Add(this.label299);
             this.tabPage6.Controls.Add(this.label300);
-            this.tabPage6.Controls.Add(this.pictureBox253);
-            this.tabPage6.Controls.Add(this.pictureBox254);
-            this.tabPage6.Controls.Add(this.pictureBox255);
-            this.tabPage6.Controls.Add(this.pictureBox256);
-            this.tabPage6.Controls.Add(this.pictureBox257);
-            this.tabPage6.Controls.Add(this.pictureBox258);
+            this.tabPage6.Controls.Add(this.bangaloreBodycav);
+            this.tabPage6.Controls.Add(this.bangaloreBodyao);
+            this.tabPage6.Controls.Add(this.bangaloreBodycol);
+            this.tabPage6.Controls.Add(this.bangaloreBodynorm);
+            this.tabPage6.Controls.Add(this.bangaloreBodygloss);
+            this.tabPage6.Controls.Add(this.bangaloreBodyspec);
             resources.ApplyResources(this.tabPage6, "tabPage6");
             this.tabPage6.Name = "tabPage6";
             this.tabPage6.UseVisualStyleBackColor = true;
@@ -5253,53 +5256,83 @@
             resources.ApplyResources(this.label300, "label300");
             this.label300.Name = "label300";
             // 
-            // pictureBox253
+            // bangaloreBodycav
             // 
-            this.pictureBox253.AllowDrop = true;
-            this.pictureBox253.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox253, "pictureBox253");
-            this.pictureBox253.Name = "pictureBox253";
-            this.pictureBox253.TabStop = false;
+            this.bangaloreBodycav.AllowDrop = true;
+            this.bangaloreBodycav.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreBodycav, "bangaloreBodycav");
+            this.bangaloreBodycav.Name = "bangaloreBodycav";
+            this.bangaloreBodycav.TabStop = false;
+            this.bangaloreBodycav.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreBodycav.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreBodycav.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreBodycav.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreBodycav.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox254
+            // bangaloreBodyao
             // 
-            this.pictureBox254.AllowDrop = true;
-            this.pictureBox254.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox254, "pictureBox254");
-            this.pictureBox254.Name = "pictureBox254";
-            this.pictureBox254.TabStop = false;
+            this.bangaloreBodyao.AllowDrop = true;
+            this.bangaloreBodyao.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreBodyao, "bangaloreBodyao");
+            this.bangaloreBodyao.Name = "bangaloreBodyao";
+            this.bangaloreBodyao.TabStop = false;
+            this.bangaloreBodyao.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreBodyao.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreBodyao.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreBodyao.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreBodyao.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox255
+            // bangaloreBodycol
             // 
-            this.pictureBox255.AllowDrop = true;
-            this.pictureBox255.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox255, "pictureBox255");
-            this.pictureBox255.Name = "pictureBox255";
-            this.pictureBox255.TabStop = false;
+            this.bangaloreBodycol.AllowDrop = true;
+            this.bangaloreBodycol.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreBodycol, "bangaloreBodycol");
+            this.bangaloreBodycol.Name = "bangaloreBodycol";
+            this.bangaloreBodycol.TabStop = false;
+            this.bangaloreBodycol.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreBodycol.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreBodycol.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreBodycol.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreBodycol.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox256
+            // bangaloreBodynorm
             // 
-            this.pictureBox256.AllowDrop = true;
-            this.pictureBox256.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox256, "pictureBox256");
-            this.pictureBox256.Name = "pictureBox256";
-            this.pictureBox256.TabStop = false;
+            this.bangaloreBodynorm.AllowDrop = true;
+            this.bangaloreBodynorm.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreBodynorm, "bangaloreBodynorm");
+            this.bangaloreBodynorm.Name = "bangaloreBodynorm";
+            this.bangaloreBodynorm.TabStop = false;
+            this.bangaloreBodynorm.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreBodynorm.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreBodynorm.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreBodynorm.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreBodynorm.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox257
+            // bangaloreBodygloss
             // 
-            this.pictureBox257.AllowDrop = true;
-            this.pictureBox257.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox257, "pictureBox257");
-            this.pictureBox257.Name = "pictureBox257";
-            this.pictureBox257.TabStop = false;
+            this.bangaloreBodygloss.AllowDrop = true;
+            this.bangaloreBodygloss.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreBodygloss, "bangaloreBodygloss");
+            this.bangaloreBodygloss.Name = "bangaloreBodygloss";
+            this.bangaloreBodygloss.TabStop = false;
+            this.bangaloreBodygloss.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreBodygloss.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreBodygloss.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreBodygloss.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreBodygloss.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox258
+            // bangaloreBodyspec
             // 
-            this.pictureBox258.AllowDrop = true;
-            this.pictureBox258.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox258, "pictureBox258");
-            this.pictureBox258.Name = "pictureBox258";
-            this.pictureBox258.TabStop = false;
+            this.bangaloreBodyspec.AllowDrop = true;
+            this.bangaloreBodyspec.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreBodyspec, "bangaloreBodyspec");
+            this.bangaloreBodyspec.Name = "bangaloreBodyspec";
+            this.bangaloreBodyspec.TabStop = false;
+            this.bangaloreBodyspec.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreBodyspec.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreBodyspec.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreBodyspec.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreBodyspec.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // tabPage47
             // 
@@ -5309,12 +5342,12 @@
             this.tabPage47.Controls.Add(this.label304);
             this.tabPage47.Controls.Add(this.label305);
             this.tabPage47.Controls.Add(this.label306);
-            this.tabPage47.Controls.Add(this.pictureBox259);
-            this.tabPage47.Controls.Add(this.pictureBox260);
-            this.tabPage47.Controls.Add(this.pictureBox261);
-            this.tabPage47.Controls.Add(this.pictureBox262);
-            this.tabPage47.Controls.Add(this.pictureBox263);
-            this.tabPage47.Controls.Add(this.pictureBox264);
+            this.tabPage47.Controls.Add(this.bangaloreGauntletcav);
+            this.tabPage47.Controls.Add(this.bangaloreGauntletao);
+            this.tabPage47.Controls.Add(this.bangaloreGauntletcol);
+            this.tabPage47.Controls.Add(this.bangaloreGauntletnorm);
+            this.tabPage47.Controls.Add(this.bangaloreGauntletgloss);
+            this.tabPage47.Controls.Add(this.bangaloreGauntletspec);
             resources.ApplyResources(this.tabPage47, "tabPage47");
             this.tabPage47.Name = "tabPage47";
             this.tabPage47.UseVisualStyleBackColor = true;
@@ -5349,53 +5382,83 @@
             resources.ApplyResources(this.label306, "label306");
             this.label306.Name = "label306";
             // 
-            // pictureBox259
+            // bangaloreGauntletcav
             // 
-            this.pictureBox259.AllowDrop = true;
-            this.pictureBox259.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox259, "pictureBox259");
-            this.pictureBox259.Name = "pictureBox259";
-            this.pictureBox259.TabStop = false;
+            this.bangaloreGauntletcav.AllowDrop = true;
+            this.bangaloreGauntletcav.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreGauntletcav, "bangaloreGauntletcav");
+            this.bangaloreGauntletcav.Name = "bangaloreGauntletcav";
+            this.bangaloreGauntletcav.TabStop = false;
+            this.bangaloreGauntletcav.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreGauntletcav.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreGauntletcav.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreGauntletcav.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreGauntletcav.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox260
+            // bangaloreGauntletao
             // 
-            this.pictureBox260.AllowDrop = true;
-            this.pictureBox260.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox260, "pictureBox260");
-            this.pictureBox260.Name = "pictureBox260";
-            this.pictureBox260.TabStop = false;
+            this.bangaloreGauntletao.AllowDrop = true;
+            this.bangaloreGauntletao.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreGauntletao, "bangaloreGauntletao");
+            this.bangaloreGauntletao.Name = "bangaloreGauntletao";
+            this.bangaloreGauntletao.TabStop = false;
+            this.bangaloreGauntletao.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreGauntletao.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreGauntletao.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreGauntletao.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreGauntletao.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox261
+            // bangaloreGauntletcol
             // 
-            this.pictureBox261.AllowDrop = true;
-            this.pictureBox261.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox261, "pictureBox261");
-            this.pictureBox261.Name = "pictureBox261";
-            this.pictureBox261.TabStop = false;
+            this.bangaloreGauntletcol.AllowDrop = true;
+            this.bangaloreGauntletcol.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreGauntletcol, "bangaloreGauntletcol");
+            this.bangaloreGauntletcol.Name = "bangaloreGauntletcol";
+            this.bangaloreGauntletcol.TabStop = false;
+            this.bangaloreGauntletcol.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreGauntletcol.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreGauntletcol.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreGauntletcol.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreGauntletcol.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox262
+            // bangaloreGauntletnorm
             // 
-            this.pictureBox262.AllowDrop = true;
-            this.pictureBox262.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox262, "pictureBox262");
-            this.pictureBox262.Name = "pictureBox262";
-            this.pictureBox262.TabStop = false;
+            this.bangaloreGauntletnorm.AllowDrop = true;
+            this.bangaloreGauntletnorm.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreGauntletnorm, "bangaloreGauntletnorm");
+            this.bangaloreGauntletnorm.Name = "bangaloreGauntletnorm";
+            this.bangaloreGauntletnorm.TabStop = false;
+            this.bangaloreGauntletnorm.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreGauntletnorm.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreGauntletnorm.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreGauntletnorm.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreGauntletnorm.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox263
+            // bangaloreGauntletgloss
             // 
-            this.pictureBox263.AllowDrop = true;
-            this.pictureBox263.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox263, "pictureBox263");
-            this.pictureBox263.Name = "pictureBox263";
-            this.pictureBox263.TabStop = false;
+            this.bangaloreGauntletgloss.AllowDrop = true;
+            this.bangaloreGauntletgloss.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreGauntletgloss, "bangaloreGauntletgloss");
+            this.bangaloreGauntletgloss.Name = "bangaloreGauntletgloss";
+            this.bangaloreGauntletgloss.TabStop = false;
+            this.bangaloreGauntletgloss.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreGauntletgloss.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreGauntletgloss.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreGauntletgloss.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreGauntletgloss.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox264
+            // bangaloreGauntletspec
             // 
-            this.pictureBox264.AllowDrop = true;
-            this.pictureBox264.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox264, "pictureBox264");
-            this.pictureBox264.Name = "pictureBox264";
-            this.pictureBox264.TabStop = false;
+            this.bangaloreGauntletspec.AllowDrop = true;
+            this.bangaloreGauntletspec.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreGauntletspec, "bangaloreGauntletspec");
+            this.bangaloreGauntletspec.Name = "bangaloreGauntletspec";
+            this.bangaloreGauntletspec.TabStop = false;
+            this.bangaloreGauntletspec.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreGauntletspec.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreGauntletspec.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreGauntletspec.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreGauntletspec.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // tabPage50
             // 
@@ -5405,12 +5468,12 @@
             this.tabPage50.Controls.Add(this.label322);
             this.tabPage50.Controls.Add(this.label323);
             this.tabPage50.Controls.Add(this.label324);
-            this.tabPage50.Controls.Add(this.pictureBox277);
-            this.tabPage50.Controls.Add(this.pictureBox278);
-            this.tabPage50.Controls.Add(this.pictureBox279);
-            this.tabPage50.Controls.Add(this.pictureBox280);
-            this.tabPage50.Controls.Add(this.pictureBox281);
-            this.tabPage50.Controls.Add(this.pictureBox282);
+            this.tabPage50.Controls.Add(this.bangaloreJetpackcav);
+            this.tabPage50.Controls.Add(this.bangaloreJetpackao);
+            this.tabPage50.Controls.Add(this.bangaloreJetpackcol);
+            this.tabPage50.Controls.Add(this.bangaloreJetpacknorm);
+            this.tabPage50.Controls.Add(this.bangaloreJetpackgloss);
+            this.tabPage50.Controls.Add(this.bangaloreJetpackspec);
             resources.ApplyResources(this.tabPage50, "tabPage50");
             this.tabPage50.Name = "tabPage50";
             this.tabPage50.UseVisualStyleBackColor = true;
@@ -5445,53 +5508,83 @@
             resources.ApplyResources(this.label324, "label324");
             this.label324.Name = "label324";
             // 
-            // pictureBox277
+            // bangaloreJetpackcav
             // 
-            this.pictureBox277.AllowDrop = true;
-            this.pictureBox277.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox277, "pictureBox277");
-            this.pictureBox277.Name = "pictureBox277";
-            this.pictureBox277.TabStop = false;
+            this.bangaloreJetpackcav.AllowDrop = true;
+            this.bangaloreJetpackcav.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreJetpackcav, "bangaloreJetpackcav");
+            this.bangaloreJetpackcav.Name = "bangaloreJetpackcav";
+            this.bangaloreJetpackcav.TabStop = false;
+            this.bangaloreJetpackcav.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreJetpackcav.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreJetpackcav.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreJetpackcav.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreJetpackcav.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox278
+            // bangaloreJetpackao
             // 
-            this.pictureBox278.AllowDrop = true;
-            this.pictureBox278.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox278, "pictureBox278");
-            this.pictureBox278.Name = "pictureBox278";
-            this.pictureBox278.TabStop = false;
+            this.bangaloreJetpackao.AllowDrop = true;
+            this.bangaloreJetpackao.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreJetpackao, "bangaloreJetpackao");
+            this.bangaloreJetpackao.Name = "bangaloreJetpackao";
+            this.bangaloreJetpackao.TabStop = false;
+            this.bangaloreJetpackao.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreJetpackao.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreJetpackao.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreJetpackao.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreJetpackao.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox279
+            // bangaloreJetpackcol
             // 
-            this.pictureBox279.AllowDrop = true;
-            this.pictureBox279.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox279, "pictureBox279");
-            this.pictureBox279.Name = "pictureBox279";
-            this.pictureBox279.TabStop = false;
+            this.bangaloreJetpackcol.AllowDrop = true;
+            this.bangaloreJetpackcol.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreJetpackcol, "bangaloreJetpackcol");
+            this.bangaloreJetpackcol.Name = "bangaloreJetpackcol";
+            this.bangaloreJetpackcol.TabStop = false;
+            this.bangaloreJetpackcol.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreJetpackcol.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreJetpackcol.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreJetpackcol.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreJetpackcol.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox280
+            // bangaloreJetpacknorm
             // 
-            this.pictureBox280.AllowDrop = true;
-            this.pictureBox280.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox280, "pictureBox280");
-            this.pictureBox280.Name = "pictureBox280";
-            this.pictureBox280.TabStop = false;
+            this.bangaloreJetpacknorm.AllowDrop = true;
+            this.bangaloreJetpacknorm.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreJetpacknorm, "bangaloreJetpacknorm");
+            this.bangaloreJetpacknorm.Name = "bangaloreJetpacknorm";
+            this.bangaloreJetpacknorm.TabStop = false;
+            this.bangaloreJetpacknorm.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreJetpacknorm.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreJetpacknorm.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreJetpacknorm.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreJetpacknorm.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox281
+            // bangaloreJetpackgloss
             // 
-            this.pictureBox281.AllowDrop = true;
-            this.pictureBox281.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox281, "pictureBox281");
-            this.pictureBox281.Name = "pictureBox281";
-            this.pictureBox281.TabStop = false;
+            this.bangaloreJetpackgloss.AllowDrop = true;
+            this.bangaloreJetpackgloss.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreJetpackgloss, "bangaloreJetpackgloss");
+            this.bangaloreJetpackgloss.Name = "bangaloreJetpackgloss";
+            this.bangaloreJetpackgloss.TabStop = false;
+            this.bangaloreJetpackgloss.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreJetpackgloss.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreJetpackgloss.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreJetpackgloss.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreJetpackgloss.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox282
+            // bangaloreJetpackspec
             // 
-            this.pictureBox282.AllowDrop = true;
-            this.pictureBox282.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox282, "pictureBox282");
-            this.pictureBox282.Name = "pictureBox282";
-            this.pictureBox282.TabStop = false;
+            this.bangaloreJetpackspec.AllowDrop = true;
+            this.bangaloreJetpackspec.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreJetpackspec, "bangaloreJetpackspec");
+            this.bangaloreJetpackspec.Name = "bangaloreJetpackspec";
+            this.bangaloreJetpackspec.TabStop = false;
+            this.bangaloreJetpackspec.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreJetpackspec.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreJetpackspec.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreJetpackspec.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreJetpackspec.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // tabPage51
             // 
@@ -5501,12 +5594,12 @@
             this.tabPage51.Controls.Add(this.label328);
             this.tabPage51.Controls.Add(this.label329);
             this.tabPage51.Controls.Add(this.label330);
-            this.tabPage51.Controls.Add(this.pictureBox283);
-            this.tabPage51.Controls.Add(this.pictureBox284);
-            this.tabPage51.Controls.Add(this.pictureBox285);
-            this.tabPage51.Controls.Add(this.pictureBox286);
-            this.tabPage51.Controls.Add(this.pictureBox287);
-            this.tabPage51.Controls.Add(this.pictureBox288);
+            this.tabPage51.Controls.Add(this.bangaloreLaunchercav);
+            this.tabPage51.Controls.Add(this.bangaloreLauncherao);
+            this.tabPage51.Controls.Add(this.bangaloreLaunchercol);
+            this.tabPage51.Controls.Add(this.bangaloreLaunchernorm);
+            this.tabPage51.Controls.Add(this.bangaloreLaunchergloss);
+            this.tabPage51.Controls.Add(this.bangaloreLauncherspec);
             resources.ApplyResources(this.tabPage51, "tabPage51");
             this.tabPage51.Name = "tabPage51";
             this.tabPage51.UseVisualStyleBackColor = true;
@@ -5541,68 +5634,100 @@
             resources.ApplyResources(this.label330, "label330");
             this.label330.Name = "label330";
             // 
-            // pictureBox283
+            // bangaloreLaunchercav
             // 
-            this.pictureBox283.AllowDrop = true;
-            this.pictureBox283.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox283, "pictureBox283");
-            this.pictureBox283.Name = "pictureBox283";
-            this.pictureBox283.TabStop = false;
+            this.bangaloreLaunchercav.AllowDrop = true;
+            this.bangaloreLaunchercav.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreLaunchercav, "bangaloreLaunchercav");
+            this.bangaloreLaunchercav.Name = "bangaloreLaunchercav";
+            this.bangaloreLaunchercav.TabStop = false;
+            this.bangaloreLaunchercav.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreLaunchercav.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreLaunchercav.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreLaunchercav.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreLaunchercav.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox284
+            // bangaloreLauncherao
             // 
-            this.pictureBox284.AllowDrop = true;
-            this.pictureBox284.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox284, "pictureBox284");
-            this.pictureBox284.Name = "pictureBox284";
-            this.pictureBox284.TabStop = false;
+            this.bangaloreLauncherao.AllowDrop = true;
+            this.bangaloreLauncherao.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreLauncherao, "bangaloreLauncherao");
+            this.bangaloreLauncherao.Name = "bangaloreLauncherao";
+            this.bangaloreLauncherao.TabStop = false;
+            this.bangaloreLauncherao.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreLauncherao.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreLauncherao.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreLauncherao.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreLauncherao.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox285
+            // bangaloreLaunchercol
             // 
-            this.pictureBox285.AllowDrop = true;
-            this.pictureBox285.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox285, "pictureBox285");
-            this.pictureBox285.Name = "pictureBox285";
-            this.pictureBox285.TabStop = false;
+            this.bangaloreLaunchercol.AllowDrop = true;
+            this.bangaloreLaunchercol.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreLaunchercol, "bangaloreLaunchercol");
+            this.bangaloreLaunchercol.Name = "bangaloreLaunchercol";
+            this.bangaloreLaunchercol.TabStop = false;
+            this.bangaloreLaunchercol.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreLaunchercol.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreLaunchercol.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreLaunchercol.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreLaunchercol.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox286
+            // bangaloreLaunchernorm
             // 
-            this.pictureBox286.AllowDrop = true;
-            this.pictureBox286.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox286, "pictureBox286");
-            this.pictureBox286.Name = "pictureBox286";
-            this.pictureBox286.TabStop = false;
+            this.bangaloreLaunchernorm.AllowDrop = true;
+            this.bangaloreLaunchernorm.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreLaunchernorm, "bangaloreLaunchernorm");
+            this.bangaloreLaunchernorm.Name = "bangaloreLaunchernorm";
+            this.bangaloreLaunchernorm.TabStop = false;
+            this.bangaloreLaunchernorm.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreLaunchernorm.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreLaunchernorm.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreLaunchernorm.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreLaunchernorm.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox287
+            // bangaloreLaunchergloss
             // 
-            this.pictureBox287.AllowDrop = true;
-            this.pictureBox287.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox287, "pictureBox287");
-            this.pictureBox287.Name = "pictureBox287";
-            this.pictureBox287.TabStop = false;
+            this.bangaloreLaunchergloss.AllowDrop = true;
+            this.bangaloreLaunchergloss.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreLaunchergloss, "bangaloreLaunchergloss");
+            this.bangaloreLaunchergloss.Name = "bangaloreLaunchergloss";
+            this.bangaloreLaunchergloss.TabStop = false;
+            this.bangaloreLaunchergloss.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreLaunchergloss.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreLaunchergloss.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreLaunchergloss.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreLaunchergloss.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox288
+            // bangaloreLauncherspec
             // 
-            this.pictureBox288.AllowDrop = true;
-            this.pictureBox288.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox288, "pictureBox288");
-            this.pictureBox288.Name = "pictureBox288";
-            this.pictureBox288.TabStop = false;
+            this.bangaloreLauncherspec.AllowDrop = true;
+            this.bangaloreLauncherspec.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreLauncherspec, "bangaloreLauncherspec");
+            this.bangaloreLauncherspec.Name = "bangaloreLauncherspec";
+            this.bangaloreLauncherspec.TabStop = false;
+            this.bangaloreLauncherspec.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreLauncherspec.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreLauncherspec.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreLauncherspec.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreLauncherspec.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // tabPage52
             // 
+            this.tabPage52.Controls.Add(this.label27);
+            this.tabPage52.Controls.Add(this.bangaloreGasCannisterilm);
             this.tabPage52.Controls.Add(this.label331);
             this.tabPage52.Controls.Add(this.label332);
             this.tabPage52.Controls.Add(this.label333);
             this.tabPage52.Controls.Add(this.label334);
             this.tabPage52.Controls.Add(this.label335);
             this.tabPage52.Controls.Add(this.label336);
-            this.tabPage52.Controls.Add(this.pictureBox289);
-            this.tabPage52.Controls.Add(this.pictureBox290);
-            this.tabPage52.Controls.Add(this.pictureBox291);
-            this.tabPage52.Controls.Add(this.pictureBox292);
-            this.tabPage52.Controls.Add(this.pictureBox293);
-            this.tabPage52.Controls.Add(this.pictureBox294);
+            this.tabPage52.Controls.Add(this.bangaloreGasCannistercav);
+            this.tabPage52.Controls.Add(this.bangaloreGasCannisterao);
+            this.tabPage52.Controls.Add(this.bangaloreGasCannistercol);
+            this.tabPage52.Controls.Add(this.bangaloreGasCannisternorm);
+            this.tabPage52.Controls.Add(this.bangaloreGasCannistergloss);
+            this.tabPage52.Controls.Add(this.bangaloreGasCannisterspec);
             resources.ApplyResources(this.tabPage52, "tabPage52");
             this.tabPage52.Name = "tabPage52";
             this.tabPage52.UseVisualStyleBackColor = true;
@@ -5637,53 +5762,83 @@
             resources.ApplyResources(this.label336, "label336");
             this.label336.Name = "label336";
             // 
-            // pictureBox289
+            // bangaloreGasCannistercav
             // 
-            this.pictureBox289.AllowDrop = true;
-            this.pictureBox289.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox289, "pictureBox289");
-            this.pictureBox289.Name = "pictureBox289";
-            this.pictureBox289.TabStop = false;
+            this.bangaloreGasCannistercav.AllowDrop = true;
+            this.bangaloreGasCannistercav.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreGasCannistercav, "bangaloreGasCannistercav");
+            this.bangaloreGasCannistercav.Name = "bangaloreGasCannistercav";
+            this.bangaloreGasCannistercav.TabStop = false;
+            this.bangaloreGasCannistercav.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreGasCannistercav.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreGasCannistercav.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreGasCannistercav.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreGasCannistercav.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox290
+            // bangaloreGasCannisterao
             // 
-            this.pictureBox290.AllowDrop = true;
-            this.pictureBox290.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox290, "pictureBox290");
-            this.pictureBox290.Name = "pictureBox290";
-            this.pictureBox290.TabStop = false;
+            this.bangaloreGasCannisterao.AllowDrop = true;
+            this.bangaloreGasCannisterao.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreGasCannisterao, "bangaloreGasCannisterao");
+            this.bangaloreGasCannisterao.Name = "bangaloreGasCannisterao";
+            this.bangaloreGasCannisterao.TabStop = false;
+            this.bangaloreGasCannisterao.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreGasCannisterao.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreGasCannisterao.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreGasCannisterao.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreGasCannisterao.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox291
+            // bangaloreGasCannistercol
             // 
-            this.pictureBox291.AllowDrop = true;
-            this.pictureBox291.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox291, "pictureBox291");
-            this.pictureBox291.Name = "pictureBox291";
-            this.pictureBox291.TabStop = false;
+            this.bangaloreGasCannistercol.AllowDrop = true;
+            this.bangaloreGasCannistercol.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreGasCannistercol, "bangaloreGasCannistercol");
+            this.bangaloreGasCannistercol.Name = "bangaloreGasCannistercol";
+            this.bangaloreGasCannistercol.TabStop = false;
+            this.bangaloreGasCannistercol.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreGasCannistercol.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreGasCannistercol.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreGasCannistercol.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreGasCannistercol.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox292
+            // bangaloreGasCannisternorm
             // 
-            this.pictureBox292.AllowDrop = true;
-            this.pictureBox292.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox292, "pictureBox292");
-            this.pictureBox292.Name = "pictureBox292";
-            this.pictureBox292.TabStop = false;
+            this.bangaloreGasCannisternorm.AllowDrop = true;
+            this.bangaloreGasCannisternorm.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreGasCannisternorm, "bangaloreGasCannisternorm");
+            this.bangaloreGasCannisternorm.Name = "bangaloreGasCannisternorm";
+            this.bangaloreGasCannisternorm.TabStop = false;
+            this.bangaloreGasCannisternorm.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreGasCannisternorm.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreGasCannisternorm.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreGasCannisternorm.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreGasCannisternorm.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox293
+            // bangaloreGasCannistergloss
             // 
-            this.pictureBox293.AllowDrop = true;
-            this.pictureBox293.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox293, "pictureBox293");
-            this.pictureBox293.Name = "pictureBox293";
-            this.pictureBox293.TabStop = false;
+            this.bangaloreGasCannistergloss.AllowDrop = true;
+            this.bangaloreGasCannistergloss.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreGasCannistergloss, "bangaloreGasCannistergloss");
+            this.bangaloreGasCannistergloss.Name = "bangaloreGasCannistergloss";
+            this.bangaloreGasCannistergloss.TabStop = false;
+            this.bangaloreGasCannistergloss.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreGasCannistergloss.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreGasCannistergloss.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreGasCannistergloss.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreGasCannistergloss.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox294
+            // bangaloreGasCannisterspec
             // 
-            this.pictureBox294.AllowDrop = true;
-            this.pictureBox294.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox294, "pictureBox294");
-            this.pictureBox294.Name = "pictureBox294";
-            this.pictureBox294.TabStop = false;
+            this.bangaloreGasCannisterspec.AllowDrop = true;
+            this.bangaloreGasCannisterspec.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreGasCannisterspec, "bangaloreGasCannisterspec");
+            this.bangaloreGasCannisterspec.Name = "bangaloreGasCannisterspec";
+            this.bangaloreGasCannisterspec.TabStop = false;
+            this.bangaloreGasCannisterspec.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreGasCannisterspec.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreGasCannisterspec.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreGasCannisterspec.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreGasCannisterspec.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // tabPage53
             // 
@@ -5693,12 +5848,12 @@
             this.tabPage53.Controls.Add(this.label340);
             this.tabPage53.Controls.Add(this.label341);
             this.tabPage53.Controls.Add(this.label342);
-            this.tabPage53.Controls.Add(this.pictureBox295);
-            this.tabPage53.Controls.Add(this.pictureBox296);
-            this.tabPage53.Controls.Add(this.pictureBox297);
-            this.tabPage53.Controls.Add(this.pictureBox298);
-            this.tabPage53.Controls.Add(this.pictureBox299);
-            this.tabPage53.Controls.Add(this.pictureBox300);
+            this.tabPage53.Controls.Add(this.bangaloreVMcav);
+            this.tabPage53.Controls.Add(this.bangaloreVMao);
+            this.tabPage53.Controls.Add(this.bangaloreVMcol);
+            this.tabPage53.Controls.Add(this.bangaloreVMnorm);
+            this.tabPage53.Controls.Add(this.bangaloreVMgloss);
+            this.tabPage53.Controls.Add(this.bangaloreVMspec);
             resources.ApplyResources(this.tabPage53, "tabPage53");
             this.tabPage53.Name = "tabPage53";
             this.tabPage53.UseVisualStyleBackColor = true;
@@ -5733,53 +5888,83 @@
             resources.ApplyResources(this.label342, "label342");
             this.label342.Name = "label342";
             // 
-            // pictureBox295
+            // bangaloreVMcav
             // 
-            this.pictureBox295.AllowDrop = true;
-            this.pictureBox295.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox295, "pictureBox295");
-            this.pictureBox295.Name = "pictureBox295";
-            this.pictureBox295.TabStop = false;
+            this.bangaloreVMcav.AllowDrop = true;
+            this.bangaloreVMcav.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreVMcav, "bangaloreVMcav");
+            this.bangaloreVMcav.Name = "bangaloreVMcav";
+            this.bangaloreVMcav.TabStop = false;
+            this.bangaloreVMcav.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreVMcav.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreVMcav.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreVMcav.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreVMcav.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox296
+            // bangaloreVMao
             // 
-            this.pictureBox296.AllowDrop = true;
-            this.pictureBox296.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox296, "pictureBox296");
-            this.pictureBox296.Name = "pictureBox296";
-            this.pictureBox296.TabStop = false;
+            this.bangaloreVMao.AllowDrop = true;
+            this.bangaloreVMao.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreVMao, "bangaloreVMao");
+            this.bangaloreVMao.Name = "bangaloreVMao";
+            this.bangaloreVMao.TabStop = false;
+            this.bangaloreVMao.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreVMao.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreVMao.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreVMao.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreVMao.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox297
+            // bangaloreVMcol
             // 
-            this.pictureBox297.AllowDrop = true;
-            this.pictureBox297.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox297, "pictureBox297");
-            this.pictureBox297.Name = "pictureBox297";
-            this.pictureBox297.TabStop = false;
+            this.bangaloreVMcol.AllowDrop = true;
+            this.bangaloreVMcol.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreVMcol, "bangaloreVMcol");
+            this.bangaloreVMcol.Name = "bangaloreVMcol";
+            this.bangaloreVMcol.TabStop = false;
+            this.bangaloreVMcol.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreVMcol.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreVMcol.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreVMcol.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreVMcol.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox298
+            // bangaloreVMnorm
             // 
-            this.pictureBox298.AllowDrop = true;
-            this.pictureBox298.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox298, "pictureBox298");
-            this.pictureBox298.Name = "pictureBox298";
-            this.pictureBox298.TabStop = false;
+            this.bangaloreVMnorm.AllowDrop = true;
+            this.bangaloreVMnorm.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreVMnorm, "bangaloreVMnorm");
+            this.bangaloreVMnorm.Name = "bangaloreVMnorm";
+            this.bangaloreVMnorm.TabStop = false;
+            this.bangaloreVMnorm.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreVMnorm.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreVMnorm.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreVMnorm.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreVMnorm.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox299
+            // bangaloreVMgloss
             // 
-            this.pictureBox299.AllowDrop = true;
-            this.pictureBox299.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox299, "pictureBox299");
-            this.pictureBox299.Name = "pictureBox299";
-            this.pictureBox299.TabStop = false;
+            this.bangaloreVMgloss.AllowDrop = true;
+            this.bangaloreVMgloss.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreVMgloss, "bangaloreVMgloss");
+            this.bangaloreVMgloss.Name = "bangaloreVMgloss";
+            this.bangaloreVMgloss.TabStop = false;
+            this.bangaloreVMgloss.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreVMgloss.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreVMgloss.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreVMgloss.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreVMgloss.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
-            // pictureBox300
+            // bangaloreVMspec
             // 
-            this.pictureBox300.AllowDrop = true;
-            this.pictureBox300.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            resources.ApplyResources(this.pictureBox300, "pictureBox300");
-            this.pictureBox300.Name = "pictureBox300";
-            this.pictureBox300.TabStop = false;
+            this.bangaloreVMspec.AllowDrop = true;
+            this.bangaloreVMspec.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreVMspec, "bangaloreVMspec");
+            this.bangaloreVMspec.Name = "bangaloreVMspec";
+            this.bangaloreVMspec.TabStop = false;
+            this.bangaloreVMspec.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreVMspec.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreVMspec.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreVMspec.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreVMspec.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
             // 
             // CaustictabPage
             // 
@@ -8384,6 +8569,24 @@
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
+            // label27
+            // 
+            resources.ApplyResources(this.label27, "label27");
+            this.label27.Name = "label27";
+            // 
+            // bangaloreGasCannisterilm
+            // 
+            this.bangaloreGasCannisterilm.AllowDrop = true;
+            this.bangaloreGasCannisterilm.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            resources.ApplyResources(this.bangaloreGasCannisterilm, "bangaloreGasCannisterilm");
+            this.bangaloreGasCannisterilm.Name = "bangaloreGasCannisterilm";
+            this.bangaloreGasCannisterilm.TabStop = false;
+            this.bangaloreGasCannisterilm.Click += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreGasCannisterilm.DragDrop += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragDrop);
+            this.bangaloreGasCannisterilm.DragEnter += new System.Windows.Forms.DragEventHandler(this.texturePictureBox_DragEnter);
+            this.bangaloreGasCannisterilm.DoubleClick += new System.EventHandler(this.texturePictureBox_NClick);
+            this.bangaloreGasCannisterilm.MouseEnter += new System.EventHandler(this.texturePictureBox_MouseEnter);
+            // 
             // LegendSkinPackMakerWindow
             // 
             resources.ApplyResources(this, "$this");
@@ -8692,52 +8895,52 @@
             this.tabControl8.ResumeLayout(false);
             this.tabPage6.ResumeLayout(false);
             this.tabPage6.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox253)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox254)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox255)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox256)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox257)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox258)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreBodycav)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreBodyao)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreBodycol)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreBodynorm)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreBodygloss)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreBodyspec)).EndInit();
             this.tabPage47.ResumeLayout(false);
             this.tabPage47.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox259)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox260)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox261)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox262)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox263)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox264)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreGauntletcav)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreGauntletao)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreGauntletcol)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreGauntletnorm)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreGauntletgloss)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreGauntletspec)).EndInit();
             this.tabPage50.ResumeLayout(false);
             this.tabPage50.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox277)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox278)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox279)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox280)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox281)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox282)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreJetpackcav)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreJetpackao)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreJetpackcol)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreJetpacknorm)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreJetpackgloss)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreJetpackspec)).EndInit();
             this.tabPage51.ResumeLayout(false);
             this.tabPage51.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox283)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox284)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox285)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox286)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox287)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox288)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreLaunchercav)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreLauncherao)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreLaunchercol)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreLaunchernorm)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreLaunchergloss)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreLauncherspec)).EndInit();
             this.tabPage52.ResumeLayout(false);
             this.tabPage52.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox289)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox290)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox291)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox292)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox293)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox294)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreGasCannistercav)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreGasCannisterao)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreGasCannistercol)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreGasCannisternorm)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreGasCannistergloss)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreGasCannisterspec)).EndInit();
             this.tabPage53.ResumeLayout(false);
             this.tabPage53.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox295)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox296)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox297)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox298)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox299)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox300)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreVMcav)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreVMao)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreVMcol)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreVMnorm)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreVMgloss)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreVMspec)).EndInit();
             this.CaustictabPage.ResumeLayout(false);
             this.tabControl9.ResumeLayout(false);
             this.tabPage7.ResumeLayout(false);
@@ -8943,6 +9146,7 @@
             this.CryptotabPage.ResumeLayout(false);
             this.tabControl13.ResumeLayout(false);
             this.tabControl4.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.bangaloreGasCannisterilm)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -9513,12 +9717,12 @@
         private System.Windows.Forms.Label label298;
         private System.Windows.Forms.Label label299;
         private System.Windows.Forms.Label label300;
-        private System.Windows.Forms.PictureBox pictureBox253;
-        private System.Windows.Forms.PictureBox pictureBox254;
-        private System.Windows.Forms.PictureBox pictureBox255;
-        private System.Windows.Forms.PictureBox pictureBox256;
-        private System.Windows.Forms.PictureBox pictureBox257;
-        private System.Windows.Forms.PictureBox pictureBox258;
+        private System.Windows.Forms.PictureBox bangaloreBodycav;
+        private System.Windows.Forms.PictureBox bangaloreBodyao;
+        private System.Windows.Forms.PictureBox bangaloreBodycol;
+        private System.Windows.Forms.PictureBox bangaloreBodynorm;
+        private System.Windows.Forms.PictureBox bangaloreBodygloss;
+        private System.Windows.Forms.PictureBox bangaloreBodyspec;
         private System.Windows.Forms.TabPage tabPage47;
         private System.Windows.Forms.Label label301;
         private System.Windows.Forms.Label label302;
@@ -9526,12 +9730,12 @@
         private System.Windows.Forms.Label label304;
         private System.Windows.Forms.Label label305;
         private System.Windows.Forms.Label label306;
-        private System.Windows.Forms.PictureBox pictureBox259;
-        private System.Windows.Forms.PictureBox pictureBox260;
-        private System.Windows.Forms.PictureBox pictureBox261;
-        private System.Windows.Forms.PictureBox pictureBox262;
-        private System.Windows.Forms.PictureBox pictureBox263;
-        private System.Windows.Forms.PictureBox pictureBox264;
+        private System.Windows.Forms.PictureBox bangaloreGauntletcav;
+        private System.Windows.Forms.PictureBox bangaloreGauntletao;
+        private System.Windows.Forms.PictureBox bangaloreGauntletcol;
+        private System.Windows.Forms.PictureBox bangaloreGauntletnorm;
+        private System.Windows.Forms.PictureBox bangaloreGauntletgloss;
+        private System.Windows.Forms.PictureBox bangaloreGauntletspec;
         private System.Windows.Forms.TabPage tabPage50;
         private System.Windows.Forms.Label label319;
         private System.Windows.Forms.Label label320;
@@ -9539,12 +9743,12 @@
         private System.Windows.Forms.Label label322;
         private System.Windows.Forms.Label label323;
         private System.Windows.Forms.Label label324;
-        private System.Windows.Forms.PictureBox pictureBox277;
-        private System.Windows.Forms.PictureBox pictureBox278;
-        private System.Windows.Forms.PictureBox pictureBox279;
-        private System.Windows.Forms.PictureBox pictureBox280;
-        private System.Windows.Forms.PictureBox pictureBox281;
-        private System.Windows.Forms.PictureBox pictureBox282;
+        private System.Windows.Forms.PictureBox bangaloreJetpackcav;
+        private System.Windows.Forms.PictureBox bangaloreJetpackao;
+        private System.Windows.Forms.PictureBox bangaloreJetpackcol;
+        private System.Windows.Forms.PictureBox bangaloreJetpacknorm;
+        private System.Windows.Forms.PictureBox bangaloreJetpackgloss;
+        private System.Windows.Forms.PictureBox bangaloreJetpackspec;
         private System.Windows.Forms.TabPage tabPage51;
         private System.Windows.Forms.Label label325;
         private System.Windows.Forms.Label label326;
@@ -9552,12 +9756,12 @@
         private System.Windows.Forms.Label label328;
         private System.Windows.Forms.Label label329;
         private System.Windows.Forms.Label label330;
-        private System.Windows.Forms.PictureBox pictureBox283;
-        private System.Windows.Forms.PictureBox pictureBox284;
-        private System.Windows.Forms.PictureBox pictureBox285;
-        private System.Windows.Forms.PictureBox pictureBox286;
-        private System.Windows.Forms.PictureBox pictureBox287;
-        private System.Windows.Forms.PictureBox pictureBox288;
+        private System.Windows.Forms.PictureBox bangaloreLaunchercav;
+        private System.Windows.Forms.PictureBox bangaloreLauncherao;
+        private System.Windows.Forms.PictureBox bangaloreLaunchercol;
+        private System.Windows.Forms.PictureBox bangaloreLaunchernorm;
+        private System.Windows.Forms.PictureBox bangaloreLaunchergloss;
+        private System.Windows.Forms.PictureBox bangaloreLauncherspec;
         private System.Windows.Forms.TabPage tabPage52;
         private System.Windows.Forms.Label label331;
         private System.Windows.Forms.Label label332;
@@ -9565,12 +9769,12 @@
         private System.Windows.Forms.Label label334;
         private System.Windows.Forms.Label label335;
         private System.Windows.Forms.Label label336;
-        private System.Windows.Forms.PictureBox pictureBox289;
-        private System.Windows.Forms.PictureBox pictureBox290;
-        private System.Windows.Forms.PictureBox pictureBox291;
-        private System.Windows.Forms.PictureBox pictureBox292;
-        private System.Windows.Forms.PictureBox pictureBox293;
-        private System.Windows.Forms.PictureBox pictureBox294;
+        private System.Windows.Forms.PictureBox bangaloreGasCannistercav;
+        private System.Windows.Forms.PictureBox bangaloreGasCannisterao;
+        private System.Windows.Forms.PictureBox bangaloreGasCannistercol;
+        private System.Windows.Forms.PictureBox bangaloreGasCannisternorm;
+        private System.Windows.Forms.PictureBox bangaloreGasCannistergloss;
+        private System.Windows.Forms.PictureBox bangaloreGasCannisterspec;
         private System.Windows.Forms.TabPage tabPage53;
         private System.Windows.Forms.Label label337;
         private System.Windows.Forms.Label label338;
@@ -9578,12 +9782,12 @@
         private System.Windows.Forms.Label label340;
         private System.Windows.Forms.Label label341;
         private System.Windows.Forms.Label label342;
-        private System.Windows.Forms.PictureBox pictureBox295;
-        private System.Windows.Forms.PictureBox pictureBox296;
-        private System.Windows.Forms.PictureBox pictureBox297;
-        private System.Windows.Forms.PictureBox pictureBox298;
-        private System.Windows.Forms.PictureBox pictureBox299;
-        private System.Windows.Forms.PictureBox pictureBox300;
+        private System.Windows.Forms.PictureBox bangaloreVMcav;
+        private System.Windows.Forms.PictureBox bangaloreVMao;
+        private System.Windows.Forms.PictureBox bangaloreVMcol;
+        private System.Windows.Forms.PictureBox bangaloreVMnorm;
+        private System.Windows.Forms.PictureBox bangaloreVMgloss;
+        private System.Windows.Forms.PictureBox bangaloreVMspec;
         private System.Windows.Forms.Label label343;
         private System.Windows.Forms.Label label344;
         private System.Windows.Forms.Label label345;
@@ -9837,5 +10041,7 @@
         private System.Windows.Forms.PictureBox bloodGearilm;
         private System.Windows.Forms.Label label482;
         private System.Windows.Forms.PictureBox wattVMilm;
+        private System.Windows.Forms.Label label27;
+        private System.Windows.Forms.PictureBox bangaloreGasCannisterilm;
     }
 }
